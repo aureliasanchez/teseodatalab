@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-f-commission.com	TRUE	/	FALSE	1999999999	PHPSESSID	10dd995b818218225c4a010f8bfc71d2
-
