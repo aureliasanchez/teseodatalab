@@ -6,75 +6,56 @@
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
 <head>
-	<!-- Google Tag Manager -->
-	<script>(function (w, d, s, l, i) {
-			w[l] = w[l] || []; w[l].push({
-				'gtm.start':
-					new Date().getTime(), event: 'gtm.js'
-			}); var f = d.getElementsByTagName(s)[0],
-				j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-					'../www.googletagmanager.com/gtm5445.html?id=' + i + dl; f.parentNode.insertBefore(j, f);
-		})(window, document, 'script', 'dataLayer', 'GTM-P9GDZFD');</script>
-	<!-- End Google Tag Manager -->
+	<!-- Script -->
+	<script>
+		(function(w, d, s, l, i) {
+			w[l] = w[l] || [];
+			w[l].push({
+				'gtm.start': new Date().getTime(),
+				event: 'gtm.js'
+			});
+			var f = d.getElementsByTagName(s)[0],
+				j = d.createElement(s),
+				dl = l != 'dataLayer' ? '&l=' + l : '';
+			j.async = true;
+			j.src =
+				'../www.googletagmanager.com/gtm5445.html?id=' + i + dl;
+			f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-P9GDZFD');
+	</script>
+	<script src="./asset/js/webfont.js" async></script>
+	<script src="./asset/js/common71c5.js" defer></script>
+	<script src="./asset/js/indexccb0.js" defer></script>
+	<script type="application/ld+json"> </script>
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P9GDZFD" height="0" width="0"
+			style="display:none;visibility:hidden"></iframe></noscript>
+
+	<!-- Meta -->
 	<meta charset="utf-8">
-	<title>株式会社FULLCOMMISSION｜株式会社フルコミッション</title>
-	<link href="./asset/css/common1571.css" rel="stylesheet">
-	<link href="./asset/css/index83e0.css" rel="stylesheet">
-	<link rel="canonical" href="index.html">
-	<link rel="icon" href="./asset/img/repetidas/favicon.ico">
 	<meta name="description"
 		content="北海道札幌市で不動産企画開発事業を行う株式会社フルコミッションのWEBサイト。どんな人がはたらいているのか / どんな価値観のチームなのか / どんな夢を描いているのか / 自分たちでやってきたこと / 自分たちがつくったもの / 自分たちがやっていくこと を紹介。">
 	<meta property="og:title" content="株式会社FULLCOMMISSION｜株式会社フルコミッション">
 	<meta property="og:description"
 		content="北海道札幌市で不動産企画開発事業を行う株式会社フルコミッションのWEBサイト。どんな人がはたらいているのか / どんな価値観のチームなのか / どんな夢を描いているのか / 自分たちでやってきたこと / 自分たちがつくったもの / 自分たちがやっていくこと を紹介。">
 	<meta property="og:url" content="https://f-commission.com/">
-	<meta property="og:image" content="https://asset/img/pages/index/common/img/ogimage.png">
+	<meta property="og:image" content="https://asset/img/pages/index/ogimage.png">
 	<meta name="twitter:card" content="summary">
 	<meta name="viewport" content="width=device-width,viewport-fit=cover">
 	<meta name="format-detection" content="telephone=no, email=no, address=no">
 	<meta name="skype_toolbar" content="skype_toolbar_parser_compatible">
-	<script src="./asset/js/webfont.js" async></script>
-	<script src="./asset/js/common71c5.js" defer></script>
-	<script src="./asset/js/indexccb0.js" defer></script>
-	<script type="application/ld+json">
-</script>
+
+	<!-- Link -->
+	<link href="./asset/css/common1571.css" rel="stylesheet">
+	<link href="./asset/css/index83e0.css" rel="stylesheet">
+	<link rel="canonical" href="index.html">
+
+	<link rel="icon" href="./asset/img/repetidas/favicon.ico">
+	<title>株式会社FULLCOMMISSION｜株式会社フルコミッション</title>
 </head>
 
 <body id="Pagetop" class="page_top __opening">
-	<!-- Google Tag Manager (noscript) -->
-	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P9GDZFD" height="0" width="0"
-			style="display:none;visibility:hidden"></iframe></noscript>
-	<!-- End Google Tag Manager (noscript) -->
-	<header class="mod_header">
-		<div class="logo_wrap">
-			<h1> <a href="#Pagetop" class="logo _pc-pd40 _sp-pd20">
-					<picture>
-						<source srcset="./asset/img/repetidas/header-logo_sp.png" width="364" height="40"
-							media="(max-width:640px)">
-						<img src="./asset/img/repetidas/header-logo_pc.png" width="276" height="32" alt="株式会社FULLCOMMISSION"
-							loading="lazy">
-					</picture>
-				</a>
-			</h1>
-		</div>
 
-		<nav class="nav_wrap _f-futura_m _pc-pd40">
-			<ul class="main_nav">
-				<li><a href="./index.html"><span>TOP</span></a></li>
-				<li><a href="./pages/servicio.html"><span>SERVICIOS</span></a></li>
-				<li><a href="./pages/blog.html"><span>BLOG</span></a></li>
-				<li><a href="./pages/portafolio.html"><span>PORTAFOLIO</span></a></li>
-				<li><a href="./pages/nosotros.html"><span>NOSOTROS</span></a></li>
-				<li><a href="./pages/contacto.html"><span>CONTACTO</span></a></li>
-				<li><a href="./index.html"><span>INICIO</span></a></li>
-				<li><a href="./pages/equipo.html"><span>EQUIPO</span></a></li>
-			</ul><!-- /.main_nav -->
-			<p class="nav-privacy byyard"><a href="https://www.byyard.jp/" target="_blank" data-sc-sp><span>札幌のシェアオフィス
-						BYYARD</span></a></p>
-			<p class="nav-privacy" data-sc-sp><a href="./privacy/index.html">PRIVACY POLICY</a></p>
-		</nav>
-
-	</header>
+	<?php include './asset/html/header.html'; ?>
 
 	<button class="mod_spNav_btn" id="SPMenuBtn" data-sc-sp><i></i></button>
 
@@ -82,7 +63,7 @@
 
 		<div class="opening" aria-hidden="true">
 			<div class="opening-imgs">
-				<div class="img"><img src="./asset/img/pages/index/otras/opening-img01.png" width="600" height="68" alt="FULLCOMMISSION">
+				<div class="img"><img src="./asset/img/pages/index/opening-img01.png" width="600" height="68" alt="FULLCOMMISSION">
 				</div>
 			</div>
 		</div>
@@ -107,7 +88,8 @@
 				</div>
 				<div class="mainvisual-catch">
 					<p class="catch-en _f-futura_m _futura-lh1 _futura-nm __inview-text01" data-pararax01-text01=".4">
-						<span class="__inview-span01">PROJECTS</span></p>
+						<span class="__inview-span01">PROJECTS</span>
+					</p>
 					<p class="catch-ja __inview-text01" data-pararax01-text01=".4">
 						<span class="__pc-inview-span01">
 							<span class="__sp-inview-span01">AI Inmobiliario /&nbsp;</span>
@@ -187,9 +169,9 @@
 						data-pararax01>
 						<div class="project-img of _link-img01 __inview-img01 __inview-img01" data-pararax01-img01="0">
 							<picture>
-								<source srcset="./asset/img/pages/index/uploads/2023/PANA1201.jpg" width="750" height="500"
+								<source srcset="./asset/img/repetidas/PANA1201.jpg" width="750" height="500"
 									media="(max-width:640px)">
-								<img src="./asset/img/pages/index/uploads/2023/PANA1201.jpg" width="1500" height="1000"
+								<img src="./asset/img/pages/index/PANA1201.jpg" width="1500" height="1000"
 									alt="札幌シェアオフィスBYYARD" loading="lazy">
 							</picture>
 						</div>
@@ -212,9 +194,9 @@
 						class="_link-block01 _pc-pd40" data-pararax01>
 						<div class="project-img of _link-img01 __inview-img01 __inview-img01" data-pararax01-img01="0">
 							<picture>
-								<source srcset="https://asset/img/pages/index/uploads/2021/S5A9918-Editar-1024x683.jpg" width="750"
+								<source srcset="https://asset/img/repetidas/S5A9918-Editar-1024x683.jpg" width="750"
 									height="500" media="(max-width:640px)">
-								<img src="./asset/img/pages/index/uploads/2021/S5A9918-Editar-1024x683.jpg" width="2560"
+								<img src="./asset/img/repetidas/S5A9918-Editar-1024x683.jpg" width="2560"
 									height="1212" alt="TentoTen 07 Puerto Vallarta" loading="lazy">
 							</picture>
 						</div>
@@ -239,9 +221,9 @@
 						class="_link-block01 _pc-pd40" data-pararax01>
 						<div class="project-img of _link-img01 __inview-img01 __inview-img01" data-pararax01-img01="0">
 							<picture>
-								<source srcset="https://asset/img/pages/index/uploads/2021/fc-pro-top-sp-02.jpg" width="750"
+								<source srcset="https://asset/img/pages/index/fc-pro-top-sp-02.jpg" width="750"
 									height="500" media="(max-width:640px)">
-								<img src="./asset/img/pages/index/uploads/2021/fc-pro-top-pc-02.jpg" width="1440" height="580"
+								<img src="./asset/img/repetidas/fc-pro-top-pc-02.jpg" width="1440" height="580"
 									alt="札幌リノベーションスタジオ" loading="lazy">
 							</picture>
 						</div>
@@ -265,9 +247,9 @@
 						class="_link-block01 _pc-pd40" data-pararax01>
 						<div class="project-img of _link-img01 __inview-img01 __inview-img01" data-pararax01-img01="0">
 							<picture>
-								<source srcset="https://asset/img/pages/index/uploads/2021/fc-pro-top-sp-01.jpg" width="750"
+								<source srcset="https://asset/img/pages/index/fc-pro-top-sp-01.jpg" width="750"
 									height="500" media="(max-width:640px)">
-								<img src="./asset/img/pages/index/uploads/2021/fc-pro-top-pc-01.jpg" width="1440" height="580"
+								<img src="./asset/img/pages/index/fc-pro-top-pc-01.jpg" width="1440" height="580"
 									alt="TentoTen 10 Sapporo Station" loading="lazy">
 							</picture>
 						</div>
@@ -291,9 +273,9 @@
 						class="_link-block01 _pc-pd40" data-pararax01>
 						<div class="project-img of _link-img01 __inview-img01 __inview-img01" data-pararax01-img01="0">
 							<picture>
-								<source srcset="https://asset/img/pages/index/uploads/2021/fc-pro-top-sp-03-2.jpg" width="750"
+								<source srcset="https://asset/img/pages/index/fc-pro-top-sp-03-2.jpg" width="750"
 									height="500" media="(max-width:640px)">
-								<img src="./asset/img/pages/index/uploads/2021/fc-pro-top-pc-03-2.jpg" width="1440" height="580"
+								<img src="./asset/img/repetidas/fc-pro-top-pc-03-2.jpg" width="1440" height="580"
 									alt="Smarthotel Kutchan" loading="lazy">
 							</picture>
 						</div>
@@ -317,9 +299,9 @@
 						data-pararax01>
 						<div class="project-img of _link-img01 __inview-img01 __inview-img01" data-pararax01-img01="0">
 							<picture>
-								<source srcset="https://asset/img/pages/index/uploads/2021/fc-pro-top-sp-03-1.jpg" width="750"
+								<source srcset="https://asset/img/pages/index/fc-pro-top-sp-03-1.jpg" width="750"
 									height="500" media="(max-width:640px)">
-								<img src="./asset/img/pages/index/uploads/2021/fc-pro-top-pc-07.jpg" width="1440" height="580"
+								<img src="./asset/img/repetidas/fc-pro-top-pc-07.jpg" width="1440" height="580"
 									alt="TentoTen Apartment Maruyama" loading="lazy">
 							</picture>
 						</div>
@@ -344,9 +326,9 @@
 						<div class="project-img of _link-img01 __inview-img01 __inview-img01" data-pararax01-img01="0">
 							<picture>
 								<source
-									srcset="https://asset/img/pages/index/uploads/2021/66347677_865766737430833_2539083542300780576_n-scaled.jpg"
+									srcset="https://asset/img/pages/index/66347677_865766737430833_2539083542300780576_n-scaled.jpg"
 									width="750" height="500" media="(max-width:640px)">
-								<img src="./asset/img/pages/index/uploads/2021/ugan-scaled.jpg" width="2560" height="1411"
+								<img src="./asset/img/pages/index/ugan-scaled.jpg" width="2560" height="1411"
 									alt="OM HOSTEL BUNYONYI" loading="lazy">
 							</picture>
 						</div>
@@ -368,9 +350,9 @@
 						class="_link-block01 _pc-pd40" data-pararax01>
 						<div class="project-img of _link-img01 __inview-img01 __inview-img01" data-pararax01-img01="0">
 							<picture>
-								<source srcset="https://asset/img/pages/index/uploads/2021/fc-pro-top-sp-06.jpg" width="750"
+								<source srcset="https://asset/img/pages/index/fc-pro-top-sp-06.jpg" width="750"
 									height="500" media="(max-width:640px)">
-								<img src="./asset/img/pages/index/uploads/2021/fc-pro-top-pc-06.jpg" width="1440" height="580"
+								<img src="./asset/img/repetidas/fc-pro-top-pc-06.jpg" width="1440" height="580"
 									alt="TentoTen 04 Sapporo Station" loading="lazy">
 							</picture>
 						</div>
@@ -394,9 +376,9 @@
 						data-pararax01>
 						<div class="project-img of _link-img01 __inview-img01 __inview-img01" data-pararax01-img01="0">
 							<picture>
-								<source srcset="https://asset/img/pages/index/uploads/2021/fc-pro-top-sp-14.jpg" width="750"
+								<source srcset="https://asset/img/pages/index/fc-pro-top-sp-14.jpg" width="750"
 									height="500" media="(max-width:640px)">
-								<img src="./asset/img/pages/index/uploads/2021/fc-pro-top-pc-14.jpg" width="1440" height="580"
+								<img src="./asset/img/pages/index/fc-pro-top-pc-14.jpg" width="1440" height="580"
 									alt="Hostel TOMAR" loading="lazy">
 							</picture>
 						</div>
@@ -419,9 +401,9 @@
 						data-pararax01>
 						<div class="project-img of _link-img01 __inview-img01 __inview-img01" data-pararax01-img01="0">
 							<picture>
-								<source srcset="https://asset/img/pages/index/uploads/2021/fc-pro-top-sp-08.jpg" width="750"
+								<source srcset="https://asset/img/pages/index/fc-pro-top-sp-08.jpg" width="750"
 									height="500" media="(max-width:640px)">
-								<img src="./asset/img/pages/index/uploads/2021/fc-pro-top-pc-08.jpg" width="1440" height="580"
+								<img src="./asset/img/repetidas/fc-pro-top-pc-08.jpg" width="1440" height="580"
 									alt="TentoTen 03 Nakajimakoen" loading="lazy">
 							</picture>
 						</div>
@@ -445,9 +427,9 @@
 						class="_link-block01 _pc-pd40" data-pararax01>
 						<div class="project-img of _link-img01 __inview-img01 __inview-img01" data-pararax01-img01="0">
 							<picture>
-								<source srcset="https://asset/img/pages/index/uploads/2021/fc-pro-top-sp-16.jpg" width="750"
+								<source srcset="https://asset/img/pages/index/fc-pro-top-sp-16.jpg" width="750"
 									height="500" media="(max-width:640px)">
-								<img src="./asset/img/pages/index/uploads/2021/fc-pro-top-pc-16.jpg" width="1440" height="580"
+								<img src="./asset/img/pages/index/fc-pro-top-pc-16.jpg" width="1440" height="580"
 									alt="北海道つながるマーケット" loading="lazy">
 							</picture>
 						</div>
@@ -580,40 +562,7 @@
 	<a href="#Pagetop" class="mod_toTop_btn" id="PageTopBtn"><i class="_arrow-top01"></i></a>
 
 
-	<footer class="mod_footer _sp-pd35">
-		<div class="footer-contents _pc-w1080">
-			<p class="content-logo"><a href="#Pagetop" class="logo">
-					<picture>
-						<source srcset="./asset/img/repetidas/footer-logo_sp.png" width="460" height="180"
-							media="(max-width:640px)">
-						<img src="./asset/img/repetidas/footer-logo_pc.png" width="348" height="40" alt="株式会社FULLCOMMISSION"
-							loading="lazy">
-					</picture>
-				</a></p>
-			<nav class="content-nav _f-futura_m">
-				<ul class="nav_list">
-					<li><a href="./pages/servicio.html"><span>SERVICIOS</span></a></li>
-					<li><a href="./pages/blog.html"><span>BLOG</span></a></li>
-					<li><a href="./pages/portafolio.html"><span>PORTAFOLIO</span></a></li>
-					<li><a href="./pages/nosotros.html"><span>NOSOTROS</span></a></li>
-					<li><a href="./pages/contacto.html"><span>CONTACTO</span></a></li>
-					<li><a href="./index.html"><span>INICIO</span></a></li>
-					<li><a href="./pages/equipo.html"><span>EQUIPO</span></a></li>
-				</ul>
-				<p class="nav-privacy byyard"><a href="https://www.byyard.jp/" target="_blank"><span>札幌のシェアオフィス
-							BYYARD</span></a></p>
-				<p class="nav-privacy"><a href="./privacy/index.html"><span>PRIVACY POLICY</span></a></p>
-			</nav>
-			<div class="content-access">
-				<p class="access-heading _f-futura_m">ACCESS</p>
-				<p class="access-address">〒060-0005 北海道札幌市中央区北5条西11丁目15-4<br>BYYARD内<br data-sc-sp><a
-						href="https://goo.gl/maps/2q3FyX6CbUXMen5UA" target="_blank">［Google map］</a></p>
-			</div>
-			<p class="content-copyright _f-futura_m">©FULLCOMMISSION</p>
-		</div>
-	</footer>
+	<?php include './asset/html/footer.html'; ?>
 </body>
-
-<!-- Mirrored from f-commission.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 26 Aug 2024 16:27:11 GMT -->
 
 </html>
