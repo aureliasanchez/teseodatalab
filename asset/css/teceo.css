@@ -1,0 +1,16 @@
+.imagenTeceo {
+    height: 100% !important;
+    width: 100% !important;
+}
+
+@media screen and (min-width: 640px) {
+    .linkBlue:hover {
+        background-color: #64adb5 !important;
+        color: #000 !important
+    }
+    
+    .linkRed:hover {
+        background-color: #eb32ff !important;
+        color: #000 !important
+    }
+}

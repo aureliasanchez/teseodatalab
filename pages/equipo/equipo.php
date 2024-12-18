@@ -40,6 +40,7 @@
 	<link href="../../asset/css/splide-core.min.css" rel="stylesheet">
 	<link href="../../asset/css/common1571.css" rel="stylesheet">
 	<link href="../../asset/css/member8984.css" rel="stylesheet">
+	<link href="../../asset/css/teceo.css" rel="stylesheet">
 	<link rel="canonical" href="./equipo.php">
 	<link rel="icon" href="../../asset/img/repetidas/favicon.ico">
 	<title>MEMBER｜FULLCOMMISSIONで働く“メンバー”｜株式会社フルコミッション</title>
@@ -48,8 +49,6 @@
 
 <body id="Pagetop" class="page_people">
 	<?php include '../../asset/html/header.html'; ?>
-
-	<button class="mod_spNav_btn" id="SPMenuBtn" data-sc-sp><i></i></button>
 
 	<main class="mod_main" role="main">
 
@@ -369,24 +368,7 @@
 
 	</main>
 
-	<a href="../../people/index.html#PostRecruitList" class="mod-fixed-recruit-link _link-button01" id="RecruitFixedLink">
-		<span class="link-main _f-futura_m _futura-lh1 _link-span01">RECRUIT<i><i class="_arrow-right01"></i></i></span>
-		<span class="link-sub _link-span01">採用情報</span>
-	</a>
-
-	<a href="#Pagetop" class="mod_toTop_btn" id="PageTopBtn"><i class="_arrow-top01"></i></a>
-
-	<div class="pankuzuWrap _pc-pd40 _sp-pd20">
-		<ul class="pankuzu">
-			<li class="link">
-				<a class="linkin" href="../../index.html"><span>TOP</span></a>
-			</li>
-			<li class="link">
-				<a class="linkin" href="./equipo.php"><span>MEMBER</span></a>
-			</li>
-		</ul>
-	</div>
-
+	<?php include '../../asset/html/lateral.html'; ?>
 	<?php include '../../asset/html/footer.html'; ?>
 </body>
 

@@ -39,41 +39,52 @@
 	<link href="../asset/css/common1571.css" rel="stylesheet">
 	<link href="../asset/css/form200a.css" rel="stylesheet">
 	<link href="../asset/css/contactd62f.css" rel="stylesheet">
+	<link href="../asset/css/teceo.css" rel="stylesheet">
 	<link rel="canonical" href="./contacto.php">
 
 	<link rel="icon" href="../asset/img/repetidas/favicon.ico">
-	<title>CONTACT｜お問い合わせ｜株式会社フルコミッション</title>
+	<title>Teseo & Data | Contacto</title>
 </head>
 
 <body id="Pagetop" class="page_contact">
 	<?php include '../asset/html/header.html'; ?>
 
-	<button class="mod_spNav_btn" id="SPMenuBtn" data-sc-sp><i></i></button>
-
 	<main class="mod_main" role="main">
 
 		<section class="page_container -contact">
 
-			<header class="mod-lowerpage-haeder01">
-				<h1 class="header-heading _heading01  __inview-text01 _pc-pd40 _sp-pd20" data-pararax01
-					data-pararax01-text01="0">
-					<span class="heading-main _f-futura_m _futura-lh1 __inview-span01">CONTACT</span>
-					<span class="heading-sub __inview-span01">お問い合わせ</span>
+			<div class="mod-lowerpage-haeder01">
+				<h1 class="header-heading _heading01  __inview-text01 _pc-pd40 _sp-pd20">
+					<span class="heading-main _f-futura_m _futura-lh1 __inview-span01">
+						Estamos aquí para potenciar tu negocio
+					</span>
 				</h1>
-			</header>
+			</div>
 
 			<div class="contact-contents _pc-w1160 _sp-pd20" data-pararax01 data-pararax01-opacity01=".4">
 
 				<div class="content-introduction _sp-pd15">
-					<h2 class="introduction-heading">お問い合わせはメール<br data-sc-sp>もしくはお電話にて承ります</h2>
+					<h2 class="introduction-heading">
+						Contactanos a trabes de nuestras redes sociales, teléfono o por correo electronico.
+					</h2>
 					<div class="introduction-tel_block">
-						<p class="tel"><a data-tel=" 011-200-0978" class="_button01"><span data-sc-sp>電話で問い合わせる</span><i
-									class="_arrow-right01" data-sc-sp></i></a></p>
-						<p class="tel-annotation">［受付時間］平日10:00-20:00</p>
+						<p class="tel">
+							<a href="https://wa.me/7711685825" target="_blank" data-tel="77-11-685-825"
+								class="_button01 linkRed">
+								<span data-sc-sp>
+									Teléfono
+								</span>
+								<i class="_arrow-right01" data-sc-sp></i>
+							</a>
+						</p>
+						<p class="tel-annotation">［Horario de atencion］ 10:00-20:00 CST</p>
 					</div>
-					<p class="introduction-form-description">以下のフォームに必要事項をご記入の上、送信してください。<br
-							data-sc-pc>記入いただきました個人情報は、ご対応以外の目的では使用いたしません。<br data-sc-pc>当社での個人情報の取り扱いについては<a
-							href="../privacy/index.html" target="_blank">プライバシーポリシー</a>をご覧ください。</p>
+				</div>
+
+				<div class="content-introduction _sp-pd15">
+					<h2 class="introduction-heading">
+						Redes Sociales
+					</h2>
 				</div>
 
 				<div class="content-form_wrap _sp-pd15">
@@ -228,10 +239,6 @@
 			</div>
 		</section>
 
-
-
-
-
 		<input type="hidden" id="submitalert_flg">
 
 		<input type="hidden" id="ridatsublock_flg">
@@ -245,20 +252,7 @@
 
 	</main>
 
-
-	<a href="#Pagetop" class="mod_toTop_btn" id="PageTopBtn"><i class="_arrow-top01"></i></a>
-
-	<div class="pankuzuWrap _pc-pd40 _sp-pd20">
-		<ul class="pankuzu">
-			<li class="link">
-				<a class="linkin" href="../index.html"><span>TOP</span></a>
-			</li>
-			<li class="link">
-				<a class="linkin" href="index.html"><span>CONTACT</span></a>
-			</li>
-		</ul>
-	</div>
-
+	<?php include '../asset/html/lateral.html'; ?>
 	<?php include '../asset/html/footer.html'; ?>
 </body>
 
