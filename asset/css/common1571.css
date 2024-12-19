@@ -1060,8 +1060,9 @@ body.__scrolled .mod-fixed-recruit-link+.mod_toTop_btn {
 
 .mod_header .main_nav>li:nth-child(1).nowpage,
 .no-touchevents .mod_header .main_nav>li:nth-child(1)>a:hover {
-    background-color: #dd9757;
-    color: #000
+    background-color: #64adb5;
+    border: #000 solid 1px;
+    color: #fff
 }
 
 .mod_header .main_nav>li:nth-child(2) {
@@ -1070,8 +1071,9 @@ body.__scrolled .mod-fixed-recruit-link+.mod_toTop_btn {
 
 .mod_header .main_nav>li:nth-child(2).nowpage,
 .no-touchevents .mod_header .main_nav>li:nth-child(2)>a:hover {
-    background-color: #62a578;
-    color: #000
+    background-color: #1d1d1d;
+    border: #fff solid 1px;
+    color: #fff
 }
 
 .mod_header .main_nav>li:nth-child(3) {
@@ -1080,8 +1082,9 @@ body.__scrolled .mod-fixed-recruit-link+.mod_toTop_btn {
 
 .mod_header .main_nav>li:nth-child(3).nowpage,
 .no-touchevents .mod_header .main_nav>li:nth-child(3)>a:hover {
-    background-color: #598ab2;
-    color: #000
+    background-color: #d39edd;
+    border: #000 solid 1px;
+    color: #fff
 }
 
 .mod_header .main_nav>li:nth-child(4) {
@@ -1090,8 +1093,9 @@ body.__scrolled .mod-fixed-recruit-link+.mod_toTop_btn {
 
 .mod_header .main_nav>li:nth-child(4).nowpage,
 .no-touchevents .mod_header .main_nav>li:nth-child(4)>a:hover {
-    background-color: #d39edd;
-    color: #000
+    background-color: #64adb5;
+    border: #000 solid 1px;
+    color: #fff
 }
 
 .mod_header .main_nav>li:nth-child(5) {
@@ -1100,8 +1104,9 @@ body.__scrolled .mod-fixed-recruit-link+.mod_toTop_btn {
 
 .mod_header .main_nav>li:nth-child(5).nowpage,
 .no-touchevents .mod_header .main_nav>li:nth-child(5)>a:hover {
-    background-color: #b9d44b;
-    color: #000
+    background-color: #1d1d1d;
+    border: #fff solid 1px;
+    color: #fff
 }
 
 .mod_header .main_nav>li:nth-child(6) {
@@ -1110,8 +1115,9 @@ body.__scrolled .mod-fixed-recruit-link+.mod_toTop_btn {
 
 .mod_header .main_nav>li:nth-child(6).nowpage,
 .no-touchevents .mod_header .main_nav>li:nth-child(6)>a:hover {
-    background-color: #d44b74;
-    color: #000
+    background-color: #d39edd;
+    border: #000 solid 1px;
+    color: #fff
 }
 
 .mod_header .main_nav>li:nth-child(7) {
@@ -1120,8 +1126,9 @@ body.__scrolled .mod-fixed-recruit-link+.mod_toTop_btn {
 
 .mod_header .main_nav>li:nth-child(7).nowpage,
 .no-touchevents .mod_header .main_nav>li:nth-child(7)>a:hover {
-    background-color: #4b4bd4;
-    color: #000
+    background-color: #64adb5;
+    border: #000 solid 1px;
+    color: #fff
 }
 
 .mod_header .main_nav>li>a {
@@ -1242,43 +1249,50 @@ body.__scrolled .mod-fixed-recruit-link+.mod_toTop_btn {
 
 .mod_footer .content-nav .nav_list>li:nth-child(1).nowpage>a>span,
 .no-touchevents .mod_footer .content-nav .nav_list>li:nth-child(1)>a:hover>span {
-    background-color: #dd9757;
+    background-color: #64adb5;
+    border: #fff solid 1px;
     color: #000
 }
 
 .mod_footer .content-nav .nav_list>li:nth-child(2).nowpage>a>span,
 .no-touchevents .mod_footer .content-nav .nav_list>li:nth-child(2)>a:hover>span {
-    background-color: #62a578;
-    color: #000
+    background-color: #fff;
+    border: #fff solid 1px;
+    color: #1d1d1d
 }
 
 .mod_footer .content-nav .nav_list>li:nth-child(3).nowpage>a>span,
 .no-touchevents .mod_footer .content-nav .nav_list>li:nth-child(3)>a:hover span {
-    background-color: #598ab2;
+    background-color: #d39edd;
+    border: #fff solid 1px;
     color: #000
 }
 
 .mod_footer .content-nav .nav_list>li:nth-child(4).nowpage>a>span,
 .no-touchevents .mod_footer .content-nav .nav_list>li:nth-child(4)>a:hover span {
-    background-color: #d39edd;
+    background-color: #64adb5;
+    border: #fff solid 1px;
     color: #000
 }
 
 .mod_footer .content-nav .nav_list>li:nth-child(5).nowpage>a>span,
 .no-touchevents .mod_footer .content-nav .nav_list>li:nth-child(5)>a:hover span {
-    background-color: #b9d44b;
-    color: #000
+    background-color: #fff;
+    border: #fff solid 1px;
+    color: #1d1d1d
 }
 
 .mod_footer .content-nav .nav_list>li:nth-child(6).nowpage>a>span,
 .no-touchevents .mod_footer .content-nav .nav_list>li:nth-child(6)>a:hover span {
-    background-color: #d44b74;
+    background-color: #d39edd;
+    border: #fff solid 1px;
     color: #000
 }
 
 .mod_footer .content-nav .nav_list>li:nth-child(7).nowpage>a>span,
 .no-touchevents .mod_footer .content-nav .nav_list>li:nth-child(7)>a:hover span {
-    background-color: #4b4bd4;
+    background-color: #64adb5;
+    border: #fff solid 1px;
     color: #000
 }
 

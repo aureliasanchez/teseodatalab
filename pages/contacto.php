@@ -87,60 +87,112 @@
 					</h2>
 				</div>
 
+				<div class="social-icons">
+					<a href="https://www.facebook.com/teseodata" target="_blank">
+						<img src="../asset/img/repetidas/logos/redesSociales/facebook.svg" alt="">
+					</a>
+					<a href="https://www.instagram.com/teseo_data/" target="_blank">
+						<img src="../asset/img/repetidas/logos/redesSociales/instagram.svg" alt="">
+					</a>
+					<a href="https://www.tiktok.com/@teseodata" target="_blank">
+						<img src="../asset/img/repetidas/logos/redesSociales/tiktok.svg" alt="">
+					</a>
+					<a href="https://www.linkedin.com/company/teseo-data-center/" target="_blank">
+						<img src="../asset/img/repetidas/logos/redesSociales/linkedin.svg" alt="">
+					</a>
+				</div>
+
 				<div class="content-form_wrap _sp-pd15">
-					<h3 class="form-heading">お問い合わせフォーム</h3>
-					<p class="form-description">携帯電話のメールアドレスを設定お客様は<br
-							data-sc-pc>「メールの受信拒否」、「ドメイン指定受信」、「迷惑メール防止機能」などを<br data-sc-pc>設定している場合、受信ができない場合があります。</p>
 
+					<h3 class="form-heading">
+						Formulario
+					</h3>
+					<p class="form-description">
+						Comunicate con nosotros a travbes del siguiente Formulario
+					</p>
 
-					<form id="Form" autocomplete="on" enctype="multipart/form-data" name="form" method="post"
-						action="https://f-commission.com/contact/" class="formArea _pc-w980">
+					<form id="Form" autocomplete="on" enctype="multipart/form-data" name="form" method="post" action="#"
+						class="formArea _pc-w980">
 						<div class="formlistWrap _pc-w980">
 
 							<dl class="formlist -type" data-form-hissu data-form-unique="radio_type">
-								<dt class="formlistTit"><span>お問い合わせ種別</span></dt>
+								<dt class="formlistTit">
+									<span>
+										Requisito 1
+									</span>
+								</dt>
 								<dd class="formlistContent">
 									<div class="inputBlock">
-										<div class="itemWrap radioWrap radio_type"><input
-												data-checkboxradio="radio_type" type="hidden"
-												data-needinput-type="radio" data-needinput="radio_type"><span
-												class="radio"><input type="radio" name="radio_type" value="採用"
-													id="radio_type0" checked="checked"><label
-													for="radio_type0"><span>採用</span></label></span><span
-												class="radio"><input type="radio" name="radio_type" value="事業パートナー"
-													id="radio_type1"><label
-													for="radio_type1"><span>事業パートナー</span></label></span><span
-												class="radio"><input type="radio" name="radio_type" value="取材"
-													id="radio_type2"><label
-													for="radio_type2"><span>取材</span></label></span><span
-												class="radio"><input type="radio" name="radio_type" value="その他"
-													id="radio_type3"><label
-													for="radio_type3"><span>その他</span></label></span></div>
+										<div class="itemWrap radioWrap radio_type">
+											<input data-checkboxradio="radio_type" type="hidden"
+												data-needinput-type="radio" data-needinput="radio_type">
+											<span class="radio">
+												<input type="radio" name="radio_type" value="採用" id="radio_type0"
+													checked="checked">
+												<label for="radio_type0">
+													<span>
+														Opcion 1
+													</span>
+												</label>
+											</span>
+											<span class="radio">
+												<input type="radio" name="radio_type" value="事業パートナー" id="radio_type1">
+												<label for="radio_type1">
+													<span>
+														Opcion 2
+													</span>
+												</label>
+											</span>
+											<span class="radio"><input type="radio" name="radio_type" value="取材"
+													id="radio_type2">
+												<label for="radio_type2">
+													<span>
+														Opcion 3
+													</span>
+												</label>
+											</span>
+											<span class="radio">
+												<input type="radio" name="radio_type" value="その他" id="radio_type3">
+												<label for="radio_type3">
+													<span>
+														Opcion 4
+													</span>
+												</label>
+											</span>
+										</div>
 									</div>
 								</dd>
 							</dl>
 
 							<dl class="formlist -name" data-form-hissu data-form-unique="text_firstname_autokana">
-								<dt class="formlistTit"><span>お名前（漢字）</span></dt>
+								<dt class="formlistTit">
+									<span>
+										Requisoto 2
+									</span>
+								</dt>
 								<dd class="formlistContent">
 									<div class="contentSub">
-										<span class="subHeading">姓</span>
+										<span class="subHeading">
+											A
+										</span>
 										<div class="inputBlock">
 											<div class="itemWrap textWrap text_firstname_autokana"><input
 													autocorrect="off" autocapitalize="off" type="text"
 													name="text_firstname_autokana" id="text_firstname_autokana" value=""
 													data-needinput="text_firstname_autokana" data-needinput-type="text"
-													placeholder="姓" data-form-autokana="1" autocomplete="family-name">
+													placeholder="Opcion 1" data-form-autokana="1" autocomplete="family-name">
 											</div>
 										</div>
 									</div>
 									<div class="contentSub">
-										<span class="subHeading">名</span>
+										<span class="subHeading">
+											B
+										</span>
 										<div class="inputBlock">
 											<div class="itemWrap textWrap text_name_autokana"><input autocorrect="off"
 													autocapitalize="off" type="text" name="text_name_autokana"
 													id="text_name_autokana" value="" data-needinput="text_name_autokana"
-													data-needinput-type="text" placeholder="名" data-form-autokana="2"
+													data-needinput-type="text" placeholder="Opcion 2" data-form-autokana="2"
 													autocomplete="given-name"></div>
 										</div>
 									</div>
@@ -149,28 +201,36 @@
 
 							<dl class="formlist -name-kana" data-form-hissu
 								data-form-unique="text_firstname_autokana_target">
-								<dt class="formlistTit"><span>お名前（カナ）</span></dt>
+								<dt class="formlistTit">
+									<span>
+										Requisito 3
+									</span>
+								</dt>
 								<dd class="formlistContent">
 									<div class="contentSub">
-										<span class="subHeading">セイ</span>
+										<span class="subHeading">
+											A
+										</span>
 										<div class="inputBlock">
 											<div class="itemWrap textWrap text_firstname_autokana_target"><input
 													autocorrect="off" autocapitalize="off" type="text"
 													name="text_firstname_autokana_target"
 													id="text_firstname_autokana_target" value=""
 													data-needinput="text_firstname_autokana_target"
-													data-needinput-type="text" placeholder="セイ"
+													data-needinput-type="text" placeholder="Opcion 1"
 													data-form-autokana_target="1"></div>
 										</div>
 									</div>
 									<div class="contentSub">
-										<span class="subHeading">メイ</span>
+										<span class="subHeading">
+											B
+										</span>
 										<div class="inputBlock">
 											<div class="itemWrap textWrap text_name_autokana_target"><input
 													autocorrect="off" autocapitalize="off" type="text"
 													name="text_name_autokana_target" id="text_name_autokana_target"
 													value="" data-needinput="text_name_autokana_target"
-													data-needinput-type="text" placeholder="メイ"
+													data-needinput-type="text" placeholder="Opcion 2"
 													data-form-autokana_target="2"></div>
 										</div>
 									</div>
@@ -178,43 +238,47 @@
 							</dl>
 
 							<dl class="formlist -mail" data-form-hissu data-form-unique="text_mail">
-								<dt class="formlistTit"><span>メールアドレス</span></dt>
+								<dt class="formlistTit">
+									<span>
+										Requisito 4
+									</span>
+								</dt>
 								<dd class="formlistContent">
 									<div class="inputBlock">
 										<div class="itemWrap emailWrap text_mail"><input autocorrect="off"
 												autocapitalize="off" type="email" name="text_mail" id="text_mail"
 												value="" size="40" autocomplete="email"
 												pattern="^[A-Za-z0-9]{1}[A-Za-z0-9_.-]*@{1}[A-Za-z0-9_.-]{1,}\.[A-Za-z0-9]{1,}$"
-												data-needinput="text_mail" data-needinput-type="email" placeholder="半角">
+												data-needinput="text_mail" data-needinput-type="email" placeholder="Texto">
 										</div>
 									</div>
 								</dd>
 							</dl>
 
-							<dl class="formlist -tel" data-form-hissu data-form-unique="text_tel">
-								<dt class="formlistTit"><span>電話番号</span></dt>
+							<dl class="formlist -mail" data-form-hissu data-form-unique="text_mail">
+								<dt class="formlistTit">
+									<span>
+										Requisito 5
+									</span>
+								</dt>
 								<dd class="formlistContent">
 									<div class="inputBlock">
-										<div class="itemWrap telWrap text_tel"><input autocorrect="off"
-												autocapitalize="off" type="tel" name="text_tel" id="text_tel" value=""
-												data-needinput="text_tel" data-needinput-type="text"></div>
-									</div>
-								</dd>
-							</dl>
-
-							<dl class="formlist -place" data-form-hissu data-form-unique="text_place">
-								<dt class="formlistTit"><span>会社名／学校名</span></dt>
-								<dd class="formlistContent">
-									<div class="inputBlock">
-										<div class="itemWrap textWrap text_place"><input autocorrect="off"
-												autocapitalize="off" type="text" name="text_place" id="text_place"
-												value="" data-needinput="text_place" data-needinput-type="text"></div>
+										<div class="itemWrap emailWrap text_mail"><input autocorrect="off"
+												autocapitalize="off" type="email" name="text_mail" id="text_mail"
+												value="" size="40" autocomplete="email"
+												pattern="^[A-Za-z0-9]{1}[A-Za-z0-9_.-]*@{1}[A-Za-z0-9_.-]{1,}\.[A-Za-z0-9]{1,}$"
+												data-needinput="text_mail" data-needinput-type="email" placeholder="Texto">
+										</div>
 									</div>
 								</dd>
 							</dl>
 
 							<dl class="formlist -inquiry" data-form-unique="textarea_inquiry">
-								<dt class="formlistTit"><span>お問い合わせ内容</span></dt>
+								<dt class="formlistTit">
+									<span>
+										Requisito 6
+									</span>
+								</dt>
 								<dd class="formlistContent">
 									<div class="inputBlock">
 										<div class="itemWrap textareaWrap textarea_inquiry"><textarea
@@ -224,19 +288,28 @@
 							</dl>
 						</div>
 
-						<p class="form-privacylink"><a href="../privacy/index.html" target="_blank">プライバシーポリシーに同意の上</a>
+						<p class="form-privacylink">
+							<a href="#" target="_blank">
+								Terminos de privacidad
+							</a>
 						</p>
 
 						<div class="formbtnarea">
 							<button class="formbtn ConfirmBtn _button01" id="ConfirmBtn"
-								type="submit"><span>入力内容を確認する</span><i class="_arrow-right01"></i></button>
+								type="submit">
+								<span>
+									Enviar
+								</span>
+								<i class="_arrow-right01"></i></button>
 							<input type="hidden" name="mode" value="confirm">
 
 						</div>
 					</form>
+
 				</div>
 
 			</div>
+
 		</section>
 
 		<input type="hidden" id="submitalert_flg">
@@ -248,7 +321,6 @@
 		<input type="hidden" id="nyuuryokuseikousing_flg">
 
 		<input type="hidden" id="mailsugest_flg">
-
 
 	</main>
 
