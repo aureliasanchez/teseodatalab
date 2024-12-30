@@ -3,37 +3,19 @@
 
 <head>
 	<!-- Meta -->
-	<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
-	<meta charset="utf-8">
-	<meta name="description"
-		content="北海道札幌市で不動産企画開発事業を行う株式会社フルコミッションのWEBサイト。どんな人がはたらいているのか / どんな価値観のチームなのか / どんな夢を描いているのか / 自分たちでやってきたこと / 自分たちがつくったもの / 自分たちがやっていくこと を紹介。">
-	<meta property="og:title" content="株式会社FULLCOMMISSION｜株式会社フルコミッション">
-	<meta property="og:description"
-		content="北海道札幌市で不動産企画開発事業を行う株式会社フルコミッションのWEBサイト。どんな人がはたらいているのか / どんな価値観のチームなのか / どんな夢を描いているのか / 自分たちでやってきたこと / 自分たちがつくったもの / 自分たちがやっていくこと を紹介。">
-	<meta property="og:url" content="https://f-commission.com/">
-	<meta property="og:image" content="https://asset/img/pages/index/ogimage.png">
-	<meta name="twitter:card" content="summary">
-	<meta name="viewport" content="width=device-width,viewport-fit=cover">
-	<meta name="format-detection" content="telephone=no, email=no, address=no">
-	<meta name="skype_toolbar" content="skype_toolbar_parser_compatible">
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+    <meta charset="utf-8">
+    <meta name="description" content="Equipo global de científicos de datos y desarrolladores de software que utiliza IA para transformar tu industria.">
+    <meta property="og:title" content="Teseo DataLab | Análisis de Datos">
+    <meta property="og:description" content="Equipo global de científicos de datos y desarrolladores de software que utiliza IA para transformar tu industria.">
+    <meta property="og:url" content="https://teseo.com/index.php">
+    <meta property="og:image" content="https://teseo.com/assets/img/ogimage_index.png">
+    <meta name="twitter:card" content="summary">
+    <meta name="viewport" content="width=device-width,viewport-fit=cover">
+    <meta name="format-detection" content="telephone=no, email=no, address=no">
+    <meta name="skype_toolbar" content="skype_toolbar_parser_compatible">
 
 	<!-- Script -->
-	<script>
-		(function (w, d, s, l, i) {
-			w[l] = w[l] || [];
-			w[l].push({
-				'gtm.start': new Date().getTime(),
-				event: 'gtm.js'
-			});
-			var f = d.getElementsByTagName(s)[0],
-				j = d.createElement(s),
-				dl = l != 'dataLayer' ? '&l=' + l : '';
-			j.async = true;
-			j.src =
-				'../www.googletagmanager.com/gtm5445.html?id=' + i + dl;
-			f.parentNode.insertBefore(j, f);
-		})(window, document, 'script', 'dataLayer', 'GTM-P9GDZFD');
-	</script>
 	<script src="./asset/js/webfont.js" async></script>
 	<script src="./asset/js/common71c5.js" defer></script>
 	<script src="./asset/js/indexccb0.js" defer></script>
@@ -48,7 +30,7 @@
 	<link href="./asset/css/common1571.css" rel="stylesheet">
 	<link href="./asset/css/index83e0.css" rel="stylesheet">
 	<link href="./asset/css/teceo.css" rel="stylesheet">
-	<link rel="canonical" href="index.html">
+	<link rel="canonical" href="index.php">
 
 	<link rel="icon" href="./asset/img/repetidas/favicon.ico">
 	<title>Teseo & Data</title>

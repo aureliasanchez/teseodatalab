@@ -4,28 +4,15 @@
 
 <head>
 	<!-- Meta -->
-	<meta charset="utf-8">
-	<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-	<meta name="description" content="ビジョンや会社情報を紹介。本社所在地：北海道札幌市中央区北5条西11丁目15-4 BYYARD内">
-	<meta property="og:title" content="ABOUT US｜会社のこと｜株式会社フルコミッション">
-	<meta property="og:description" content="ビジョンや会社情報を紹介。本社所在地：北海道札幌市中央区北5条西11丁目15-4 BYYARD内">
-	<meta property="og:url" content="https://f-commission.com/about/">
-	<meta property="og:image" content="https://f-commission.com/common/img/ogimage.png">
-	<meta name="twitter:card" content="summary">
-	<meta name="viewport" content="width=device-width,viewport-fit=cover">
-	<meta name="format-detection" content="telephone=no, email=no, address=no">
-	<meta name="skype_toolbar" content="skype_toolbar_parser_compatible">
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+    <meta charset="utf-8">
+    <meta name="description" content="Conoce al equipo de Teseo, nuestros valores, misión y visión. Descubre cómo trabajamos para ofrecer soluciones innovadoras en programación y desarrollo de software.">
+    <meta property="og:title" content="Teseo & Data | Nosotros">
+    <meta property="og:description" content="Conoce al equipo de Teseo, nuestros valores, misión y visión. Descubre cómo trabajamos para ofrecer soluciones innovadoras en programación y desarrollo de software.">
+    <meta property="og:url" content="https://teseo.com/nosotros.php">
+    <meta property="og:image" content="https://teseo.com/assets/img/ogimage_nosotros.png">
 
 	<!-- Script -->
-	<script>(function (w, d, s, l, i) {
-			w[l] = w[l] || []; w[l].push({
-				'gtm.start':
-					new Date().getTime(), event: 'gtm.js'
-			}); var f = d.getElementsByTagName(s)[0],
-				j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-					'../../www.googletagmanager.com/gtm5445.html?id=' + i + dl; f.parentNode.insertBefore(j, f);
-		})(window, document, 'script', 'dataLayer', 'GTM-P9GDZFD');
-	</script>
 	<script src="../asset/js/webfont.js" async></script>
 	<script src="../asset/js/common71c5.js" defer></script>
 	<script type="application/ld+json"></script>

@@ -3,29 +3,17 @@
 
 <head>
     <!-- Meta -->
-    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
     <meta charset="utf-8">
-    <meta name="description" content="自分たちでやってきたこと / 自分たちがつくったもの / 自分たちがやっていくこと を紹介。北海道×不動産領域で行ってきた数々のプロジェクトを掲載。">
-    <meta property="og:title" content="PROJECT｜FULLCOMMISSIONの“コト”｜株式会社フルコミッション">
+    <meta name="description"
+        content="Servicios integrales de Teseo diseñados para transformar datos en estrategias de éxito. Conoce nuestros servicios de investigación, desarrollo, inteligencia artificial, consultoría y marketing, y servicios digitales.">
+    <meta property="og:title" content="Teseo & Data | Servicios">
     <meta property="og:description"
-        content="自分たちでやってきたこと / 自分たちがつくったもの / 自分たちがやっていくこと を紹介。北海道×不動産領域で行ってきた数々のプロジェクトを掲載。">
-    <meta property="og:url" content="https://f-commission.com/project/">
-    <meta property="og:image" content="https://f-commission.com/common/img/ogimage.png">
-    <meta name="twitter:card" content="summary">
-    <meta name="viewport" content="width=device-width,viewport-fit=cover">
-    <meta name="format-detection" content="telephone=no, email=no, address=no">
-    <meta name="skype_toolbar" content="skype_toolbar_parser_compatible">
+        content="Servicios integrales de Teseo diseñados para transformar datos en estrategias de éxito. Conoce nuestros servicios de investigación, desarrollo, inteligencia artificial, consultoría y marketing, y servicios digitales.">
+    <meta property="og:url" content="https://teseo.com/servicio.php">
+    <meta property="og:image" content="https://teseo.com/assets/img/ogimage_servicios.png">
 
     <!-- Script -->
-    <script>(function (w, d, s, l, i) {
-            w[l] = w[l] || []; w[l].push({
-                'gtm.start':
-                    new Date().getTime(), event: 'gtm.js'
-            }); var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-                    '../../www.googletagmanager.com/gtm5445.html?id=' + i + dl; f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-P9GDZFD');
-    </script>
     <script src="../asset/js/webfont.js" async></script>
     <script src="../asset/js/common71c5.js" defer></script>
     <script type="application/ld+json"></script>
@@ -49,7 +37,7 @@
     <?php include '../asset/html/header.html'; ?>
 
     <main class="mod_main" role="main">
-        
+
         <section class="page_container _archive -project">
 
             <div class="project-header _pc-flex-column _flex-jc-start _pc-pd40 _sp-pd20" data-pararax01>

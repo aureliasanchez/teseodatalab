@@ -1059,10 +1059,16 @@ body.__scrolled .mod-fixed-recruit-link+.mod_toTop_btn {
 }
 
 .mod_header .main_nav>li:nth-child(1).nowpage,
+.no-touchevents .mod_header .main_nav>li:nth-child(1)>a{
+    background-color: #1d1d1d;
+    color: #fff
+}
+
+.mod_header .main_nav>li:nth-child(1).nowpage,
 .no-touchevents .mod_header .main_nav>li:nth-child(1)>a:hover {
     background-color: #64adb5;
     border: #000 solid 1px;
-    color: #fff
+    color: #000
 }
 
 .mod_header .main_nav>li:nth-child(2) {
@@ -1070,10 +1076,16 @@ body.__scrolled .mod-fixed-recruit-link+.mod_toTop_btn {
 }
 
 .mod_header .main_nav>li:nth-child(2).nowpage,
-.no-touchevents .mod_header .main_nav>li:nth-child(2)>a:hover {
+.no-touchevents .mod_header .main_nav>li:nth-child(2)>a {
     background-color: #1d1d1d;
-    border: #fff solid 1px;
     color: #fff
+}
+
+.mod_header .main_nav>li:nth-child(2).nowpage,
+.no-touchevents .mod_header .main_nav>li:nth-child(2)>a:hover {
+    background-color: #d39edd;
+    border: #000 solid 1px;
+    color: #000
 }
 
 .mod_header .main_nav>li:nth-child(3) {
@@ -1081,10 +1093,16 @@ body.__scrolled .mod-fixed-recruit-link+.mod_toTop_btn {
 }
 
 .mod_header .main_nav>li:nth-child(3).nowpage,
-.no-touchevents .mod_header .main_nav>li:nth-child(3)>a:hover {
-    background-color: #d39edd;
-    border: #000 solid 1px;
+.no-touchevents .mod_header .main_nav>li:nth-child(3)>a {
+    background-color: #1d1d1d;
     color: #fff
+}
+
+.mod_header .main_nav>li:nth-child(3).nowpage,
+.no-touchevents .mod_header .main_nav>li:nth-child(3)>a:hover {
+    background-color: #fff;
+    border: #000 solid 1px;
+    color: #000
 }
 
 .mod_header .main_nav>li:nth-child(4) {
@@ -1092,10 +1110,16 @@ body.__scrolled .mod-fixed-recruit-link+.mod_toTop_btn {
 }
 
 .mod_header .main_nav>li:nth-child(4).nowpage,
+.no-touchevents .mod_header .main_nav>li:nth-child(4)>a {
+    background-color: #1d1d1d;
+    color: #fff
+}
+
+.mod_header .main_nav>li:nth-child(4).nowpage,
 .no-touchevents .mod_header .main_nav>li:nth-child(4)>a:hover {
     background-color: #64adb5;
     border: #000 solid 1px;
-    color: #fff
+    color: #000
 }
 
 .mod_header .main_nav>li:nth-child(5) {
@@ -1103,10 +1127,16 @@ body.__scrolled .mod-fixed-recruit-link+.mod_toTop_btn {
 }
 
 .mod_header .main_nav>li:nth-child(5).nowpage,
-.no-touchevents .mod_header .main_nav>li:nth-child(5)>a:hover {
+.no-touchevents .mod_header .main_nav>li:nth-child(5)>a {
     background-color: #1d1d1d;
-    border: #fff solid 1px;
     color: #fff
+}
+
+.mod_header .main_nav>li:nth-child(5).nowpage,
+.no-touchevents .mod_header .main_nav>li:nth-child(5)>a:hover {
+    background-color: #d39edd;
+    border: #000 solid 1px;
+    color: #000
 }
 
 .mod_header .main_nav>li:nth-child(6) {
@@ -1114,10 +1144,16 @@ body.__scrolled .mod-fixed-recruit-link+.mod_toTop_btn {
 }
 
 .mod_header .main_nav>li:nth-child(6).nowpage,
-.no-touchevents .mod_header .main_nav>li:nth-child(6)>a:hover {
-    background-color: #d39edd;
-    border: #000 solid 1px;
+.no-touchevents .mod_header .main_nav>li:nth-child(6)>a {
+    background-color: #1d1d1d;
     color: #fff
+}
+
+.mod_header .main_nav>li:nth-child(6).nowpage,
+.no-touchevents .mod_header .main_nav>li:nth-child(6)>a:hover {
+    background-color: #fff;
+    border: #000 solid 1px;
+    color: #000
 }
 
 .mod_header .main_nav>li:nth-child(7) {
@@ -1125,10 +1161,16 @@ body.__scrolled .mod-fixed-recruit-link+.mod_toTop_btn {
 }
 
 .mod_header .main_nav>li:nth-child(7).nowpage,
+.no-touchevents .mod_header .main_nav>li:nth-child(7)>a {
+    background-color: #1d1d1d;
+    color: #fff
+}
+
+.mod_header .main_nav>li:nth-child(7).nowpage,
 .no-touchevents .mod_header .main_nav>li:nth-child(7)>a:hover {
     background-color: #64adb5;
     border: #000 solid 1px;
-    color: #fff
+    color: #000
 }
 
 .mod_header .main_nav>li>a {
@@ -1256,16 +1298,16 @@ body.__scrolled .mod-fixed-recruit-link+.mod_toTop_btn {
 
 .mod_footer .content-nav .nav_list>li:nth-child(2).nowpage>a>span,
 .no-touchevents .mod_footer .content-nav .nav_list>li:nth-child(2)>a:hover>span {
-    background-color: #fff;
+    background-color: #d39edd;
     border: #fff solid 1px;
-    color: #1d1d1d
+    color: #000
 }
 
 .mod_footer .content-nav .nav_list>li:nth-child(3).nowpage>a>span,
 .no-touchevents .mod_footer .content-nav .nav_list>li:nth-child(3)>a:hover span {
-    background-color: #d39edd;
+    background-color: #fff;
     border: #fff solid 1px;
-    color: #000
+    color: #1d1d1d
 }
 
 .mod_footer .content-nav .nav_list>li:nth-child(4).nowpage>a>span,
@@ -1277,16 +1319,16 @@ body.__scrolled .mod-fixed-recruit-link+.mod_toTop_btn {
 
 .mod_footer .content-nav .nav_list>li:nth-child(5).nowpage>a>span,
 .no-touchevents .mod_footer .content-nav .nav_list>li:nth-child(5)>a:hover span {
-    background-color: #fff;
+    background-color: #d39edd;
     border: #fff solid 1px;
-    color: #1d1d1d
+    color: #000
 }
 
 .mod_footer .content-nav .nav_list>li:nth-child(6).nowpage>a>span,
 .no-touchevents .mod_footer .content-nav .nav_list>li:nth-child(6)>a:hover span {
-    background-color: #d39edd;
+    background-color: #fff;
     border: #fff solid 1px;
-    color: #000
+    color: #1d1d1d
 }
 
 .mod_footer .content-nav .nav_list>li:nth-child(7).nowpage>a>span,

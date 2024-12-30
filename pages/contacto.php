@@ -3,17 +3,17 @@
 
 <head>
 	<!-- Meta -->
-	<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-	<meta charset="utf-8">
-	<meta name="description" content="株式会社フルコミッションへのお問い合わせはこちから。お電話でのお問い合わせ：011-200-0978（平日10：00～20：00）">
-	<meta property="og:title" content="CONTACT｜お問い合わせ｜株式会社フルコミッション">
-	<meta property="og:description" content="株式会社フルコミッションへのお問い合わせはこちから。お電話でのお問い合わせ：011-200-0978（平日10：00～20：00）">
-	<meta property="og:url" content="https://f-commission.com/contact/">
-	<meta property="og:image" content="https://f-commission.com/common/img/ogimage.png">
-	<meta name="twitter:card" content="summary">
-	<meta name="viewport" content="width=device-width,viewport-fit=cover">
-	<meta name="format-detection" content="telephone=no, email=no, address=no">
-	<meta name="skype_toolbar" content="skype_toolbar_parser_compatible">
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+    <meta charset="utf-8">
+    <meta name="description" content="Ponte en contacto con Teseo para cualquier consulta o información adicional. Llámanos al 011-200-0978 (Lunes a Viernes de 10:00 a 20:00).">
+    <meta property="og:title" content="Teseo & Data | Contacto">
+    <meta property="og:description" content="Ponte en contacto con Teseo para cualquier consulta o información adicional. Llámanos al 011-200-0978 (Lunes a Viernes de 10:00 a 20:00).">
+    <meta property="og:url" content="https://teseo.com/contacto.php">
+    <meta property="og:image" content="https://teseo.com/assets/img/ogimage_contacto.png">
+    <meta name="twitter:card" content="summary">
+    <meta name="viewport" content="width=device-width,viewport-fit=cover">
+    <meta name="format-detection" content="telephone=no, email=no, address=no">
+    <meta name="skype_toolbar" content="skype_toolbar_parser_compatible">
 
 	<!-- Script -->
 	<noscript>
@@ -21,15 +21,6 @@
 			style="display:none;visibility:hidden">
 		</iframe>
 	</noscript>
-	<script>(function (w, d, s, l, i) {
-			w[l] = w[l] || []; w[l].push({
-				'gtm.start':
-					new Date().getTime(), event: 'gtm.js'
-			}); var f = d.getElementsByTagName(s)[0],
-				j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-					'../../www.googletagmanager.com/gtm5445.html?id=' + i + dl; f.parentNode.insertBefore(j, f);
-		})(window, document, 'script', 'dataLayer', 'GTM-P9GDZFD');
-	</script>
 	<script src="../asset/js/webfont.js" async></script>
 	<script src="../asset/js/common71c5.js" defer></script>
 	<script src="../asset/js/form81d1.js" defer></script>
