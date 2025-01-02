@@ -18,10 +18,10 @@
 	<meta name="skype_toolbar" content="skype_toolbar_parser_compatible">
 
 	<!-- Script -->
-	<script src="../../asset/js/webfont.js" async></script>
-	<script src="../../asset/js/splide.min.js" defer></script>
-	<script src="../../asset/js/common71c5.js" defer></script>
-	<script src="../../asset/js/member9d21.js" defer></script>
+	<script src="../../../asset/js/webfont.js" async></script>
+	<script src="../../../asset/js/splide.min.js" defer></script>
+	<script src="../../../asset/js/common71c5.js" defer></script>
+	<script src="../../../asset/js/member9d21.js" defer></script>
 	<script type="application/ld+json"></script>
 	<noscript>
 		<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P9GDZFD" height="0" width="0"
@@ -30,19 +30,19 @@
 	</noscript>
 
 	<!-- Link -->
-	<link href="../../asset/css/splide-core.min.css" rel="stylesheet">
-	<link href="../../asset/css/common1571.css" rel="stylesheet">
-	<link href="../../asset/css/member8984.css" rel="stylesheet">
-	<link href="../../asset/css/redesSociales.css" rel="stylesheet">
+	<link href="../../../asset/css/splide-core.min.css" rel="stylesheet">
+	<link href="../../../asset/css/common1571.css" rel="stylesheet">
+	<link href="../../../asset/css/member8984.css" rel="stylesheet">
+	<link href="../../../asset/css/redesSociales.css" rel="stylesheet">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 	<link rel="canonical" href="./equipo.php">
 
-	<link rel="icon" href="../../asset/img/repetidas/logos/fotoDePerfil1.jpg">
+	<link rel="icon" href="../../../asset/img/repetidas/logos/fotoDePerfil1.jpg">
 	<title>Teseo & Data | Equipo</title>
 </head>
 
 <body id="Pagetop" class="page_people">
-	<?php include '../../asset/html/header.html'; ?>
+	<?php include '../../../asset/html/header.html'; ?>
 
 	<main class="mod_main" role="main">
 		<section class="contentWrap -news _archives">
@@ -65,7 +65,7 @@
 					Lista de miembros
 				</span>
 				<span class="heading-sub __inview-span01">
-					Nuestro equipo
+					Nuestros Associates
 				</span>
 
 			</h2>
@@ -83,8 +83,8 @@
 							<div class="aside splide__track -archive">
 								<div class="aside_inner splide__list">
 
-									<div class="aside-link splide__slide _current">
-										<a href="#PostList">
+									<div class="aside-link splide__slide">
+										<a href="../equipo.php#PostList">
 
 											<span class="ja">
 												Todos los puestos
@@ -96,7 +96,7 @@
 										</a>
 									</div>
 									<div class="aside-link splide__slide">
-										<a href="./puestos/seinor.php#PostList">
+										<a href="./seinor.php#PostList">
 
 											<span class="ja">
 												Senior Partner
@@ -108,7 +108,7 @@
 										</a>
 									</div>
 									<div class="aside-link splide__slide">
-										<a href="./puestos/lider.php#PostList">
+										<a href="./lider.php#PostList">
 
 											<span class="ja">
 												Project Lider
@@ -119,8 +119,8 @@
 
 										</a>
 									</div>
-									<div class="aside-link splide__slide">
-										<a href="./puestos/associate.php#PostList">
+									<div class="aside-link splide__slide _current">
+										<a href="./associate.php#PostList">
 
 											<span class="ja">
 												Associate
@@ -132,7 +132,7 @@
 										</a>
 									</div>
 									<div class="aside-link splide__slide">
-										<a href="./puestos/intern.php#PostList">
+										<a href="./intern.php#PostList">
 
 											<span class="ja">
 												Intern
@@ -171,91 +171,7 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/equipo/man.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
-								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
-										Senior Partner
-									</span>
-								</p>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
-										Daniel
-									</span>
-								</p>
-
-							</a>
-						</article>
-						<article class="archive-article">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01"
-									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/equipo/man.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
-								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
-										Senior Partner
-									</span>
-								</p>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
-										Alex
-									</span>
-								</p>
-
-							</a>
-						</article>
-						<article class="archive-article">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01"
-									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/equipo/women.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
-								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
-										Senior Partner
-									</span>
-								</p>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
-										Dania
-									</span>
-								</p>
-
-							</a>
-						</article>
-						<article class="archive-article">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01"
-									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/equipo/women.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
-								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
-										Project Lider
-									</span>
-								</p>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
-										Lizbeth
-									</span>
-								</p>
-
-							</a>
-						</article>
-						<article class="archive-article">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01"
-									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/equipo/man.png" width="620" height="620"
+									<img src="../../../asset/img/pages/equipo/man.png" width="620" height="620"
 										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
@@ -276,7 +192,7 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/equipo/women.png" width="620" height="620"
+									<img src="../../../asset/img/pages/equipo/women.png" width="620" height="620"
 										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
@@ -297,7 +213,7 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/equipo/women.png" width="620" height="620"
+									<img src="../../../asset/img/pages/equipo/women.png" width="620" height="620"
 										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
@@ -318,7 +234,7 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/equipo/women.png" width="620" height="620"
+									<img src="../../../asset/img/pages/equipo/women.png" width="620" height="620"
 										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
@@ -339,7 +255,7 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/equipo/women.png" width="620" height="620"
+									<img src="../../../asset/img/pages/equipo/women.png" width="620" height="620"
 										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
@@ -360,7 +276,7 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/equipo/man.png" width="620" height="620"
+									<img src="../../../asset/img/pages/equipo/man.png" width="620" height="620"
 										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
@@ -371,27 +287,6 @@
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span01">
 										Uris
-									</span>
-								</p>
-
-							</a>
-						</article>
-						<article class="archive-article">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01"
-									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/equipo/women.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
-								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
-										Intern
-									</span>
-								</p>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
-										Miriam
 									</span>
 								</p>
 
@@ -412,8 +307,8 @@
 		</section>
 	</main>
 
-	<?php include '../../asset/html/lateral.html'; ?>
-	<?php include '../../asset/html/footer.html'; ?>
+	<?php include '../../../asset/html/lateral.html'; ?>
+	<?php include '../../../asset/html/footer.html'; ?>
 </body>
 
 </html>

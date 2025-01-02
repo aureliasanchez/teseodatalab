@@ -4,15 +4,17 @@
 
 <head>
 	<!-- Meta -->
-	<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
-	<meta charset="utf-8">
-	<meta name="description"
-		content="Conoce al equipo de Teseo, nuestros valores, misión y visión. Descubre cómo trabajamos para ofrecer soluciones innovadoras en programación y desarrollo de software.">
-	<meta property="og:title" content="Teseo & Data | Nosotros">
-	<meta property="og:description"
-		content="Conoce al equipo de Teseo, nuestros valores, misión y visión. Descubre cómo trabajamos para ofrecer soluciones innovadoras en programación y desarrollo de software.">
-	<meta property="og:url" content="https://teseo.com/nosotros.php">
-	<meta property="og:image" content="https://teseo.com/assets/img/ogimage_nosotros.png">
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+    <meta charset="utf-8">
+    <meta name="description" content="Lee nuestras políticas de privacidad y términos de uso. Descubre cómo protegemos tu información y garantizamos la seguridad de tus datos.">
+    <meta property="og:title" content="Teseo & Data | Políticas de Privacidad">
+    <meta property="og:description" content="Lee nuestras políticas de privacidad y términos de uso. Descubre cómo protegemos tu información y garantizamos la seguridad de tus datos.">
+    <meta property="og:url" content="https://teseo.com/politicas.php">
+    <meta property="og:image" content="https://teseo.com/assets/img/ogimage_politicas.png">
+    <meta name="twitter:card" content="summary">
+    <meta name="viewport" content="width=device-width,viewport-fit=cover">
+    <meta name="format-detection" content="telephone=no, email=no, address=no">
+    <meta name="skype_toolbar" content="skype_toolbar_parser_compatible">
 
 	<!-- Script -->
 	<script src="../asset/js/webfont.js" async></script>
@@ -33,7 +35,7 @@
 	<link rel="canonical" href="./nosotros.php">
 
 	<link rel="icon" href="../asset/img/repetidas/logos/fotoDePerfil1.jpg">
-	<title>Teseo & Data | Nosotros</title>
+	<title>Teseo & Data | Políticas de Privacidad</title>
 </head>
 
 <body id="Pagetop" class="page_about">
