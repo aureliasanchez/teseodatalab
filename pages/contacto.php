@@ -3,17 +3,19 @@
 
 <head>
 	<!-- Meta -->
-    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-    <meta charset="utf-8">
-    <meta name="description" content="Ponte en contacto con Teseo para cualquier consulta o información adicional. Llámanos al 011-200-0978 (Lunes a Viernes de 10:00 a 20:00).">
-    <meta property="og:title" content="Teseo & Data | Contacto">
-    <meta property="og:description" content="Ponte en contacto con Teseo para cualquier consulta o información adicional. Llámanos al 011-200-0978 (Lunes a Viernes de 10:00 a 20:00).">
-    <meta property="og:url" content="https://teseo.com/contacto.php">
-    <meta property="og:image" content="https://teseo.com/assets/img/ogimage_contacto.png">
-    <meta name="twitter:card" content="summary">
-    <meta name="viewport" content="width=device-width,viewport-fit=cover">
-    <meta name="format-detection" content="telephone=no, email=no, address=no">
-    <meta name="skype_toolbar" content="skype_toolbar_parser_compatible">
+	<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+	<meta charset="utf-8">
+	<meta name="description"
+		content="Ponte en contacto con Teseo para cualquier consulta o información adicional. Llámanos al 011-200-0978 (Lunes a Viernes de 10:00 a 20:00).">
+	<meta property="og:title" content="Teseo & Data | Contacto">
+	<meta property="og:description"
+		content="Ponte en contacto con Teseo para cualquier consulta o información adicional. Llámanos al 011-200-0978 (Lunes a Viernes de 10:00 a 20:00).">
+	<meta property="og:url" content="https://teseo.com/contacto.php">
+	<meta property="og:image" content="https://teseo.com/assets/img/ogimage_contacto.png">
+	<meta name="twitter:card" content="summary">
+	<meta name="viewport" content="width=device-width,viewport-fit=cover">
+	<meta name="format-detection" content="telephone=no, email=no, address=no">
+	<meta name="skype_toolbar" content="skype_toolbar_parser_compatible">
 
 	<!-- Script -->
 	<noscript>
@@ -31,9 +33,11 @@
 	<link href="../asset/css/form200a.css" rel="stylesheet">
 	<link href="../asset/css/contactd62f.css" rel="stylesheet">
 	<link href="../asset/css/teceo.css" rel="stylesheet">
+	<link href="../asset/css/redesSociales.css" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 	<link rel="canonical" href="./contacto.php">
 
-	<link rel="icon" href="../asset/img/repetidas/favicon.ico">
+	<link rel="icon" href="../asset/img/repetidas/logos/fotoDePerfil1.jpg">
 	<title>Teseo & Data | Contacto</title>
 </head>
 
@@ -41,7 +45,6 @@
 	<?php include '../asset/html/header.html'; ?>
 
 	<main class="mod_main" role="main">
-
 		<section class="page_container -contact">
 
 			<div class="mod-lowerpage-haeder01">
@@ -78,18 +81,19 @@
 					</h2>
 				</div>
 
+				<!-- Logos de redes sociales -->
 				<div class="social-icons">
-					<a href="https://www.facebook.com/teseodata" target="_blank">
-						<img src="../asset/img/repetidas/logos/redesSociales/facebook.svg" alt="">
+					<a href="https://www.facebook.com/teseodata" target="_blank" class="social-icon-black">
+						<i class="fab fa-facebook-f"></i>
 					</a>
-					<a href="https://www.instagram.com/teseo_data/" target="_blank">
-						<img src="../asset/img/repetidas/logos/redesSociales/instagram.svg" alt="">
+					<a href="https://www.instagram.com/teseo_data/" target="_blank" class="social-icon-black">
+						<i class="fab fa-instagram"></i>
 					</a>
-					<a href="https://www.tiktok.com/@teseodata" target="_blank">
-						<img src="../asset/img/repetidas/logos/redesSociales/tiktok.svg" alt="">
+					<a href="https://www.tiktok.com/@teseodata" target="_blank" class="social-icon-black">
+						<i class="fab fa-tiktok"></i>
 					</a>
-					<a href="https://www.linkedin.com/company/teseo-data-center/" target="_blank">
-						<img src="../asset/img/repetidas/logos/redesSociales/linkedin.svg" alt="">
+					<a href="https://www.linkedin.com/company/teseo-data-center/" target="_blank" class="social-icon-black">
+						<i class="fab fa-linkedin-in"></i>
 					</a>
 				</div>
 
@@ -171,7 +175,8 @@
 													autocorrect="off" autocapitalize="off" type="text"
 													name="text_firstname_autokana" id="text_firstname_autokana" value=""
 													data-needinput="text_firstname_autokana" data-needinput-type="text"
-													placeholder="Opcion 1" data-form-autokana="1" autocomplete="family-name">
+													placeholder="Opcion 1" data-form-autokana="1"
+													autocomplete="family-name">
 											</div>
 										</div>
 									</div>
@@ -183,8 +188,8 @@
 											<div class="itemWrap textWrap text_name_autokana"><input autocorrect="off"
 													autocapitalize="off" type="text" name="text_name_autokana"
 													id="text_name_autokana" value="" data-needinput="text_name_autokana"
-													data-needinput-type="text" placeholder="Opcion 2" data-form-autokana="2"
-													autocomplete="given-name"></div>
+													data-needinput-type="text" placeholder="Opcion 2"
+													data-form-autokana="2" autocomplete="given-name"></div>
 										</div>
 									</div>
 								</dd>
@@ -240,7 +245,8 @@
 												autocapitalize="off" type="email" name="text_mail" id="text_mail"
 												value="" size="40" autocomplete="email"
 												pattern="^[A-Za-z0-9]{1}[A-Za-z0-9_.-]*@{1}[A-Za-z0-9_.-]{1,}\.[A-Za-z0-9]{1,}$"
-												data-needinput="text_mail" data-needinput-type="email" placeholder="Texto">
+												data-needinput="text_mail" data-needinput-type="email"
+												placeholder="Texto">
 										</div>
 									</div>
 								</dd>
@@ -258,7 +264,8 @@
 												autocapitalize="off" type="email" name="text_mail" id="text_mail"
 												value="" size="40" autocomplete="email"
 												pattern="^[A-Za-z0-9]{1}[A-Za-z0-9_.-]*@{1}[A-Za-z0-9_.-]{1,}\.[A-Za-z0-9]{1,}$"
-												data-needinput="text_mail" data-needinput-type="email" placeholder="Texto">
+												data-needinput="text_mail" data-needinput-type="email"
+												placeholder="Texto">
 										</div>
 									</div>
 								</dd>
@@ -286,8 +293,7 @@
 						</p>
 
 						<div class="formbtnarea">
-							<button class="formbtn ConfirmBtn _button01" id="ConfirmBtn"
-								type="submit">
+							<button class="formbtn ConfirmBtn _button01" id="ConfirmBtn" type="submit">
 								<span>
 									Enviar
 								</span>
@@ -302,17 +308,6 @@
 			</div>
 
 		</section>
-
-		<input type="hidden" id="submitalert_flg">
-
-		<input type="hidden" id="ridatsublock_flg">
-
-		<input type="hidden" id="nyuuryokukeisikijizensiji_flg">
-
-		<input type="hidden" id="nyuuryokuseikousing_flg">
-
-		<input type="hidden" id="mailsugest_flg">
-
 	</main>
 
 	<?php include '../asset/html/lateral.html'; ?>
