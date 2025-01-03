@@ -880,7 +880,7 @@ body.__footer-view .mod_toTop_btn ._arrow-top01:before {
 .mod-fixed-recruit-link {
     justify-content: center;
     padding-left: .26rem;
-    width: 3.7rem;
+    width: auto;
     height: 1.2rem;
     background-color: #000;
     color: #fff;
@@ -2639,7 +2639,7 @@ body.__scrolled .mod-fixed-recruit-link+.mod_toTop_btn {
 
     .mod-fixed-recruit-link {
         padding-left: .12rem;
-        width: 1.85rem;
+        width: auto;
         height: .6rem;
         right: .1rem;
         bottom: calc(env(safe-area-inset-bottom) + .1rem)

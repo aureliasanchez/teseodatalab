@@ -3,19 +3,21 @@
 
 <head>
     <!-- Meta -->
-    <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
     <meta charset="utf-8">
-    <meta name="description"
-        content="Servicios integrales de Teseo diseñados para transformar datos en estrategias de éxito. Conoce nuestros servicios de investigación, desarrollo, inteligencia artificial, consultoría y marketing, y servicios digitales.">
+    <meta name="description" content="Servicios integrales de Teseo diseñados para transformar datos en estrategias de éxito. Conoce nuestros servicios de investigación, desarrollo, inteligencia artificial, consultoría y marketing, y servicios digitales.">
     <meta property="og:title" content="Teseo & Data | Servicios">
-    <meta property="og:description"
-        content="Servicios integrales de Teseo diseñados para transformar datos en estrategias de éxito. Conoce nuestros servicios de investigación, desarrollo, inteligencia artificial, consultoría y marketing, y servicios digitales.">
+    <meta property="og:description" content="Servicios integrales de Teseo diseñados para transformar datos en estrategias de éxito. Conoce nuestros servicios de investigación, desarrollo, inteligencia artificial, consultoría y marketing, y servicios digitales.">
     <meta property="og:url" content="https://teseo.com/servicio.php">
     <meta property="og:image" content="https://teseo.com/assets/img/ogimage_servicios.png">
+    <meta name="twitter:card" content="summary">
+    <meta name="viewport" content="width=device-width,viewport-fit=cover">
+    <meta name="format-detection" content="telephone=no, email=no, address=no">
+    <meta name="skype_toolbar" content="skype_toolbar_parser_compatible">
 
     <!-- Script -->
-    <script src="../asset/js/webfont.js" async></script>
-    <script src="../asset/js/common71c5.js" defer></script>
+    <script src="../../asset/js/webfont.js" async></script>
+    <script src="../../asset/js/common71c5.js" defer></script>
     <script type="application/ld+json"></script>
     <noscript>
         <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P9GDZFD" height="0" width="0"
@@ -46,11 +48,6 @@
                 <h1 class="header-heading _heading01  __inview-text01" data-pararax01-text01="0">
                     <span class="heading-main _f-futura_m _futura-lh1 _futura-nm __inview-span01">
                         Servicios integrales diseñados para transformar datos en estrategias de éxito
-                    </span>
-                    <span class="heading-sub __inview-span01 linkBlue">
-                        <a href="#">
-                            Descubre más
-                        </a>
                     </span>
                 </h1>
             </div>
@@ -151,7 +148,5 @@
     <?php include '../asset/html/lateral.html'; ?>
     <?php include '../asset/html/footer.html'; ?>
 </body>
-
-<!-- Mirrored from f-commission.com/project/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 26 Aug 2024 16:27:21 GMT -->
 
 </html>

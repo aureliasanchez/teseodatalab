@@ -89,7 +89,7 @@
 			<section class="top-projects">
 
 				<article class="project" id="Servicios">
-					<a href="#" class="_link-block01 _pc-pd40" data-pararax01>
+					<a href="./pages/servicio.php" class="_link-block01 _pc-pd40" data-pararax01>
 						<div class="project-img of _link-img01 __inview-img01 __inview-img01" data-pararax01-img01="0">
 							<picture>
 								<source srcset="./asset/img/repetidas/PANA1201.jpg" width="750" height="500"
@@ -125,7 +125,7 @@
 					</a>
 				</article>
 				<article class="project">
-					<a href="#" class="_link-block01 _pc-pd40" data-pararax01>
+					<a href="./pages/portafolio.php" class="_link-block01 _pc-pd40" data-pararax01>
 						<div class="project-img of _link-img01 __inview-img01 __inview-img01" data-pararax01-img01="0">
 							<picture>
 								<source srcset="./asset/img/repetidas/S5A9918-Editar-1024x683.jpg" width="750" height="500" media="(max-width:640px)">

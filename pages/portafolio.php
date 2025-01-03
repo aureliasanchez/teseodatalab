@@ -3,7 +3,7 @@
 
 <head>
     <!-- Meta -->
-    <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
     <meta charset="utf-8">
     <meta name="description"
         content="Explora el portafolio de Teseo, donde mostramos nuestros proyectos destacados en programación y desarrollo de software. Conoce nuestras soluciones innovadoras y casos de éxito.">
@@ -12,6 +12,10 @@
         content="Explora el portafolio de Teseo, donde mostramos nuestros proyectos destacados en programación y desarrollo de software. Conoce nuestras soluciones innovadoras y casos de éxito.">
     <meta property="og:url" content="https://teseo.com/portafolio.php">
     <meta property="og:image" content="https://teseo.com/assets/img/ogimage_portafolio.png">
+    <meta name="twitter:card" content="summary">
+    <meta name="viewport" content="width=device-width,viewport-fit=cover">
+    <meta name="format-detection" content="telephone=no, email=no, address=no">
+    <meta name="skype_toolbar" content="skype_toolbar_parser_compatible">
 
     <!-- Script -->
     <script src="../asset/js/webfont.js" async></script>

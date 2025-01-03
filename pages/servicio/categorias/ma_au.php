@@ -6,12 +6,12 @@
 	<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 	<meta charset="utf-8">
 	<meta name="description"
-		content="Conoce a nuestros asociados en Teseo, expertos en datos y desarrollo de software dedicados a transformar industrias con inteligencia artificial.">
-	<meta property="og:title" content="Teseo & Data | Asociados">
+		content="Descubre nuestras soluciones de masificación y automatización en Teseo, incluyendo generación de bases de datos, campañas masivas vía WhatsApp y desarrollo de A/B testing.">
+	<meta property="og:title" content="Teseo & Data | Masificación y Automatización">
 	<meta property="og:description"
-		content="Conoce a nuestros asociados en Teseo, expertos en datos y desarrollo de software dedicados a transformar industrias con inteligencia artificial.">
-	<meta property="og:url" content="https://teseo.com/associate.php">
-	<meta property="og:image" content="https://teseo.com/assets/img/ogimage_associate.png">
+		content="Descubre nuestras soluciones de masificación y automatización en Teseo, incluyendo generación de bases de datos, campañas masivas vía WhatsApp y desarrollo de A/B testing.">
+	<meta property="og:url" content="https://teseo.com/ma_au.php">
+	<meta property="og:image" content="https://teseo.com/assets/img/ogimage_ma_au.png">
 	<meta name="twitter:card" content="summary">
 	<meta name="viewport" content="width=device-width,viewport-fit=cover">
 	<meta name="format-detection" content="telephone=no, email=no, address=no">
@@ -38,7 +38,7 @@
 	<link rel="canonical" href="./equipo.php">
 
 	<link rel="icon" href="../../../asset/img/repetidas/logos/fotoDePerfil1.jpg">
-	<title>Teseo & Data | Associate</title>
+	<title>Teseo & Data | Masificación y Automatización</title>
 </head>
 
 <body id="Pagetop" class="page_people">
@@ -50,10 +50,7 @@
 			<div class="mod-lowerpage-haeder01 _pc-pd40 _sp-pd20" data-pararax01>
 				<h1 class="header-heading _heading01  __inview-text01" data-pararax01-text01="0">
 					<span class="heading-main _f-futura_m _futura-lh1 _futura-nm __inview-span01">
-						Miembros
-					</span>
-					<span class="heading-sub __inview-span01">
-						Personas que trabajan de TESEO DataLab
+						Servicios integrales diseñados para transformar datos en estrategias de éxito
 					</span>
 				</h1>
 			</div>
@@ -62,10 +59,10 @@
 				data-pararax01-text01=".4">
 
 				<span class="heading-main _f-futura_d _futura-lh1 _futura-nm __inview-span01">
-					Lista de miembros
+					Lista de servicios
 				</span>
 				<span class="heading-sub __inview-span01">
-					Nuestros Associates
+					Nuestros Servicios
 				</span>
 
 			</h2>
@@ -76,7 +73,7 @@
 					<aside class="post-aside">
 
 						<h3 class="aside-heading _f-futura_d _futura-lh1 _futura-nm">
-							PUESTOS
+							SERVICIOS
 						</h3>
 						<div class="aside_wrap splide _sp-nm20 _sp-pd20">
 
@@ -84,10 +81,10 @@
 								<div class="aside_inner splide__list">
 
 									<div class="aside-link splide__slide">
-										<a href="../equipo.php#PostList">
+										<a href="../servicio.php#PostList">
 
 											<span class="ja">
-												Todos los puestos
+												Todos los Servicios
 											</span>
 											<span class="en _f-futura_d _futura-lh1 _futura-nm">
 												Completos
@@ -96,51 +93,52 @@
 										</a>
 									</div>
 									<div class="aside-link splide__slide">
-										<a href="./seinor.php#PostList">
-
-											<span class="ja">
-												Senior Partner
-											</span>
+										<a href="./in_an.php#PostList">
 											<span class="en _f-futura_d _futura-lh1 _futura-nm">
-												Seniors
+												Investigación y Análisis
 											</span>
-
 										</a>
 									</div>
 									<div class="aside-link splide__slide">
-										<a href="./lider.php#PostList">
-
-											<span class="ja">
-												Project Lider
-											</span>
+										<a href="./consultoria.php#PostList">
 											<span class="en _f-futura_d _futura-lh1 _futura-nm">
-												Liders
+												Consultoría
 											</span>
-
+										</a>
+									</div>
+									<div class="aside-link splide__slide">
+										<a href="./da_dri_ma.php#PostList">
+											<span class="en _f-futura_d _futura-lh1 _futura-nm">
+												Data-Driven Marketing
+											</span>
 										</a>
 									</div>
 									<div class="aside-link splide__slide _current">
-										<a href="./associate.php#PostList">
-
-											<span class="ja">
-												Associate
-											</span>
+										<a href="./ma_au.php#PostList">
 											<span class="en _f-futura_d _futura-lh1 _futura-nm">
-												Associates
+												Masificación y Automatización
 											</span>
-
 										</a>
 									</div>
 									<div class="aside-link splide__slide">
-										<a href="./intern.php#PostList">
-
-											<span class="ja">
-												Intern
-											</span>
+										<a href="./software.php#PostList">
 											<span class="en _f-futura_d _futura-lh1 _futura-nm">
-												Interns
+												Software
 											</span>
-
+										</a>
+									</div>
+									<div class="aside-link splide__slide">
+										<a href="./restaurantes.php#PostList">
+											<span class="en _f-futura_d _futura-lh1 _futura-nm">
+												Restaurantes
+											</span>
+										</a>
+									</div>
+									<div class="aside-link splide__slide">
+										<a href="./bi_ra.php#PostList">
+											<span class="en _f-futura_d _futura-lh1 _futura-nm">
+												Bienes Raíces
+											</span>
 										</a>
 									</div>
 
@@ -176,96 +174,12 @@
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span01">
-										Associate
+										Creación de bases segmentadas y verificadas.
 									</span>
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span01">
-										Luis Fernando
-									</span>
-								</p>
-
-							</a>
-						</article>
-						<article class="archive-article">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01"
-									data-pararax01-img01="0">
-									<img src="../../../asset/img/pages/equipo/women.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
-								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
-										Associate
-									</span>
-								</p>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
-										Aurelia
-									</span>
-								</p>
-
-							</a>
-						</article>
-						<article class="archive-article">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01"
-									data-pararax01-img01="0">
-									<img src="../../../asset/img/pages/equipo/women.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
-								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
-										Associate
-									</span>
-								</p>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
-										Yoali
-									</span>
-								</p>
-
-							</a>
-						</article>
-						<article class="archive-article">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01"
-									data-pararax01-img01="0">
-									<img src="../../../asset/img/pages/equipo/women.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
-								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
-										Associate
-									</span>
-								</p>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
-										Fernanda
-									</span>
-								</p>
-
-							</a>
-						</article>
-						<article class="archive-article">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01"
-									data-pararax01-img01="0">
-									<img src="../../../asset/img/pages/equipo/women.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
-								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
-										Associate
-									</span>
-								</p>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
-										America
+										Generación de Bases de Datos
 									</span>
 								</p>
 
@@ -281,12 +195,33 @@
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span01">
-										Associate
+										Envío automatizado y seguimiento.
 									</span>
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span01">
-										Uris
+										Campañas Masivas Vía WhatsApp
+									</span>
+								</p>
+
+							</a>
+						</article>
+						<article class="archive-article">
+							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+
+								<div class="article-img link-img of _link-img01 __inview-img01"
+									data-pararax01-img01="0">
+									<img src="../../../asset/img/pages/equipo/man.png" width="620" height="620"
+										alt="Daniel" loading="lazy">
+								</div>
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span01">
+										Pruebas para medir efectividad de productos y campañas.
+									</span>
+								</p>
+								<p class="article-name _link-text01" data-pararax01-text01="0.4">
+									<span class="_link-span01">
+										Desarrollo de A/B Testing
 									</span>
 								</p>
 

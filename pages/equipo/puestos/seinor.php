@@ -3,19 +3,17 @@
 
 <head>
 	<!-- Meta -->
-	<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-	<meta charset="utf-8">
-	<meta name="description"
-		content="Conoce al equipo de Teseo, un grupo de expertos en datos y desarrollo de software dedicados a transformar industrias con inteligencia artificial.">
-	<meta property="og:title" content="Teseo & Data | Nuestro Equipo">
-	<meta property="og:description"
-		content="Conoce al equipo de Teseo, un grupo de expertos en datos y desarrollo de software dedicados a transformar industrias con inteligencia artificial.">
-	<meta property="og:url" content="https://teseo.com/equipo.php">
-	<meta property="og:image" content="https://teseo.com/assets/img/ogimage_equipo.png">
-	<meta name="twitter:card" content="summary">
-	<meta name="viewport" content="width=device-width,viewport-fit=cover">
-	<meta name="format-detection" content="telephone=no, email=no, address=no">
-	<meta name="skype_toolbar" content="skype_toolbar_parser_compatible">
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+    <meta charset="utf-8">
+    <meta name="description" content="Conoce a nuestros profesionales senior en Teseo, expertos en datos y desarrollo de software dedicados a transformar industrias con inteligencia artificial.">
+    <meta property="og:title" content="Teseo & Data | Profesionales Senior">
+    <meta property="og:description" content="Conoce a nuestros profesionales senior en Teseo, expertos en datos y desarrollo de software dedicados a transformar industrias con inteligencia artificial.">
+    <meta property="og:url" content="https://teseo.com/seinor.php">
+    <meta property="og:image" content="https://teseo.com/assets/img/ogimage_seinor.png">
+    <meta name="twitter:card" content="summary">
+    <meta name="viewport" content="width=device-width,viewport-fit=cover">
+    <meta name="format-detection" content="telephone=no, email=no, address=no">
+    <meta name="skype_toolbar" content="skype_toolbar_parser_compatible">
 
 	<!-- Script -->
 	<script src="../../../asset/js/webfont.js" async></script>
@@ -38,7 +36,7 @@
 	<link rel="canonical" href="./equipo.php">
 
 	<link rel="icon" href="../../../asset/img/repetidas/logos/fotoDePerfil1.jpg">
-	<title>Teseo & Data | Equipo</title>
+	<title>Teseo & Data | Seinor</title>
 </head>
 
 <body id="Pagetop" class="page_people">

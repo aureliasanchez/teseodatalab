@@ -2,16 +2,14 @@
 <html lang="ja" class=" os-win not-safari not-chrome not-edge not-ie not-googlebot addPrintMessage">
 
 <head>
-	<!-- Meta -->
+		<!-- Meta -->
 	<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 	<meta charset="utf-8">
-	<meta name="description"
-		content="Conoce a nuestros asociados en Teseo, expertos en datos y desarrollo de software dedicados a transformar industrias con inteligencia artificial.">
-	<meta property="og:title" content="Teseo & Data | Asociados">
-	<meta property="og:description"
-		content="Conoce a nuestros asociados en Teseo, expertos en datos y desarrollo de software dedicados a transformar industrias con inteligencia artificial.">
-	<meta property="og:url" content="https://teseo.com/associate.php">
-	<meta property="og:image" content="https://teseo.com/assets/img/ogimage_associate.png">
+	<meta name="description" content="Descubre nuestros servicios de investigación y análisis en Teseo, diseñados para transformar datos en estrategias de éxito.">
+	<meta property="og:title" content="Teseo & Data | Investigación y Análisis">
+	<meta property="og:description" content="Descubre nuestros servicios de investigación y análisis en Teseo, diseñados para transformar datos en estrategias de éxito.">
+	<meta property="og:url" content="https://teseo.com/in_an.php">
+	<meta property="og:image" content="https://teseo.com/assets/img/ogimage_in_an.png">
 	<meta name="twitter:card" content="summary">
 	<meta name="viewport" content="width=device-width,viewport-fit=cover">
 	<meta name="format-detection" content="telephone=no, email=no, address=no">
@@ -38,7 +36,7 @@
 	<link rel="canonical" href="./equipo.php">
 
 	<link rel="icon" href="../../../asset/img/repetidas/logos/fotoDePerfil1.jpg">
-	<title>Teseo & Data | Associate</title>
+	<title>Teseo & Data | Investigación y Análisis</title>
 </head>
 
 <body id="Pagetop" class="page_people">
@@ -50,10 +48,7 @@
 			<div class="mod-lowerpage-haeder01 _pc-pd40 _sp-pd20" data-pararax01>
 				<h1 class="header-heading _heading01  __inview-text01" data-pararax01-text01="0">
 					<span class="heading-main _f-futura_m _futura-lh1 _futura-nm __inview-span01">
-						Miembros
-					</span>
-					<span class="heading-sub __inview-span01">
-						Personas que trabajan de TESEO DataLab
+						Servicios integrales diseñados para transformar datos en estrategias de éxito
 					</span>
 				</h1>
 			</div>
@@ -62,10 +57,10 @@
 				data-pararax01-text01=".4">
 
 				<span class="heading-main _f-futura_d _futura-lh1 _futura-nm __inview-span01">
-					Lista de miembros
+					Lista de servicios
 				</span>
 				<span class="heading-sub __inview-span01">
-					Nuestros Associates
+					Nuestros Servicios
 				</span>
 
 			</h2>
@@ -76,7 +71,7 @@
 					<aside class="post-aside">
 
 						<h3 class="aside-heading _f-futura_d _futura-lh1 _futura-nm">
-							PUESTOS
+							SERVICIOS
 						</h3>
 						<div class="aside_wrap splide _sp-nm20 _sp-pd20">
 
@@ -84,10 +79,10 @@
 								<div class="aside_inner splide__list">
 
 									<div class="aside-link splide__slide">
-										<a href="../equipo.php#PostList">
+										<a href="../servicio.php#PostList">
 
 											<span class="ja">
-												Todos los puestos
+												Todos los Servicios
 											</span>
 											<span class="en _f-futura_d _futura-lh1 _futura-nm">
 												Completos
@@ -95,52 +90,53 @@
 
 										</a>
 									</div>
-									<div class="aside-link splide__slide">
-										<a href="./seinor.php#PostList">
-
-											<span class="ja">
-												Senior Partner
-											</span>
-											<span class="en _f-futura_d _futura-lh1 _futura-nm">
-												Seniors
-											</span>
-
-										</a>
-									</div>
-									<div class="aside-link splide__slide">
-										<a href="./lider.php#PostList">
-
-											<span class="ja">
-												Project Lider
-											</span>
-											<span class="en _f-futura_d _futura-lh1 _futura-nm">
-												Liders
-											</span>
-
-										</a>
-									</div>
 									<div class="aside-link splide__slide _current">
-										<a href="./associate.php#PostList">
-
-											<span class="ja">
-												Associate
-											</span>
+										<a href="./in_an.php#PostList">
 											<span class="en _f-futura_d _futura-lh1 _futura-nm">
-												Associates
+												Investigación y Análisis
 											</span>
-
 										</a>
 									</div>
 									<div class="aside-link splide__slide">
-										<a href="./intern.php#PostList">
-
-											<span class="ja">
-												Intern
-											</span>
+										<a href="./consultoria.php#PostList">
 											<span class="en _f-futura_d _futura-lh1 _futura-nm">
-												Interns
+												Consultoría
 											</span>
-
+										</a>
+									</div>
+									<div class="aside-link splide__slide">
+										<a href="./da_dri_ma.php#PostList">
+											<span class="en _f-futura_d _futura-lh1 _futura-nm">
+												Data-Driven Marketing
+											</span>
+										</a>
+									</div>
+									<div class="aside-link splide__slide">
+										<a href="./ma_au.php#PostList">
+											<span class="en _f-futura_d _futura-lh1 _futura-nm">
+												Masificación y Automatización
+											</span>
+										</a>
+									</div>
+									<div class="aside-link splide__slide">
+										<a href="./software.php#PostList">
+											<span class="en _f-futura_d _futura-lh1 _futura-nm">
+												Software
+											</span>
+										</a>
+									</div>
+									<div class="aside-link splide__slide">
+										<a href="./restaurantes.php#PostList">
+											<span class="en _f-futura_d _futura-lh1 _futura-nm">
+												Restaurantes
+											</span>
+										</a>
+									</div>
+									<div class="aside-link splide__slide">
+										<a href="./bi_ra.php#PostList">
+											<span class="en _f-futura_d _futura-lh1 _futura-nm">
+												Bienes Raíces
+											</span>
 										</a>
 									</div>
 
@@ -176,96 +172,12 @@
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span01">
-										Associate
+										Evaluación de proyectos para determinar su factibilidad y potencial de éxito.
 									</span>
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span01">
-										Luis Fernando
-									</span>
-								</p>
-
-							</a>
-						</article>
-						<article class="archive-article">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01"
-									data-pararax01-img01="0">
-									<img src="../../../asset/img/pages/equipo/women.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
-								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
-										Associate
-									</span>
-								</p>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
-										Aurelia
-									</span>
-								</p>
-
-							</a>
-						</article>
-						<article class="archive-article">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01"
-									data-pararax01-img01="0">
-									<img src="../../../asset/img/pages/equipo/women.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
-								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
-										Associate
-									</span>
-								</p>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
-										Yoali
-									</span>
-								</p>
-
-							</a>
-						</article>
-						<article class="archive-article">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01"
-									data-pararax01-img01="0">
-									<img src="../../../asset/img/pages/equipo/women.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
-								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
-										Associate
-									</span>
-								</p>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
-										Fernanda
-									</span>
-								</p>
-
-							</a>
-						</article>
-						<article class="archive-article">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01"
-									data-pararax01-img01="0">
-									<img src="../../../asset/img/pages/equipo/women.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
-								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
-										Associate
-									</span>
-								</p>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
-										America
+										Análisis de Viabilidad
 									</span>
 								</p>
 
@@ -281,12 +193,55 @@
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span01">
-										Associate
+										Análisis financiero detallado para respaldar decisiones de inversión.
 									</span>
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span01">
-										Uris
+										Factibilidad Financiera
+									</span>
+								</p>
+
+							</a>
+						</article>
+						<article class="archive-article">
+							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+
+								<div class="article-img link-img of _link-img01 __inview-img01"
+									data-pararax01-img01="0">
+									<img src="../../../asset/img/pages/equipo/man.png" width="620" height="620"
+										alt="Daniel" loading="lazy">
+								</div>
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span01">
+										Segmentación avanzada para identificar oportunidades y clientes potenciales.
+									</span>
+								</p>
+								<p class="article-name _link-text01" data-pararax01-text01="0.4">
+									<span class="_link-span01">
+										Dataeconométrico con Identificación de Cliente Potencial
+									</span>
+								</p>
+
+							</a>
+						</article>
+						<article class="archive-article">
+							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+
+								<div class="article-img link-img of _link-img01 __inview-img01"
+									data-pararax01-img01="0">
+									<img src="../../../asset/img/pages/equipo/man.png" width="620" height="620"
+										alt="Daniel" loading="lazy">
+								</div>
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span01">
+										Estudios exhaustivos que integran tendencias, competidores y comportamiento del
+										consumidor para guiar decisiones estratégicas.
+									</span>
+								</p>
+								<p class="article-name _link-text01" data-pararax01-text01="0.4">
+									<span class="_link-span01">
+										Reportes y Análisis de Mercado
 									</span>
 								</p>
 
