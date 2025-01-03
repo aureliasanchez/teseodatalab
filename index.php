@@ -101,19 +101,19 @@
 						<div class="project-text _sp-pd20">
 
 							<h2 class="text-heading _link-text01" data-pararax01-text01="0.4">
-								<span class="_link-span01">
+								<span class="_link-span02">
 									Lidera con datos. Transforma tu industria con decisiones estratégicas basadas en
 									inteligencia artificial
 								</span>
 							</h2>
 							<p class="text-client _link-text01" data-pararax01-text01=".7">
-								<span class="_link-span01">
+								<span class="_link-span02">
 									Somos expertos en convertir datos complejos en soluciones claras que impulsan tu
 									negocio hacia el futuro
 								</span>
 							</p>
 							<p class="text-category _link-text01" data-pararax01-text01="1.0">
-								<span class="_link-span01">
+								<span class="_link-span02">
 									Explora nuestras soluciones
 								</span>
 							</p>
@@ -125,7 +125,7 @@
 					</a>
 				</article>
 				<article class="project">
-					<a href="./pages/portafolio.php" class="_link-block01 _pc-pd40" data-pararax01>
+					<a href="./pages/portafolio/portafolio.php" class="_link-block01 _pc-pd40" data-pararax01>
 						<div class="project-img of _link-img01 __inview-img01 __inview-img01" data-pararax01-img01="0">
 							<picture>
 								<source srcset="./asset/img/repetidas/S5A9918-Editar-1024x683.jpg" width="750" height="500" media="(max-width:640px)">

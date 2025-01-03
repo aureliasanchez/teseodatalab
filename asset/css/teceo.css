@@ -4,14 +4,22 @@
 }
 
 @media screen and (min-width: 640px) {
-    .linkBlue:hover {
-        background-color: #64adb5 !important;
-        color: #000 !important
+    .fontPurple {
+        color: #644db5 !important;
+    }
+
+    .fontRed {
+        color: #eb32ff !important;
+    }
+
+    .linkPurple:hover {
+        background-color: #644db5 !important;
+        color: #fff !important
     }
     
     .linkRed:hover {
         background-color: #eb32ff !important;
-        color: #000 !important
+        color: #fff !important
     }
 
     .linkBlack:hover {

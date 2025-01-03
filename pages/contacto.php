@@ -63,15 +63,31 @@
 					</h2>
 					<div class="introduction-tel_block">
 						<p class="tel">
-							<a href="https://wa.me/7711685825" target="_blank" data-tel="77-11-685-825"
-								class="_button01 linkRed">
+							<a href="https://wa.me/527713306407" target="_blank" data-tel="771-330-6407"
+								class="_button01 fontRed linkPurple">
 								<span data-sc-sp>
-									Teléfono
+									771-330-6407
 								</span>
 								<i class="_arrow-right01" data-sc-sp></i>
 							</a>
 						</p>
-						<p class="tel-annotation">［Horario de atencion］ 10:00-20:00 CST</p>
+						<br>
+						<p class="cor">
+							<a href="https://mail.google.com/mail/?view=cm&fs=1&to=contacto@teseodata.com"
+								target="_blank" data-tel="contacto@teseodata.com" class="_button01 fontRed linkPurple">
+								<span data-sc-sp>
+									contacto@teseodata.com
+								</span>
+								<i class="_arrow-right01" data-sc-sp></i>
+							</a>
+						</p>
+						<p class="tel-annotation">
+							［Horario de atencion］
+							<br>
+							Lunes a Viernes - 09:00-18:00 CST
+							<br>
+							Sábado - 09:00-14:00 CST
+						</p>
 					</div>
 				</div>
 
@@ -92,7 +108,8 @@
 					<a href="https://www.tiktok.com/@teseodata" target="_blank" class="social-icon-black">
 						<i class="fab fa-tiktok"></i>
 					</a>
-					<a href="https://www.linkedin.com/company/teseo-data-center/" target="_blank" class="social-icon-black">
+					<a href="https://www.linkedin.com/company/teseo-data-center/" target="_blank"
+						class="social-icon-black">
 						<i class="fab fa-linkedin-in"></i>
 					</a>
 				</div>
@@ -106,137 +123,50 @@
 						Comunicate con nosotros a travbes del siguiente Formulario
 					</p>
 
-					<form id="Form" autocomplete="on" enctype="multipart/form-data" name="form" method="post" action="#"
-						class="formArea _pc-w980">
-						<div class="formlistWrap _pc-w980">
+					<form id="Form" autocomplete="on" enctype="text/plain" name="form" method="post"
+						action="./procesar.php" class="formArea _pc-w980">
 
-							<dl class="formlist -type" data-form-hissu data-form-unique="radio_type">
-								<dt class="formlistTit">
-									<span>
-										Requisito 1
-									</span>
-								</dt>
-								<dd class="formlistContent">
-									<div class="inputBlock">
-										<div class="itemWrap radioWrap radio_type">
-											<input data-checkboxradio="radio_type" type="hidden"
-												data-needinput-type="radio" data-needinput="radio_type">
-											<span class="radio">
-												<input type="radio" name="radio_type" value="採用" id="radio_type0"
-													checked="checked">
-												<label for="radio_type0">
-													<span>
-														Opcion 1
-													</span>
-												</label>
-											</span>
-											<span class="radio">
-												<input type="radio" name="radio_type" value="事業パートナー" id="radio_type1">
-												<label for="radio_type1">
-													<span>
-														Opcion 2
-													</span>
-												</label>
-											</span>
-											<span class="radio"><input type="radio" name="radio_type" value="取材"
-													id="radio_type2">
-												<label for="radio_type2">
-													<span>
-														Opcion 3
-													</span>
-												</label>
-											</span>
-											<span class="radio">
-												<input type="radio" name="radio_type" value="その他" id="radio_type3">
-												<label for="radio_type3">
-													<span>
-														Opcion 4
-													</span>
-												</label>
-											</span>
-										</div>
-									</div>
-								</dd>
-							</dl>
+						<div class="formlistWrap _pc-w980">
 
 							<dl class="formlist -name" data-form-hissu data-form-unique="text_firstname_autokana">
 								<dt class="formlistTit">
 									<span>
-										Requisoto 2
+										Nombre Completo
 									</span>
 								</dt>
 								<dd class="formlistContent">
 									<div class="contentSub">
 										<span class="subHeading">
-											A
+											N
 										</span>
 										<div class="inputBlock">
 											<div class="itemWrap textWrap text_firstname_autokana"><input
 													autocorrect="off" autocapitalize="off" type="text"
 													name="text_firstname_autokana" id="text_firstname_autokana" value=""
 													data-needinput="text_firstname_autokana" data-needinput-type="text"
-													placeholder="Opcion 1" data-form-autokana="1"
+													placeholder="Nombre" data-form-autokana="1"
 													autocomplete="family-name">
 											</div>
 										</div>
 									</div>
 									<div class="contentSub">
 										<span class="subHeading">
-											B
+											A
 										</span>
 										<div class="inputBlock">
 											<div class="itemWrap textWrap text_name_autokana"><input autocorrect="off"
 													autocapitalize="off" type="text" name="text_name_autokana"
 													id="text_name_autokana" value="" data-needinput="text_name_autokana"
-													data-needinput-type="text" placeholder="Opcion 2"
+													data-needinput-type="text" placeholder="Apellidos"
 													data-form-autokana="2" autocomplete="given-name"></div>
 										</div>
 									</div>
 								</dd>
 							</dl>
-
-							<dl class="formlist -name-kana" data-form-hissu
-								data-form-unique="text_firstname_autokana_target">
-								<dt class="formlistTit">
-									<span>
-										Requisito 3
-									</span>
-								</dt>
-								<dd class="formlistContent">
-									<div class="contentSub">
-										<span class="subHeading">
-											A
-										</span>
-										<div class="inputBlock">
-											<div class="itemWrap textWrap text_firstname_autokana_target"><input
-													autocorrect="off" autocapitalize="off" type="text"
-													name="text_firstname_autokana_target"
-													id="text_firstname_autokana_target" value=""
-													data-needinput="text_firstname_autokana_target"
-													data-needinput-type="text" placeholder="Opcion 1"
-													data-form-autokana_target="1"></div>
-										</div>
-									</div>
-									<div class="contentSub">
-										<span class="subHeading">
-											B
-										</span>
-										<div class="inputBlock">
-											<div class="itemWrap textWrap text_name_autokana_target"><input
-													autocorrect="off" autocapitalize="off" type="text"
-													name="text_name_autokana_target" id="text_name_autokana_target"
-													value="" data-needinput="text_name_autokana_target"
-													data-needinput-type="text" placeholder="Opcion 2"
-													data-form-autokana_target="2"></div>
-										</div>
-									</div>
-								</dd>
-							</dl>
-
 							<dl class="formlist -mail" data-form-hissu data-form-unique="text_mail">
 								<dt class="formlistTit">
 									<span>
-										Requisito 4
+										Correo Electronico
 									</span>
 								</dt>
 								<dd class="formlistContent">
@@ -246,52 +176,80 @@
 												value="" size="40" autocomplete="email"
 												pattern="^[A-Za-z0-9]{1}[A-Za-z0-9_.-]*@{1}[A-Za-z0-9_.-]{1,}\.[A-Za-z0-9]{1,}$"
 												data-needinput="text_mail" data-needinput-type="email"
-												placeholder="Texto">
+												placeholder="Correo">
 										</div>
 									</div>
 								</dd>
 							</dl>
-
-							<dl class="formlist -mail" data-form-hissu data-form-unique="text_mail">
+							<dl class="formlist -mail" data-form-hissu data-form-unique="ciudad">
 								<dt class="formlistTit">
 									<span>
-										Requisito 5
+										Ciudad de residencia
+									</span>
+								</dt>
+								<dd class="formlistContent">
+									<div class="inputBlock">
+										<div class="itemWrap emailWrap text_mail">
+											<input autocorrect="off" autocapitalize="off" type="text" name="ciudad"
+												id="ciudad" value="" size="40" autocomplete="address-level2"
+												pattern="[A-Za-zÀ-ÿ ]+" data-needinput="ciudad" placeholder="Ciudad">
+										</div>
+									</div>
+								</dd>
+							</dl>
+							<dl class="formlist -mail" data-form-hissu data-form-unique="industria">
+								<dt class="formlistTit">
+									<span>
+										Industria
+									</span>
+								</dt>
+								<dd class="formlistContent">
+									<div class="inputBlock">
+										<div class="itemWrap emailWrap text_mail">
+											<input autocorrect="off" autocapitalize="off" type="text" name="industria"
+												id="industria" value="" size="40" autocomplete="off"
+												pattern="[A-Za-zÀ-ÿ ]+" data-needinput="industria"
+												placeholder="Industria">
+										</div>
+									</div>
+								</dd>
+							</dl>
+							<dl class="formlist -mail" data-form-hissu data-form-unique="tel">
+								<dt class="formlistTit">
+									<span>
+										Telefonó
 									</span>
 								</dt>
 								<dd class="formlistContent">
 									<div class="inputBlock">
 										<div class="itemWrap emailWrap text_mail"><input autocorrect="off"
-												autocapitalize="off" type="email" name="text_mail" id="text_mail"
-												value="" size="40" autocomplete="email"
-												pattern="^[A-Za-z0-9]{1}[A-Za-z0-9_.-]*@{1}[A-Za-z0-9_.-]{1,}\.[A-Za-z0-9]{1,}$"
-												data-needinput="text_mail" data-needinput-type="email"
-												placeholder="Texto">
+												autocapitalize="off" type="tel" name="tel" id="tel" value="" size="40"
+												autocomplete="off" pattern="\+?[0-9]{10,15}" data-needinput="tel"
+												data-needinput-type="tel" placeholder="Número telefonico">
 										</div>
 									</div>
 								</dd>
 							</dl>
-
-							<dl class="formlist -inquiry" data-form-unique="textarea_inquiry">
+							<dl class="formlist -inquiry" data-form-unique="contacto">
 								<dt class="formlistTit">
 									<span>
-										Requisito 6
+										Motivo del contacto
 									</span>
 								</dt>
 								<dd class="formlistContent">
 									<div class="inputBlock">
-										<div class="itemWrap textareaWrap textarea_inquiry"><textarea
-												name="textarea_inquiry" id="textarea_inquiry"></textarea></div>
+										<div class="itemWrap textareaWrap textarea_inquiry"><textarea name="contacto"
+												id="contacto"></textarea></div>
 									</div>
 								</dd>
 							</dl>
+
 						</div>
-
 						<p class="form-privacylink">
-							<a href="#" target="_blank">
+							<a href="./politicas.php" target="_blank">
 								Terminos de privacidad
 							</a>
 						</p>
-
 						<div class="formbtnarea">
 							<button class="formbtn ConfirmBtn _button01" id="ConfirmBtn" type="submit">
 								<span>
@@ -299,8 +257,8 @@
 								</span>
 								<i class="_arrow-right01"></i></button>
 							<input type="hidden" name="mode" value="confirm">
-
 						</div>
+
 					</form>
 
 				</div>

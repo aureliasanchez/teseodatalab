@@ -138,13 +138,28 @@
         width: 100%
     }
 
+    .contact-contents .introduction-tel_block .cor>a {
+        width: 100%
+    }
+
     .contact-contents .introduction-tel_block .tel>a i,
     .contact-contents .introduction-tel_block .tel>a i:after,
     .contact-contents .introduction-tel_block .tel>a i:before {
         background-color: #fff
     }
 
+    .contact-contents .introduction-tel_block .cor>a i,
+    .contact-contents .introduction-tel_block .cor>a i:after,
+    .contact-contents .introduction-tel_block .cor>a i:before {
+        background-color: #fff
+    }
+
     .contact-contents .introduction-tel_block .tel>a i {
+        margin: 0 0 0 .12rem;
+        position: relative
+    }
+
+    .contact-contents .introduction-tel_block .cor>a i {
         margin: 0 0 0 .12rem;
         position: relative
     }
@@ -210,8 +225,26 @@
         letter-spacing: .05em
     }
 
+    .contact-contents .introduction-tel_block .cor>a {
+        align-items: flex-end;
+        height: auto;
+        color: #000;
+        line-height: .75;
+        background-color: transparent;
+        font-family: futura-pt, "游ゴシック", "游ゴシック体", "Yu Gothic", YuGothic, sans-serif;
+        font-weight: 600;
+        font-size: .5rem;
+        letter-spacing: .05em
+    }
+
     .contact-contents .introduction-tel_block .tel>a:before {
         content: "TEL";
+        margin-right: .2em;
+        font-size: .6em
+    }
+
+    .contact-contents .introduction-tel_block .cor>a:before {
+        content: "COR";
         margin-right: .2em;
         font-size: .6em
     }
@@ -220,7 +253,15 @@
         content: attr(data-tel)
     }
 
+    .contact-contents .introduction-tel_block .cor>a:after {
+        content: attr(data-tel)
+    }
+
     .no-touchevents .contact-contents .introduction-tel_block .tel>a:hover {
+        background-color: transparent
+    }
+
+    .no-touchevents .contact-contents .introduction-tel_block .cor>a:hover {
         background-color: transparent
     }
 

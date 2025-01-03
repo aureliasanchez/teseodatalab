@@ -582,7 +582,7 @@ textarea {
     align-items: center;
     justify-content: center;
     height: auto;
-    background-color: rgba(0, 0, 0, .3);
+    background-color: #644db5;
     color: #fff
 }
 
@@ -730,7 +730,14 @@ textarea {
 .formbtnarea ._button01 i,
 .formbtnarea ._button01 i:after,
 .formbtnarea ._button01 i:before {
+    transition: background-color 0.5s ease, color 0.5s ease;
     background-color: #fff
+}
+
+.formbtnarea ._button01:hover i,
+.formbtnarea ._button01:hover i:after,
+.formbtnarea ._button01:hover i:before {
+    background-color: #000
 }
 
 .formfin {
@@ -2422,7 +2429,7 @@ a.ui-button:active {
         margin-top: .08rem
     }
 
-    .formlist[data-form-hissu] .formlistTit:after,
+    /* .formlist[data-form-hissu] .formlistTit:after,
     .formlist[data-form-hissuteam-hissu] .formlistTit:after {
         content: "form200";
         display: inline-block;
@@ -2430,7 +2437,7 @@ a.ui-button:active {
         line-height: 1;
         color: #fff;
         background-color: #000
-    }
+    } */
 
     .errorWrap .errorList li {
         font-size: .14rem
@@ -2565,7 +2572,7 @@ a.ui-button:active {
         flex: 1
     }
 
-    .formArea:not(.confirm) .formlist[data-form-hissu]:not(.-type) .formlistContent:before,
+    /* .formArea:not(.confirm) .formlist[data-form-hissu]:not(.-type) .formlistContent:before,
     .formArea:not(.confirm) .formlist[data-form-hissuteam-hissu]:not(.-type) .formlistContent:before {
         content: "form200";
         flex-shrink: 0;
@@ -2575,7 +2582,7 @@ a.ui-button:active {
         line-height: 1;
         color: #fff;
         background-color: #000
-    }
+    } */
 
     .formbtnarea {
         display: flex;
