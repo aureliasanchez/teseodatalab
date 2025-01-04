@@ -170,12 +170,12 @@
 										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Tableros operativos y estratégicos.
 									</span>
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Dashboards Personalizados
 									</span>
 								</p>
@@ -191,12 +191,12 @@
 										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Herramientas digitales personalizadas.
 									</span>
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Soluciones SaaS
 									</span>
 								</p>
@@ -212,12 +212,12 @@
 										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Sistemas inteligentes para optimizar procesos.
 									</span>
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Automatización de Operaciones
 									</span>
 								</p>

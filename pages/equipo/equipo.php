@@ -3,17 +3,19 @@
 
 <head>
 	<!-- Meta -->
-    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-    <meta charset="utf-8">
-    <meta name="description" content="Conoce al equipo de Teseo, un grupo de expertos en datos y desarrollo de software dedicados a transformar industrias con inteligencia artificial.">
-    <meta property="og:title" content="Teseo & Data | Nuestro Equipo">
-    <meta property="og:description" content="Conoce al equipo de Teseo, un grupo de expertos en datos y desarrollo de software dedicados a transformar industrias con inteligencia artificial.">
-    <meta property="og:url" content="https://teseo.com/equipo.php">
-    <meta property="og:image" content="https://teseo.com/assets/img/ogimage_equipo.png">
-    <meta name="twitter:card" content="summary">
-    <meta name="viewport" content="width=device-width,viewport-fit=cover">
-    <meta name="format-detection" content="telephone=no, email=no, address=no">
-    <meta name="skype_toolbar" content="skype_toolbar_parser_compatible">
+	<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+	<meta charset="utf-8">
+	<meta name="description"
+		content="Conoce al equipo de Teseo, un grupo de expertos en datos y desarrollo de software dedicados a transformar industrias con inteligencia artificial.">
+	<meta property="og:title" content="Teseo & Data | Nuestro Equipo">
+	<meta property="og:description"
+		content="Conoce al equipo de Teseo, un grupo de expertos en datos y desarrollo de software dedicados a transformar industrias con inteligencia artificial.">
+	<meta property="og:url" content="https://teseo.com/equipo.php">
+	<meta property="og:image" content="https://teseo.com/assets/img/ogimage_equipo.png">
+	<meta name="twitter:card" content="summary">
+	<meta name="viewport" content="width=device-width,viewport-fit=cover">
+	<meta name="format-detection" content="telephone=no, email=no, address=no">
+	<meta name="skype_toolbar" content="skype_toolbar_parser_compatible">
 
 	<!-- Script -->
 	<script src="../../asset/js/webfont.js" async></script>
@@ -118,6 +120,15 @@
 										</a>
 									</div>
 									<div class="aside-link splide__slide">
+										<a href="./puestos/consultants.php#PostList">
+
+											<span class="en _f-futura_d _futura-lh1 _futura-nm">
+												Consultants
+											</span>
+
+										</a>
+									</div>
+									<div class="aside-link splide__slide">
 										<a href="./puestos/intern.php#PostList">
 
 											<span class="en _f-futura_d _futura-lh1 _futura-nm">
@@ -158,12 +169,12 @@
 										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Senior Partner
 									</span>
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Daniel
 									</span>
 								</p>
@@ -179,12 +190,12 @@
 										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Senior Partner
 									</span>
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Alex
 									</span>
 								</p>
@@ -200,12 +211,12 @@
 										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Senior Partner
 									</span>
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Dania
 									</span>
 								</p>
@@ -221,12 +232,12 @@
 										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Project Lider
 									</span>
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Lizbeth
 									</span>
 								</p>
@@ -242,12 +253,12 @@
 										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Associate
 									</span>
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Luis Fernando
 									</span>
 								</p>
@@ -263,12 +274,12 @@
 										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Associate
 									</span>
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Aurelia
 									</span>
 								</p>
@@ -284,12 +295,12 @@
 										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Associate
 									</span>
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Yoali
 									</span>
 								</p>
@@ -305,12 +316,12 @@
 										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Associate
 									</span>
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Fernanda
 									</span>
 								</p>
@@ -326,12 +337,12 @@
 										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Associate
 									</span>
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										America
 									</span>
 								</p>
@@ -347,12 +358,12 @@
 										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Associate
 									</span>
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Uris
 									</span>
 								</p>
@@ -368,12 +379,33 @@
 										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
+									<span class="_link-span03">
+										Behavior Sciences Expert
+									</span>
+								</p>
+								<p class="article-name _link-text01" data-pararax01-text01="0.4">
+									<span class="_link-span03">
+										Dr. TTubga Metinyurt
+									</span>
+								</p>
+
+							</a>
+						</article>
+						<article class="archive-article">
+							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+
+								<div class="article-img link-img of _link-img01 __inview-img01"
+									data-pararax01-img01="0">
+									<img src="../../asset/img/pages/equipo/women.png" width="620" height="620"
+										alt="Daniel" loading="lazy">
+								</div>
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">
 										Intern
 									</span>
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Miriam
 									</span>
 								</p>

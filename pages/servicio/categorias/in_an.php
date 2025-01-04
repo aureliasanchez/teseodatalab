@@ -170,12 +170,12 @@
 										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Evaluación de proyectos para determinar su factibilidad y potencial de éxito.
 									</span>
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Análisis de Viabilidad
 									</span>
 								</p>
@@ -191,12 +191,12 @@
 										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Análisis financiero detallado para respaldar decisiones de inversión.
 									</span>
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Factibilidad Financiera
 									</span>
 								</p>
@@ -212,12 +212,12 @@
 										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Segmentación avanzada para identificar oportunidades y clientes potenciales.
 									</span>
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Dataeconométrico con Identificación de Cliente Potencial
 									</span>
 								</p>
@@ -233,13 +233,13 @@
 										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Estudios exhaustivos que integran tendencias, competidores y comportamiento del
 										consumidor para guiar decisiones estratégicas.
 									</span>
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Reportes y Análisis de Mercado
 									</span>
 								</p>

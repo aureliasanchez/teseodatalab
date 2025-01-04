@@ -170,12 +170,12 @@
 										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										(Dataeconométricos) Análisis detallado del mercado.
 									</span>
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Reportes de Mercado
 									</span>
 								</p>
@@ -191,12 +191,12 @@
 										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Recomendaciones basadas en datos.
 									</span>
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Optimización de Menú
 									</span>
 								</p>
@@ -212,12 +212,12 @@
 										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Identificación de zonas estratégicas.
 									</span>
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Ubicaciones Potenciales
 									</span>
 								</p>
@@ -233,12 +233,12 @@
 										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Evaluación del retorno de inversión.
 									</span>
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Factibilidad Financiera
 									</span>
 								</p>
@@ -254,12 +254,12 @@
 										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Decoración, diseño y preferencias del cliente.
 									</span>
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Análisis de Tendencias
 									</span>
 								</p>

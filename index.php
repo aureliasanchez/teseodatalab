@@ -3,23 +3,27 @@
 
 <head>
 	<!-- Meta -->
-    <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
-    <meta charset="utf-8">
-    <meta name="description" content="Equipo global de científicos de datos y desarrolladores de software que utiliza IA para transformar tu industria.">
-    <meta property="og:title" content="Teseo DataLab | Análisis de Datos">
-    <meta property="og:description" content="Equipo global de científicos de datos y desarrolladores de software que utiliza IA para transformar tu industria.">
-    <meta property="og:url" content="https://teseo.com/index.php">
-    <meta property="og:image" content="https://teseo.com/assets/img/ogimage_index.png">
-    <meta name="twitter:card" content="summary">
-    <meta name="viewport" content="width=device-width,viewport-fit=cover">
-    <meta name="format-detection" content="telephone=no, email=no, address=no">
-    <meta name="skype_toolbar" content="skype_toolbar_parser_compatible">
+	<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+	<meta charset="utf-8">
+	<meta name="description"
+		content="Equipo global de científicos de datos y desarrolladores de software que utiliza IA para transformar tu industria.">
+	<meta property="og:title" content="Teseo DataLab | Análisis de Datos">
+	<meta property="og:description"
+		content="Equipo global de científicos de datos y desarrolladores de software que utiliza IA para transformar tu industria.">
+	<meta property="og:url" content="https://teseo.com/index.php">
+	<meta property="og:image" content="https://teseo.com/assets/img/ogimage_index.png">
+	<meta name="twitter:card" content="summary">
+	<meta name="viewport" content="width=device-width,viewport-fit=cover">
+	<meta name="format-detection" content="telephone=no, email=no, address=no">
+	<meta name="skype_toolbar" content="skype_toolbar_parser_compatible">
 
 	<!-- Script -->
 	<script src="./asset/js/webfont.js" async></script>
 	<script src="./asset/js/common71c5.js" defer></script>
 	<script src="./asset/js/indexccb0.js" defer></script>
-	<script type="application/ld+json"> </script>
+	<script src="./asset/js/carucel.js" defer></script>
+	<script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@3.6.9/dist/js/splide.min.js"></script>
+	<script type="application/ld+json"></script>
 	<noscript>
 		<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P9GDZFD" height="0" width="0"
 			style="display:none;visibility:hidden">
@@ -31,7 +35,9 @@
 	<link href="./asset/css/index83e0.css" rel="stylesheet">
 	<link href="./asset/css/teceo.css" rel="stylesheet">
 	<link href="./asset/css/redesSociales.css" rel="stylesheet">
+	<link href="./asset/css/carucel.css" rel="stylesheet">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@3.6.9/dist/css/splide.min.css">
 	<link rel="canonical" href="index.php">
 
 	<link rel="icon" href="./asset/img/repetidas/logos/fotoDePerfil1.jpg">
@@ -77,12 +83,6 @@
 						</span>
 					</p>
 				</div>
-				<a href="#Servicios" class="mainvisual-arrow _f-futura_d" data-pararax01-opacity01="1">
-					<i><i></i></i>
-					<span>
-						Servicios
-					</span>
-				</a>
 
 			</div>
 
@@ -128,8 +128,10 @@
 					<a href="./pages/portafolio/portafolio.php" class="_link-block01 _pc-pd40" data-pararax01>
 						<div class="project-img of _link-img01 __inview-img01 __inview-img01" data-pararax01-img01="0">
 							<picture>
-								<source srcset="./asset/img/repetidas/S5A9918-Editar-1024x683.jpg" width="750" height="500" media="(max-width:640px)">
-								<img src="./asset/img/repetidas/S5A9918-Editar-1024x683.jpg" width="2560" height="1212" alt="TentoTen 07 Puerto Vallarta" loading="lazy">
+								<source srcset="./asset/img/repetidas/S5A9918-Editar-1024x683.jpg" width="750"
+									height="500" media="(max-width:640px)">
+								<img src="./asset/img/repetidas/S5A9918-Editar-1024x683.jpg" width="2560" height="1212"
+									alt="TentoTen 07 Puerto Vallarta" loading="lazy">
 							</picture>
 						</div>
 						<div class="project-text _sp-pd20">
@@ -164,6 +166,56 @@
 						</div>
 					</a>
 				</article>
+
+				<div class="mod-lowerpage-haeder01 _pc-pd40 _sp-pd20" data-pararax01>
+					<h1 class="header-heading _heading01  __inview-text01" data-pararax01-text01="0">
+						<span class="heading-main _f-futura_m _futura-lh1 _futura-nm __inview-span01">
+							Nuestros Clientes
+						</span>
+					</h1>
+				</div>
+				<!-- Carrusel de imágenes -->
+				<div id="image-carousel-wrapper" style="position: relative;">
+					<div id="image-carousel" class="splide">
+						<div class="splide__track">
+							<ul class="splide__list">
+								<li class="splide__slide">
+									<img src="./asset/img/pages/index/marcas/ddci.webp">
+								</li>
+								<li class="splide__slide">
+									<img src="./asset/img/pages/index/marcas/save.webp">
+								</li>
+								<li class="splide__slide">
+									<img src="./asset/img/pages/index/marcas/homia.webp">
+								</li>
+								<li class="splide__slide">
+									<img src="./asset/img/pages/index/marcas/trend.webp">
+								</li>
+								<li class="splide__slide">
+									<img src="./asset/img/pages/index/marcas/prodit.webp">
+								</li>
+								<li class="splide__slide">
+									<img src="./asset/img/pages/index/marcas/stratu.webp">
+								</li>
+								<li class="splide__slide">
+									<img src="./asset/img/pages/index/marcas/alphine.webp">
+								</li>
+								<li class="splide__slide">
+									<img src="./asset/img/pages/index/marcas/sherwind.webp">
+								</li>
+								<li class="splide__slide">
+									<img src="./asset/img/pages/index/marcas/datalPine.webp">
+								</li>
+								<li class="splide__slide">
+									<img src="./asset/img/pages/index/marcas/ampiPuebla.webp">
+								</li>
+								<li class="splide__slide">
+									<img src="./asset/img/pages/index/marcas/valdepenas.webp">
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
 
 			</section>
 

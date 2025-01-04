@@ -170,12 +170,12 @@
 										width="620" height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Diseño y adaptación de productos para satisfacer demandas del mercado.
 									</span>
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Desarrollo de Producto Comercial
 									</span>
 								</p>
@@ -191,12 +191,12 @@
 										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Estrategias para crecimiento territorial o sectorial.
 									</span>
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Modelos de Expansión
 									</span>
 								</p>
@@ -212,12 +212,12 @@
 										width="620" height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Estudio de sitios ideales para proyectos.
 									</span>
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Evaluación de Ubicaciones Potenciales
 									</span>
 								</p>
@@ -233,12 +233,12 @@
 										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Ajustes para maximizar el valor y la rentabilidad.
 									</span>
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Optimización de Producto
 									</span>
 								</p>

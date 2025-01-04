@@ -14,8 +14,40 @@
     --sp-contents-padding15: .15rem
 }
 
+@font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/Poppins-Regular.woff2') format('woff2'),
+        url('../fonts/Poppins-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/Poppins-Medium.woff2') format('woff2'),
+        url('../fonts/Poppins-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/Poppins-SemiBold.woff2') format('woff2'),
+        url('../fonts/Poppins-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/Poppins-Bold.woff2') format('woff2'),
+        url('../fonts/Poppins-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
 html {
-    font-family: kinto-sans, sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-weight: 400;
     font-size: 100px
 }
@@ -281,12 +313,12 @@ select::-ms-expand {
 }
 
 ._f-futura_m {
-    font-family: futura-pt, "游ゴシック", "游ゴシック体", "Yu Gothic", YuGothic, sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-weight: 500
 }
 
 ._f-futura_d {
-    font-family: futura-pt, "游ゴシック", "游ゴシック体", "Yu Gothic", YuGothic, sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-weight: 600
 }
 
@@ -2131,6 +2163,7 @@ body.__scrolled .mod-fixed-recruit-link+.mod_toTop_btn {
 }
 
 @media screen and (min-width: 640px) {
+
     [data-pararax01-text01].active .__inview-span02,
     [data-pararax01-text01].active ._link-span02 {
         color: #fff;

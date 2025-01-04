@@ -1,0 +1,81 @@
+/* Estilos para el carrusel de imágenes */
+#image-carousel .splide__slide img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
+
+#image-carousel .splide__slide {
+    display: flex;
+    justify-content: center;
+    /* Centra horizontalmente */
+    align-items: center;
+    /* Centra verticalmente */
+    min-height: 100%;
+    /* Ocupa toda la altura de la ventana */
+    margin: 0;
+}
+
+#image-carousel {
+    max-width: 80%;
+    /* Ajusta el tamaño máximo del carrusel según tus necesidades */
+    margin: 0 auto;
+    /* Centra el carrusel */
+}
+
+/* Personalizar los controles del carrusel */
+.splide__arrow {
+    background-color: #644db5 !important;
+    border-color: #644db5 !important;
+    width: .5rem !important;
+    /* Ajusta el tamaño de las flechas según sea necesario */
+    height: .5rem !important;
+    /* Ajusta el tamaño de las flechas según sea necesario */
+}
+
+.splide__arrow--prev {
+    left: -1rem !important;
+    /* Ajusta la distancia de la flecha izquierda */
+}
+
+.splide__arrow--next {
+    right: -1rem !important;
+    /* Ajusta la distancia de la flecha derecha */
+}
+
+.splide__pagination__page.is-active {
+    background-color: #644db5 !important;
+}
+
+.splide__pagination__page {
+    border-color: #644db5 !important;
+}
+
+/* Definir la animación de entrada desde abajo */
+@keyframes fadeInUp {
+    0% {
+        transform: translateY(20px);
+        opacity: 0;
+    }
+
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+/* Aplicar la animación al carrusel */
+#image-carousel {
+    opacity: 0;
+    animation: fadeInUp 1s ease-out forwards;
+    animation-delay: 0.5s;
+    /* Ajusta el tiempo de la animación según sea necesario */
+}
+
+/* Ocultar las flechas en pantallas pequeñas */
+@media (max-width: 640px) {
+    .splide__arrow {
+        display: none !important;
+    }
+}
