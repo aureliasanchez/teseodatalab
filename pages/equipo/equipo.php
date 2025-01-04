@@ -385,7 +385,91 @@
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
-										Dr. TTubga Metinyurt
+										Dr. Tubga Metinyurt
+									</span>
+								</p>
+
+							</a>
+						</article>
+						<article class="archive-article">
+							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+
+								<div class="article-img link-img of _link-img01 __inview-img01"
+									data-pararax01-img01="0">
+									<img src="../../asset/img/pages/equipo/man.png" width="620" height="620"
+										alt="Daniel" loading="lazy">
+								</div>
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">
+										Quantitative Social Demography
+									</span>
+								</p>
+								<p class="article-name _link-text01" data-pararax01-text01="0.4">
+									<span class="_link-span03">
+										Dr. Tomasz Wera
+									</span>
+								</p>
+
+							</a>
+						</article>
+						<article class="archive-article">
+							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+
+								<div class="article-img link-img of _link-img01 __inview-img01"
+									data-pararax01-img01="0">
+									<img src="../../asset/img/pages/equipo/man.png" width="620" height="620"
+										alt="Daniel" loading="lazy">
+								</div>
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">
+										Senior Software Engineer
+									</span>
+								</p>
+								<p class="article-name _link-text01" data-pararax01-text01="0.4">
+									<span class="_link-span03">
+										Carlos Fernando Ponce Ibarra
+									</span>
+								</p>
+
+							</a>
+						</article>
+						<article class="archive-article">
+							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+
+								<div class="article-img link-img of _link-img01 __inview-img01"
+									data-pararax01-img01="0">
+									<img src="../../asset/img/pages/equipo/women.png" width="620" height="620"
+										alt="Daniel" loading="lazy">
+								</div>
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">
+										Business Analyst
+									</span>
+								</p>
+								<p class="article-name _link-text01" data-pararax01-text01="0.4">
+									<span class="_link-span03">
+										María José Loyolo Ramírez
+									</span>
+								</p>
+
+							</a>
+						</article>
+						<article class="archive-article">
+							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+
+								<div class="article-img link-img of _link-img01 __inview-img01"
+									data-pararax01-img01="0">
+									<img src="../../asset/img/pages/equipo/man.png" width="620" height="620"
+										alt="Daniel" loading="lazy">
+								</div>
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">
+										Operations Manager
+									</span>
+								</p>
+								<p class="article-name _link-text01" data-pararax01-text01="0.4">
+									<span class="_link-span03">
+										Kento Nakajima
 									</span>
 								</p>
 
@@ -407,6 +491,27 @@
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
 										Miriam
+									</span>
+								</p>
+
+							</a>
+						</article>
+						<article class="archive-article">
+							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+
+								<div class="article-img link-img of _link-img01 __inview-img01"
+									data-pararax01-img01="0">
+									<img src="../../asset/img/pages/equipo/man.png" width="620" height="620"
+										alt="Daniel" loading="lazy">
+								</div>
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">
+										Intern
+									</span>
+								</p>
+								<p class="article-name _link-text01" data-pararax01-text01="0.4">
+									<span class="_link-span03">
+										Karol Rodolfo Ponce Ibarra
 									</span>
 								</p>
 

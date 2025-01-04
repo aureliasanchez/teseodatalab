@@ -38,7 +38,7 @@
 	<link rel="canonical" href="./equipo.php">
 
 	<link rel="icon" href="../../../asset/img/repetidas/logos/fotoDePerfil1.jpg">
-	<title>Teseo & Data | Associate</title>
+	<title>Teseo & Data | Consultants</title>
 </head>
 
 <body id="Pagetop" class="page_people">
@@ -110,7 +110,7 @@
 
 										</a>
 									</div>
-									<div class="aside-link splide__slide _current">
+									<div class="aside-link splide__slide">
 										<a href="./associate.php#PostList">
 
 											<span class="en _f-futura_d _futura-lh1 _futura-nm">
@@ -119,7 +119,7 @@
 
 										</a>
 									</div>
-									<div class="aside-link splide__slide">
+									<div class="aside-link splide__slide _current">
 										<a href="./consultants.php#PostList">
 
 											<span class="en _f-futura_d _futura-lh1 _futura-nm">
@@ -165,101 +165,17 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../../asset/img/pages/equipo/man.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
-								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Associate
-									</span>
-								</p>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">
-										Luis Fernando
-									</span>
-								</p>
-
-							</a>
-						</article>
-						<article class="archive-article">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01"
-									data-pararax01-img01="0">
 									<img src="../../../asset/img/pages/equipo/women.png" width="620" height="620"
 										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">
-										Associate
+										Behavior Sciences Expert
 									</span>
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
-										Aurelia
-									</span>
-								</p>
-
-							</a>
-						</article>
-						<article class="archive-article">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01"
-									data-pararax01-img01="0">
-									<img src="../../../asset/img/pages/equipo/women.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
-								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Associate
-									</span>
-								</p>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">
-										Yoali
-									</span>
-								</p>
-
-							</a>
-						</article>
-						<article class="archive-article">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01"
-									data-pararax01-img01="0">
-									<img src="../../../asset/img/pages/equipo/women.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
-								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Associate
-									</span>
-								</p>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">
-										Fernanda
-									</span>
-								</p>
-
-							</a>
-						</article>
-						<article class="archive-article">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01"
-									data-pararax01-img01="0">
-									<img src="../../../asset/img/pages/equipo/women.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
-								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Associate
-									</span>
-								</p>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">
-										America
+										Dr. Tubga Metinyurt
 									</span>
 								</p>
 
@@ -275,12 +191,75 @@
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">
-										Associate
+										Quantitative Social Demography
 									</span>
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
-										Uris
+										Dr. Tomasz Wera
+									</span>
+								</p>
+
+							</a>
+						</article>
+						<article class="archive-article">
+							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+
+								<div class="article-img link-img of _link-img01 __inview-img01"
+									data-pararax01-img01="0">
+									<img src="../../../asset/img/pages/equipo/man.png" width="620" height="620"
+										alt="Daniel" loading="lazy">
+								</div>
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">
+										Senior Software Engineer
+									</span>
+								</p>
+								<p class="article-name _link-text01" data-pararax01-text01="0.4">
+									<span class="_link-span03">
+										Carlos Fernando Ponce Ibarra
+									</span>
+								</p>
+
+							</a>
+						</article>
+						<article class="archive-article">
+							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+
+								<div class="article-img link-img of _link-img01 __inview-img01"
+									data-pararax01-img01="0">
+									<img src="../../../asset/img/pages/equipo/women.png" width="620" height="620"
+										alt="Daniel" loading="lazy">
+								</div>
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">
+										Business Analyst
+									</span>
+								</p>
+								<p class="article-name _link-text01" data-pararax01-text01="0.4">
+									<span class="_link-span03">
+										María José Loyolo Ramírez
+									</span>
+								</p>
+
+							</a>
+						</article>
+						<article class="archive-article">
+							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+
+								<div class="article-img link-img of _link-img01 __inview-img01"
+									data-pararax01-img01="0">
+									<img src="../../../asset/img/pages/equipo/man.png" width="620" height="620"
+										alt="Daniel" loading="lazy">
+								</div>
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">
+										Operations Manager
+									</span>
+								</p>
+								<p class="article-name _link-text01" data-pararax01-text01="0.4">
+									<span class="_link-span03">
+										Kento Nakajima
 									</span>
 								</p>
 

@@ -118,6 +118,15 @@
 										</a>
 									</div>
 									<div class="aside-link splide__slide">
+										<a href="./consultants.php#PostList">
+
+											<span class="en _f-futura_d _futura-lh1 _futura-nm">
+												Consultants
+											</span>
+
+										</a>
+									</div>
+									<div class="aside-link splide__slide">
 										<a href="./intern.php#PostList">
 
 											<span class="en _f-futura_d _futura-lh1 _futura-nm">
@@ -158,12 +167,12 @@
 										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Senior Partner
 									</span>
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Daniel
 									</span>
 								</p>
@@ -179,12 +188,12 @@
 										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Senior Partner
 									</span>
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Alex
 									</span>
 								</p>
@@ -200,12 +209,12 @@
 										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Senior Partner
 									</span>
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span01">
+									<span class="_link-span03">
 										Dania
 									</span>
 								</p>
