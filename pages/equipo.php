@@ -18,10 +18,11 @@
 	<meta name="skype_toolbar" content="skype_toolbar_parser_compatible">
 
 	<!-- Script -->
-	<script src="../../asset/js/webfont.js" async></script>
-	<script src="../../asset/js/splide.min.js" defer></script>
-	<script src="../../asset/js/common71c5.js" defer></script>
-	<script src="../../asset/js/member9d21.js" defer></script>
+	<script src="../asset/js/webfont.js" async></script>
+	<script src="../asset/js/splide.min.js" defer></script>
+	<script src="../asset/js/common71c5.js" defer></script>
+	<script src="../asset/js/member9d21.js" defer></script>
+	<script src="../asset/js/menuOpciones.js" defer></script>
 	<script type="application/ld+json"></script>
 	<noscript>
 		<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P9GDZFD" height="0" width="0"
@@ -30,19 +31,20 @@
 	</noscript>
 
 	<!-- Link -->
-	<link href="../../asset/css/splide-core.min.css" rel="stylesheet">
-	<link href="../../asset/css/common1571.css" rel="stylesheet">
-	<link href="../../asset/css/member8984.css" rel="stylesheet">
-	<link href="../../asset/css/redesSociales.css" rel="stylesheet">
+	<link href="../asset/css/splide-core.min.css" rel="stylesheet">
+	<link href="../asset/css/common1571.css" rel="stylesheet">
+	<link href="../asset/css/member8984.css" rel="stylesheet">
+	<link href="../asset/css/redesSociales.css" rel="stylesheet">
+	<link href="../asset/css/menuOpciones.css" rel="stylesheet">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 	<link rel="canonical" href="./equipo.php">
 
-	<link rel="icon" href="../../asset/img/repetidas/logos/fotoDePerfil1.jpg">
+	<link rel="icon" href="../asset/img/repetidas/logos/fotoDePerfil1.jpg">
 	<title>Teseo & Data | Equipo</title>
 </head>
 
 <body id="Pagetop" class="page_people">
-	<?php include '../../asset/html/header.html'; ?>
+	<?php include '../asset/html/header.html'; ?>
 
 	<main class="mod_main" role="main">
 		<section class="contentWrap -news _archives">
@@ -84,7 +86,7 @@
 								<div class="aside_inner splide__list">
 
 									<div class="aside-link splide__slide _current">
-										<a href="#PostList">
+										<a href="#PostList" id="all">
 
 											<span class="en _f-futura_d _futura-lh1 _futura-nm">
 												Mostrar todos
@@ -93,7 +95,7 @@
 										</a>
 									</div>
 									<div class="aside-link splide__slide">
-										<a href="./puestos/seinor.php#PostList">
+										<a href="#PostList" id="seniors">
 
 											<span class="en _f-futura_d _futura-lh1 _futura-nm">
 												Seniors
@@ -102,16 +104,16 @@
 										</a>
 									</div>
 									<div class="aside-link splide__slide">
-										<a href="./puestos/lider.php#PostList">
+										<a href="#PostList" id="leaders">
 
 											<span class="en _f-futura_d _futura-lh1 _futura-nm">
-												Liders
+												Leaders
 											</span>
 
 										</a>
 									</div>
 									<div class="aside-link splide__slide">
-										<a href="./puestos/associate.php#PostList">
+										<a href="#PostList" id="associates">
 
 											<span class="en _f-futura_d _futura-lh1 _futura-nm">
 												Associates
@@ -120,7 +122,7 @@
 										</a>
 									</div>
 									<div class="aside-link splide__slide">
-										<a href="./puestos/consultants.php#PostList">
+										<a href="#PostList" id="consultants">
 
 											<span class="en _f-futura_d _futura-lh1 _futura-nm">
 												Consultants
@@ -129,7 +131,7 @@
 										</a>
 									</div>
 									<div class="aside-link splide__slide">
-										<a href="./puestos/intern.php#PostList">
+										<a href="#PostList" id="interns">
 
 											<span class="en _f-futura_d _futura-lh1 _futura-nm">
 												Interns
@@ -160,12 +162,12 @@
 				<div class="contents-main">
 					<div class="archives_wrap">
 
-						<article class="archive-article">
+						<article class="archive-article senior">
 							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/equipo/man.png" width="620" height="620"
+									<img src="../asset/img/pages/equipo/man.png" width="620" height="620"
 										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
@@ -181,12 +183,12 @@
 
 							</a>
 						</article>
-						<article class="archive-article">
+						<article class="archive-article senior">
 							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/equipo/man.png" width="620" height="620"
+									<img src="../asset/img/pages/equipo/man.png" width="620" height="620"
 										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
@@ -202,12 +204,12 @@
 
 							</a>
 						</article>
-						<article class="archive-article">
+						<article class="archive-article senior">
 							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/equipo/women.png" width="620" height="620"
+									<img src="../asset/img/pages/equipo/women.png" width="620" height="620"
 										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
@@ -223,17 +225,17 @@
 
 							</a>
 						</article>
-						<article class="archive-article">
+						<article class="archive-article leader">
 							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/equipo/women.png" width="620" height="620"
+									<img src="../asset/img/pages/equipo/women.png" width="620" height="620"
 										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">
-										Project Lider
+										Project Leader
 									</span>
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
@@ -244,12 +246,12 @@
 
 							</a>
 						</article>
-						<article class="archive-article">
+						<article class="archive-article associate">
 							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/equipo/man.png" width="620" height="620"
+									<img src="../asset/img/pages/equipo/man.png" width="620" height="620"
 										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
@@ -265,12 +267,12 @@
 
 							</a>
 						</article>
-						<article class="archive-article">
+						<article class="archive-article associate">
 							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/equipo/women.png" width="620" height="620"
+									<img src="../asset/img/pages/equipo/women.png" width="620" height="620"
 										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
@@ -286,12 +288,12 @@
 
 							</a>
 						</article>
-						<article class="archive-article">
+						<article class="archive-article associate">
 							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/equipo/women.png" width="620" height="620"
+									<img src="../asset/img/pages/equipo/women.png" width="620" height="620"
 										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
@@ -307,12 +309,12 @@
 
 							</a>
 						</article>
-						<article class="archive-article">
+						<article class="archive-article associate">
 							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/equipo/women.png" width="620" height="620"
+									<img src="../asset/img/pages/equipo/women.png" width="620" height="620"
 										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
@@ -328,12 +330,12 @@
 
 							</a>
 						</article>
-						<article class="archive-article">
+						<article class="archive-article associate">
 							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/equipo/women.png" width="620" height="620"
+									<img src="../asset/img/pages/equipo/women.png" width="620" height="620"
 										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
@@ -349,12 +351,12 @@
 
 							</a>
 						</article>
-						<article class="archive-article">
+						<article class="archive-article associate">
 							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/equipo/man.png" width="620" height="620"
+									<img src="../asset/img/pages/equipo/man.png" width="620" height="620"
 										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
@@ -370,12 +372,12 @@
 
 							</a>
 						</article>
-						<article class="archive-article">
+						<article class="archive-article consultant">
 							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/equipo/women.png" width="620" height="620"
+									<img src="../asset/img/pages/equipo/women.png" width="620" height="620"
 										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
@@ -391,12 +393,12 @@
 
 							</a>
 						</article>
-						<article class="archive-article">
+						<article class="archive-article consultant">
 							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/equipo/man.png" width="620" height="620"
+									<img src="../asset/img/pages/equipo/man.png" width="620" height="620"
 										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
@@ -412,12 +414,12 @@
 
 							</a>
 						</article>
-						<article class="archive-article">
+						<article class="archive-article consultant">
 							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/equipo/man.png" width="620" height="620"
+									<img src="../asset/img/pages/equipo/man.png" width="620" height="620"
 										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
@@ -433,12 +435,12 @@
 
 							</a>
 						</article>
-						<article class="archive-article">
+						<article class="archive-article consultant">
 							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/equipo/women.png" width="620" height="620"
+									<img src="../asset/img/pages/equipo/women.png" width="620" height="620"
 										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
@@ -454,12 +456,12 @@
 
 							</a>
 						</article>
-						<article class="archive-article">
+						<article class="archive-article consultant">
 							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/equipo/man.png" width="620" height="620"
+									<img src="../asset/img/pages/equipo/man.png" width="620" height="620"
 										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
@@ -475,12 +477,12 @@
 
 							</a>
 						</article>
-						<article class="archive-article">
+						<article class="archive-article intern">
 							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/equipo/women.png" width="620" height="620"
+									<img src="../asset/img/pages/equipo/women.png" width="620" height="620"
 										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
@@ -496,12 +498,12 @@
 
 							</a>
 						</article>
-						<article class="archive-article">
+						<article class="archive-article intern">
 							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/equipo/man.png" width="620" height="620"
+									<img src="../asset/img/pages/equipo/man.png" width="620" height="620"
 										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
@@ -532,8 +534,8 @@
 		</section>
 	</main>
 
-	<?php include '../../asset/html/lateral.html'; ?>
-	<?php include '../../asset/html/footer.html'; ?>
+	<?php include '../asset/html/lateral.html'; ?>
+	<?php include '../asset/html/footer.html'; ?>
 </body>
 
 </html>
