@@ -83,11 +83,8 @@
 									<div class="aside-link splide__slide">
 										<a href="../servicio.php#PostList">
 
-											<span class="ja">
-												Todos los Servicios
-											</span>
 											<span class="en _f-futura_d _futura-lh1 _futura-nm">
-												Completos
+												Mostrar todos
 											</span>
 
 										</a>
@@ -169,8 +166,8 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../../asset/img/pages/equipo/man.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
+									<img src="../../../asset/img/pages/servicio/generacionBaseDatos.png" width="620"
+										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span01">
@@ -190,8 +187,8 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../../asset/img/pages/equipo/man.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
+									<img src="../../../asset/img/pages/servicio/campañasMasivaWhatsapp.png" width="620"
+										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span01">
@@ -211,8 +208,8 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../../asset/img/pages/equipo/man.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
+									<img src="../../../asset/img/pages/servicio/desarrolladorABTesting.png" width="620"
+										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span01">
@@ -227,7 +224,6 @@
 
 							</a>
 						</article>
-
 					</div>
 				</div>
 				<div class="contents-sub -second" data-sc-sp data-pararax01 data-pararax01-opacity01="0">

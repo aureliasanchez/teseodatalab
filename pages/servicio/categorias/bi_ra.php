@@ -3,17 +3,19 @@
 
 <head>
 	<!-- Meta -->
-    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-    <meta charset="utf-8">
-    <meta name="description" content="Descubre nuestros servicios de bienes raíces en Teseo, diseñados para transformar datos en estrategias de éxito.">
-    <meta property="og:title" content="Teseo & Data | Bienes Raíces">
-    <meta property="og:description" content="Descubre nuestros servicios de bienes raíces en Teseo, diseñados para transformar datos en estrategias de éxito.">
-    <meta property="og:url" content="https://teseo.com/bi_ra.php">
-    <meta property="og:image" content="https://teseo.com/assets/img/ogimage_bi_ra.png">
-    <meta name="twitter:card" content="summary">
-    <meta name="viewport" content="width=device-width,viewport-fit=cover">
-    <meta name="format-detection" content="telephone=no, email=no, address=no">
-    <meta name="skype_toolbar" content="skype_toolbar_parser_compatible">
+	<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+	<meta charset="utf-8">
+	<meta name="description"
+		content="Descubre nuestros servicios de bienes raíces en Teseo, diseñados para transformar datos en estrategias de éxito.">
+	<meta property="og:title" content="Teseo & Data | Bienes Raíces">
+	<meta property="og:description"
+		content="Descubre nuestros servicios de bienes raíces en Teseo, diseñados para transformar datos en estrategias de éxito.">
+	<meta property="og:url" content="https://teseo.com/bi_ra.php">
+	<meta property="og:image" content="https://teseo.com/assets/img/ogimage_bi_ra.png">
+	<meta name="twitter:card" content="summary">
+	<meta name="viewport" content="width=device-width,viewport-fit=cover">
+	<meta name="format-detection" content="telephone=no, email=no, address=no">
+	<meta name="skype_toolbar" content="skype_toolbar_parser_compatible">
 
 	<!-- Script -->
 	<script src="../../../asset/js/webfont.js" async></script>
@@ -81,11 +83,8 @@
 									<div class="aside-link splide__slide">
 										<a href="../servicio.php#PostList">
 
-											<span class="ja">
-												Todos los Servicios
-											</span>
 											<span class="en _f-futura_d _futura-lh1 _futura-nm">
-												Completos
+												Mostrar todos
 											</span>
 
 										</a>
@@ -167,8 +166,8 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../../asset/img/pages/equipo/man.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
+									<img src="../../../asset/img/pages/servicio/viabilidadProducto.png" width="620"
+										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span01">
@@ -188,8 +187,8 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../../asset/img/pages/equipo/man.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
+									<img src="../../../asset/img/pages/servicio/factivilidadFinanciera2.png" width="620"
+										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span01">
@@ -209,8 +208,8 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../../asset/img/pages/equipo/man.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
+									<img src="../../../asset/img/pages/servicio/desarrolloProducto.png" width="620"
+										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span01">
@@ -230,8 +229,8 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../../asset/img/pages/equipo/man.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
+									<img src="../../../asset/img/pages/servicio/preciosDinamicos.png" width="620"
+										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span01">
@@ -251,8 +250,8 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../../asset/img/pages/equipo/man.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
+									<img src="../../../asset/img/pages/servicio/optimizacionProducto2.png" width="620"
+										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span01">
@@ -272,8 +271,8 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../../asset/img/pages/equipo/man.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
+									<img src="../../../asset/img/pages/servicio/comparativasSegmento.png" width="620"
+										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span01">

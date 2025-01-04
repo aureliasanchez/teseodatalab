@@ -69,7 +69,7 @@
 								Inteligencia Artificial para Soluciones Estratégicas
 							</span>
 						</span>
-						<span class="__inview-span01 linkBlue">
+						<span class="__inview-span01 linkPurple">
 							<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=contacto@teseodata.com"
 								target="_blank">
 								contacto@teseodata.com
@@ -134,27 +134,27 @@
 						</div>
 						<div class="project-text _sp-pd20">
 							<h2 class="text-heading _link-text01" data-pararax01-text01="0.4">
-								<span class="_link-span01">
+								<span class="_link-span02">
 									¿Por qué elegir Teseo?
 								</span>
 							</h2>
 							<p class="text-client _link-text01" data-pararax01-text01=".7">
-								<span class="_link-span01">
+								<span class="_link-span02">
 									Soluciones medibles para tu negocio
 								</span>
 							</p>
 							<p class="text-client _link-text01" data-pararax01-text01=".7">
-								<span class="_link-span01">
+								<span class="_link-span02">
 									Decisiones basadas en datos precisos
 								</span>
 							</p>
 							<p class="text-client _link-text01" data-pararax01-text01=".7">
-								<span class="_link-span01">
+								<span class="_link-span02">
 									Análisis predictivo para adelantarte al mercado
 								</span>
 							</p>
 							<p class="text-category _link-text01" data-pararax01-text01="1.0">
-								<span class="_link-span01">
+								<span class="_link-span02">
 									Conoce cómo trabajamos
 								</span>
 							</p>

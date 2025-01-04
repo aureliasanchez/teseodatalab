@@ -1,5 +1,19 @@
 @charset "UTF-8";
 
+@font-face {
+    font-family: 'Poppins';
+    src: url('../font/Poppins/Poppins-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../font/Poppins/Poppins-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
 /* コンパイルCSS 直接修正禁止 */
 :root {
     --pc-min-width: 1024px;
@@ -219,7 +233,7 @@
         color: #000;
         line-height: .75;
         background-color: transparent;
-        font-family: futura-pt, "游ゴシック", "游ゴシック体", "Yu Gothic", YuGothic, sans-serif;
+        font-family: 'Poppins', "游ゴシック", "游ゴシック体", "Yu Gothic", YuGothic, sans-serif;
         font-weight: 600;
         font-size: .5rem;
         letter-spacing: .05em
@@ -231,7 +245,7 @@
         color: #000;
         line-height: .75;
         background-color: transparent;
-        font-family: futura-pt, "游ゴシック", "游ゴシック体", "Yu Gothic", YuGothic, sans-serif;
+        font-family: 'Poppins', "游ゴシック", "游ゴシック体", "Yu Gothic", YuGothic, sans-serif;
         font-weight: 600;
         font-size: .5rem;
         letter-spacing: .05em

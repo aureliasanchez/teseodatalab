@@ -84,11 +84,8 @@
 									<div class="aside-link splide__slide">
 										<a href="../equipo.php#PostList">
 
-											<span class="ja">
-												Todos los puestos
-											</span>
 											<span class="en _f-futura_d _futura-lh1 _futura-nm">
-												Completos
+												Mostrar todos
 											</span>
 
 										</a>
@@ -96,9 +93,6 @@
 									<div class="aside-link splide__slide">
 										<a href="./seinor.php#PostList">
 
-											<span class="ja">
-												Senior Partner
-											</span>
 											<span class="en _f-futura_d _futura-lh1 _futura-nm">
 												Seniors
 											</span>
@@ -108,9 +102,6 @@
 									<div class="aside-link splide__slide">
 										<a href="./lider.php#PostList">
 
-											<span class="ja">
-												Project Lider
-											</span>
 											<span class="en _f-futura_d _futura-lh1 _futura-nm">
 												Liders
 											</span>
@@ -120,9 +111,6 @@
 									<div class="aside-link splide__slide">
 										<a href="./associate.php#PostList">
 
-											<span class="ja">
-												Associate
-											</span>
 											<span class="en _f-futura_d _futura-lh1 _futura-nm">
 												Associates
 											</span>
@@ -132,9 +120,6 @@
 									<div class="aside-link splide__slide _current">
 										<a href="./intern.php#PostList">
 
-											<span class="ja">
-												Intern
-											</span>
 											<span class="en _f-futura_d _futura-lh1 _futura-nm">
 												Interns
 											</span>
