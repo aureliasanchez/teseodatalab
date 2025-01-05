@@ -134,7 +134,7 @@
 									<div class="aside-link splide__slide">
 										<a href="./categorias/bi_ra.php#PostList">
 											<span class="en _f-futura_d _futura-lh1 _futura-nm">
-												Bienes Raíces
+											Bienes Raíces
 											</span>
 										</a>
 									</div>
