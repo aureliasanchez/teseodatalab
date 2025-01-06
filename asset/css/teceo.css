@@ -52,6 +52,10 @@
     transform: scale(1.1);
 }
 
+.borderRadius {
+    border-radius: 10% !important;
+}
+
 @media (max-width: 768px) {
     .social-icons {
         flex-direction: column;

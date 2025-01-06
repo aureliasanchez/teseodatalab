@@ -36,6 +36,7 @@
 	<link href="../asset/css/member8984.css" rel="stylesheet">
 	<link href="../asset/css/redesSociales.css" rel="stylesheet">
 	<link href="../asset/css/menuOpciones.css" rel="stylesheet">
+	<link href="../asset/css/teceo.css" rel="stylesheet">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 	<link rel="canonical" href="./equipo.php">
 

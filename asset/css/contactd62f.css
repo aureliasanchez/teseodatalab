@@ -1,17 +1,35 @@
 @charset "UTF-8";
 
 @font-face {
-    font-family: 'Poppins';
-    src: url('../font/Poppins/Poppins-Regular.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
+    font-family: 'Poppins' !important;
+    src: url('../fonts/Poppins-Regular.woff2') format('woff2'),
+        url('../fonts/Poppins-Regular.woff') format('woff') !important;
+    font-weight: 400 !important;
+    font-style: normal !important;
 }
 
 @font-face {
-    font-family: 'Poppins';
-    src: url('../font/Poppins/Poppins-Bold.ttf') format('truetype');
-    font-weight: bold;
-    font-style: normal;
+    font-family: 'Poppins' !important;
+    src: url('../fonts/Poppins-Medium.woff2') format('woff2'),
+        url('../fonts/Poppins-Medium.woff') format('woff') !important;
+    font-weight: 500 !important;
+    font-style: normal !important;
+}
+
+@font-face {
+    font-family: 'Poppins' !important;
+    src: url('../fonts/Poppins-SemiBold.woff2') format('woff2'),
+        url('../fonts/Poppins-SemiBold.woff') format('woff') !important;
+    font-weight: 600 !important;
+    font-style: normal !important;
+}
+
+@font-face {
+    font-family: 'Poppins' !important;
+    src: url('../fonts/Poppins-Bold.woff2') format('woff2'),
+        url('../fonts/Poppins-Bold.woff') format('woff') !important;
+    font-weight: 700 !important;
+    font-style: normal !important;
 }
 
 /* コンパイルCSS 直接修正禁止 */
@@ -233,7 +251,7 @@
         color: #000;
         line-height: .75;
         background-color: transparent;
-        font-family: 'Poppins', "游ゴシック", "游ゴシック体", "Yu Gothic", YuGothic, sans-serif;
+        font-family: 'Poppins' !important;
         font-weight: 600;
         font-size: .5rem;
         letter-spacing: .05em
@@ -245,7 +263,7 @@
         color: #000;
         line-height: .75;
         background-color: transparent;
-        font-family: 'Poppins', "游ゴシック", "游ゴシック体", "Yu Gothic", YuGothic, sans-serif;
+        font-family: 'Poppins' !important;
         font-weight: 600;
         font-size: .5rem;
         letter-spacing: .05em

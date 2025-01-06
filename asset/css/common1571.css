@@ -15,41 +15,41 @@
 }
 
 @font-face {
-    font-family: 'Poppins';
+    font-family: 'Poppins' !important;
     src: url('../fonts/Poppins-Regular.woff2') format('woff2'),
-        url('../fonts/Poppins-Regular.woff') format('woff');
-    font-weight: 400;
-    font-style: normal;
+        url('../fonts/Poppins-Regular.woff') format('woff') !important;
+    font-weight: 400 !important;
+    font-style: normal !important;
 }
 
 @font-face {
-    font-family: 'Poppins';
+    font-family: 'Poppins' !important;
     src: url('../fonts/Poppins-Medium.woff2') format('woff2'),
-        url('../fonts/Poppins-Medium.woff') format('woff');
-    font-weight: 500;
-    font-style: normal;
+        url('../fonts/Poppins-Medium.woff') format('woff') !important;
+    font-weight: 500 !important;
+    font-style: normal !important;
 }
 
 @font-face {
-    font-family: 'Poppins';
+    font-family: 'Poppins' !important;
     src: url('../fonts/Poppins-SemiBold.woff2') format('woff2'),
-        url('../fonts/Poppins-SemiBold.woff') format('woff');
-    font-weight: 600;
-    font-style: normal;
+        url('../fonts/Poppins-SemiBold.woff') format('woff') !important;
+    font-weight: 600 !important;
+    font-style: normal !important;
 }
 
 @font-face {
-    font-family: 'Poppins';
+    font-family: 'Poppins' !important;
     src: url('../fonts/Poppins-Bold.woff2') format('woff2'),
-        url('../fonts/Poppins-Bold.woff') format('woff');
-    font-weight: 700;
-    font-style: normal;
+        url('../fonts/Poppins-Bold.woff') format('woff') !important;
+    font-weight: 700 !important;
+    font-style: normal !important;
 }
 
 html {
-    font-family: 'Poppins', sans-serif;
-    font-weight: 400;
-    font-size: 100px
+    font-family: 'Poppins', sans-serif !important;
+    font-weight: 400 !important;
+    font-size: 100px !important
 }
 
 html.not-ie {
@@ -69,6 +69,7 @@ html.scrollingFlg {
 }
 
 body {
+    font-family: 'Poppins' !important;
     position: relative;
     margin: 0;
     padding: 0;
@@ -228,7 +229,7 @@ input,
 optgroup,
 select,
 textarea {
-    font-family: inherit;
+    font-family: inherit !important;
     appearance: none;
     background: 0 0;
     border: none;
@@ -313,12 +314,12 @@ select::-ms-expand {
 }
 
 ._f-futura_m {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', sans-serif !important;
     font-weight: 500
 }
 
 ._f-futura_d {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', sans-serif !important;
     font-weight: 600
 }
 
@@ -353,7 +354,7 @@ select::-ms-expand {
 
 .of img {
     object-fit: cover;
-    font-family: "object-fit: cover;";
+    font-family: "object-fit: cover;" !important;
     background-size: cover;
     background-position: center center;
     width: 100%;
@@ -1002,7 +1003,7 @@ body.__footer-view .mod_toTop_btn ._arrow-top01:before {
     justify-content: center;
     padding-left: .26rem;
     width: auto;
-    height: 1.2rem;
+    height: .9rem;
     background-color: #644db5;
     border: #fff 1px solid;
     color: #fff;
@@ -2839,7 +2840,7 @@ body.__scrolled .mod-fixed-recruit-link+.mod_toTop_btn {
     .no-touchevents ._link-button01:hover ._sp-link-span01,
     .no-touchevents ._link01:hover ._sp-link-span01,
     .no-touchevents a[href]._link-block01:hover ._sp-link-span01 {
-        background-color: #fff
+        background-color: #000
     }
 
     ._link-button01 .link-main {

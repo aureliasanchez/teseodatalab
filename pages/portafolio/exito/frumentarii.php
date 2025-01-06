@@ -30,6 +30,7 @@
 	<!-- Link -->
 	<link href="../../../asset/css/common1571.css" rel="stylesheet">
 	<link href="../../../asset/css/member8984.css" rel="stylesheet">
+	<link href="../../../asset/css/teceo.css" rel="stylesheet">
 	<link rel="canonical" href="./miembro_1.php">
 
 	<link rel="icon" href="../../../asset/img/repetidas/logos/fotoDePerfil1.jpg">
