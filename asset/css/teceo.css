@@ -21,20 +21,20 @@
     /* Ajusta el retraso según sea necesario */
 }
 
-.fontRed {
-    color: #eb32ff !important;
-    opacity: 0;
-    animation: fadeIn 2s ease forwards;
-    animation-delay: 2s;
-    /* Ajusta el retraso según sea necesario */
-}
-
 .fontRedIntro {
     color: #eb32ff !important;
     opacity: 0;
     animation: fadeIn 2s ease forwards;
     animation-delay: 3.5s;
-    /* Ajusta el retraso según sea necesario */
+}
+
+.fontRed {
+    color: #eb32ff !important;
+    opacity: 0;
+}
+
+.fontRed.animate {
+    animation: fadeIn 2s ease forwards;
 }
 
 .fontPurpleIntroLink {
@@ -44,8 +44,17 @@
     opacity: 0;
     animation: fadeIn 2s ease forwards;
     animation-delay: 4s;
-    /* Ajusta el retraso según sea necesario */
     margin-bottom: 1%;
+    /* Nuevos estilos para el botón */
+    border: none;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: inherit;
+    text-align: center;
+    padding: 10px 20px;
+    display: inline-block;
+    text-decoration: none;
+    transition: all 0.3s ease;
 }
 
 @keyframes fadeIn {
@@ -75,6 +84,8 @@
         background-color: #fff !important;
         border: 1px solid #000;
         color: #644db5 !important;
+        /* Aseguramos que el borde no afecte el tamaño */
+        box-sizing: border-box;
     }
 
     .linkRed:hover {

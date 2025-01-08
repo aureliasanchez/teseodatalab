@@ -22,6 +22,7 @@
 	<script src="./asset/js/common71c5.js" defer></script>
 	<script src="./asset/js/indexccb0.js" defer></script>
 	<script src="./asset/js/carucel.js" defer></script>
+	<script src="./asset/js/animations.js" defer></script>
 	<script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@3.6.9/dist/js/splide.min.js"></script>
 	<script type="application/ld+json"></script>
 	<noscript>
@@ -85,11 +86,9 @@
 									ayudándote a liderar tu industria con inteligencia artificial y análisis predictivo
 								</span>
 							</span>
-							<span class="__inview-span01 fontPurpleIntroLink linkPurple padingButton">
-								<a href="./pages/servicio.php" target="_self">
-									Explora nuestras soluciones
-								</a>
-							</span>
+							<button class="__inview-span01 fontPurpleIntroLink linkPurple padingButton" onclick="window.location.href='./pages/servicio.php'">
+								Explora nuestras soluciones
+							</button>
 						</p>
 					</div>
 
@@ -111,7 +110,10 @@
 						<div class="project-text _sp-pd20">
 							<h2 class="text-heading _link-text01" data-pararax01-text01="0.4">
 								<span class="_link-span02">
-									Teseo Data Lab: Donde los datos generan resultados
+									<span class="fontRed">
+										Teseo Data Lab:
+									</span>
+									Donde los datos generan resultados
 								</span>
 							</h2>
 							<p class="text-client _link-text01" data-pararax01-text01=".7">
@@ -145,7 +147,10 @@
 					<div class="mod-lowerpage-haeder01 _pc-pd40 _sp-pd20" data-pararax01>
 						<h1 class="header-heading _heading01  __inview-text01" data-pararax01-text01="0">
 							<span class="heading-main _f-futura_m _futura-lh1 _futura-nm __inview-span01 reacomodoFont">
-								Nuestros Clientes
+								Nuestros
+								<span class="fontRed">
+									Clientes
+								</span>
 							</span>
 						</h1>
 					</div>
