@@ -33,7 +33,13 @@
     opacity: 0;
 }
 
-.fontRed.animate {
+/* Aseguramos que la animación funcione incluso dentro de __inview-text01 */
+.__inview-text01 .fontRed {
+    opacity: 0;
+}
+
+.fontRed.animate,
+.__inview-text01 .fontRed.animate {
     animation: fadeIn 2s ease forwards;
 }
 
@@ -134,4 +140,112 @@
     .padingButton {
         padding: 3%;
     }
+}
+
+/* Estilo para resetear el botón */
+.button-reset {
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0;
+    font: inherit;
+    color: inherit;
+    cursor: pointer;
+    width: 100%;
+    text-align: left;
+}
+
+/* Mantenemos el hover existente */
+.no-touchevents a[href]._link-block01:hover .button-reset ._link-span02 {
+    background-color: #644db5;
+    color: #fff;
+}
+
+/* Estilo base para el botón */
+.button-action {
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0;
+    font: inherit;
+    color: inherit;
+    cursor: pointer;
+    width: auto;
+    text-align: left;
+    opacity: 0;
+}
+
+/* Estilo visual similar a fontPurpleIntroLink */
+.button-action ._link-span02 {
+    color: #fff !important;
+    background-color: #644db5;
+    border-radius: 10px;
+    padding: 10px 20px;
+    display: inline-block;
+    transition: all 0.3s ease;
+}
+
+/* Animación cuando está activo */
+.button-action.animate {
+    animation: fadeIn 2s ease forwards;
+}
+
+@media screen and (min-width: 640px) {
+    .button-action:hover ._link-span02 {
+        transition: background-color 0.5s ease, color 0.5s ease;
+        background-color: #fff !important;
+        border: 1px solid #000;
+        color: #000 !important;
+        box-sizing: border-box;
+    }
+}
+
+/* Ajustamos el ícono de flecha para que se vea mejor con el nuevo diseño */
+.button-action .text-arrow {
+    margin-left: 10px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+/* Removemos el hover del contenedor y mantenemos el texto blanco */
+.no-touchevents a[href]._link-block01:hover ._link-span02 {
+    background-color: transparent;
+}
+
+.no-touchevents a[href]._link-block01:hover ._link-span02,
+.no-touchevents a[href]._link-block01:hover .feature-icon {
+    color: #fff !important;
+}
+
+/* Estilo para los iconos en las características */
+.feature-icon {
+    margin-right: 15px;
+    color: #eb32ff;
+    font-size: 1.2em;
+    width: 25px;
+    display: inline-block;
+    text-align: center;
+    opacity: 0;
+}
+
+/* Animación cuando está activo */
+.feature-icon.animate {
+    animation: fadeIn 2s ease forwards;
+}
+
+/* Ajustamos el hover del contenedor */
+.no-touchevents a[href]._link-block01:hover ._link-span02 {
+    background-color: transparent;
+}
+
+/* Mantenemos el color de los iconos en rosa */
+.no-touchevents a[href]._link-block01:hover .feature-icon {
+    color: #eb32ff !important;
+}
+
+/* Ajustamos el hover del botón dentro delcontenedor */
+.no-touchevents a[href]._link-block01:hover .button-action ._link-span02 {
+    background-color: #fff !important;
+    color: #000 !important;
+    border: 1px solid #000;
 }

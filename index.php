@@ -118,27 +118,29 @@
 							</h2>
 							<p class="text-client _link-text01" data-pararax01-text01=".7">
 								<span class="_link-span02">
-									<i class="fas fa-chart-line"></i> Impacto tangible
+									<i class="fas fa-chart-line feature-icon fontRed"></i>
+									Impacto tangible
 								</span>
 							</p>
 							<p class="text-client _link-text01" data-pararax01-text01=".7">
 								<span class="_link-span02">
+									<i class="fas fa-bullseye feature-icon fontRed"></i>
 									Precisión garantizada
 								</span>
 							</p>
 							<p class="text-client _link-text01" data-pararax01-text01=".7">
 								<span class="_link-span02">
+									<i class="fas fa-cogs feature-icon fontRed"></i>
 									Soluciones personalizadas
 								</span>
 							</p>
-							<p class="text-category _link-text01" data-pararax01-text01="1.0">
+							<button onclick="window.location.href='./pages/portafolio/portafolio.php'" 
+									class="text-category _link-text01 button-action" 
+									data-pararax01-text01="1.0">
 								<span class="_link-span02">
 									Conoce cómo trabajamos
 								</span>
-							</p>
-							<i class="text-arrow" data-pararax01-text01="1.0" data-sc-sp>
-								<i class="_arrow-right01"></i>
-							</i>
+							</button>
 						</div>
 					</a>
 				</article>
@@ -147,10 +149,7 @@
 					<div class="mod-lowerpage-haeder01 _pc-pd40 _sp-pd20" data-pararax01>
 						<h1 class="header-heading _heading01  __inview-text01" data-pararax01-text01="0">
 							<span class="heading-main _f-futura_m _futura-lh1 _futura-nm __inview-span01 reacomodoFont">
-								Nuestros
-								<span class="fontRed">
-									Clientes
-								</span>
+								Nuestros Clientes
 							</span>
 						</h1>
 					</div>

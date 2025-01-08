@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
             
             if (entry.isIntersecting) {
                 checkAndAnimateChildren(entry.target);
-            }
+           }
         });
     }, {
         threshold: 0.3
@@ -18,25 +18,15 @@ document.addEventListener('DOMContentLoaded', function() {
     // Función para verificar si un elemento tiene animaciones
     function hasAnimations(element) {
         const style = window.getComputedStyle(element);
-        const hasInviewClass = element.classList.contains('__inview-text01') || 
-                             element.classList.contains('__inview-span01') ||
-                             element.classList.contains('__pc-inview-span01') ||
-                             element.classList.contains('__sp-inview-span01');
-        
         return style.animation !== 'none' || 
                style.transition !== 'none' || 
-               hasInviewClass;
+               element.classList.toString().includes('inview');
     }
 
-    // Función para esperar a que terminen las animaciones de un elemento
+    // Función para esperar a que terminen las animaciones
     function waitForAnimation(element) {
         return new Promise(resolve => {
             if (!hasAnimations(element)) {
-                resolve();
-                return;
-            }
-
-            if (animationComplete.get(element)) {
                 resolve();
                 return;
             }
@@ -48,12 +38,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 resolve();
             };
 
-            // Para elementos con clases especiales de entrada
-            if (element.classList.contains('__inview-text01') || 
-                element.classList.contains('__inview-span01') ||
-                element.classList.contains('__pc-inview-span01') ||
-                element.classList.contains('__sp-inview-span01')) {
-                // Damos tiempo extra para estas animaciones específicas
+            if (element.classList.toString().includes('inview')) {
                 setTimeout(handleAnimationEnd, 2000);
             } else {
                 element.addEventListener('animationend', handleAnimationEnd);
@@ -62,52 +47,71 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 
-    // Función para verificar si todos los padres están visibles y sus animaciones completadas
-    async function areParentsReady(element) {
+    // Función para verificar si los padres están listos
+    async function areParentsAnimationsComplete(element) {
         let currentElement = element.parentElement;
+        
         while (currentElement && currentElement !== document.body) {
-            if (!visibleContainers.get(currentElement)) {
-                return false;
+            if (hasAnimations(currentElement)) {
+                await waitForAnimation(currentElement);
             }
-            await waitForAnimation(currentElement);
             currentElement = currentElement.parentElement;
         }
         return true;
     }
 
-    // Función para verificar y animar elementos hijo
+    // Función para verificar si el elemento está visible
+    function isElementVisible(element) {
+        const rect = element.getBoundingClientRect();
+        return (
+            rect.top >= 0 &&
+            rect.left >= 0 &&
+            rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+            rect.right <= (window.innerWidth || document.documentElement.clientWidth)
+        );
+    }
+
+    // Función principal para animar elementos
     async function checkAndAnimateChildren(container) {
-        const elements = container.querySelectorAll('.fontRed, .fontRedIntro');
+        // Manejamos tanto fontRed como button-action
+        const elements = container.querySelectorAll('.fontRed, .button-action');
         
         for (const element of elements) {
-            if (await areParentsReady(element)) {
-                if (element.classList.contains('fontRed')) {
-                    element.classList.add('animate');
-                } else if (element.classList.contains('fontRedIntro')) {
-                    // Esperamos un poco más para los elementos fontRedIntro
-                    await new Promise(resolve => setTimeout(resolve, 500));
-                    element.style.opacity = '1';
-                }
+            // 1. Verificamos que el contenedor sea visible
+            if (!visibleContainers.get(container)) continue;
+
+            // 2. Esperamos a que las animaciones de los padres terminen
+            await areParentsAnimationsComplete(element);
+
+            // 3. Verificamos que el elemento esté en el viewport
+            if (isElementVisible(element)) {
+                element.classList.add('animate');
             }
         }
     }
 
-    // Función para configurar la observación de todos los contenedores padre
-    function observeAllParents(element) {
+    // Función para observar los contenedores
+    function observeContainer(element) {
         let currentElement = element;
         while (currentElement && currentElement !== document.body) {
             if (!currentElement.dataset.isObserved) {
                 containerObserver.observe(currentElement);
                 currentElement.dataset.isObserved = 'true';
                 visibleContainers.set(currentElement, false);
-                animationComplete.set(currentElement, false);
             }
             currentElement = currentElement.parentElement;
         }
     }
 
-    // Inicializamos la observación para todos los elementos
-    document.querySelectorAll('.fontRed, .fontRedIntro').forEach(element => {
-        observeAllParents(element);
+    // Inicializamos para ambos tipos de elementos
+    document.querySelectorAll('.fontRed, .button-action').forEach(element => {
+        observeContainer(element);
     });
-}); 
+
+    // Verificamos periódicamente los elementos que aún no se han animado
+    setInterval(() => {
+        document.querySelectorAll('.fontRed:not(.animate), .button-action:not(.animate)').forEach(element => {
+            checkAndAnimateChildren(element.parentElement);
+        });
+    }, 500);
+});
