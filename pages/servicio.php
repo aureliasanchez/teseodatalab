@@ -178,19 +178,18 @@
 					<div class="archives_wrap">
 
 						<article class="archive-article analisis">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<a href="javascript:void(0);" class="_link-block01" data-pararax01 style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100%;">
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
-									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/servicio/analisisViabilidad.png" width="620"
-										height="620" alt="Daniel" loading="lazy">
+									data-pararax01-img01="0" style="display: flex; justify-content: center; align-items: center;">
+									<i class="fas fa-chart-line fa-10x"></i>
 								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+								<p class="article-position _link-text01" data-pararax01-text01="0.2" style="text-align: center;">
 									<span class="_link-span03">
 										Evaluación de proyectos para determinar su factibilidad y potencial de éxito.
 									</span>
 								</p>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
+								<p class="article-name _link-text01" data-pararax01-text01="0.4" style="text-align: center;">
 									<span class="_link-span03">
 										Análisis de Viabilidad
 									</span>

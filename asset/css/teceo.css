@@ -3,21 +3,80 @@
     width: 100% !important;
 }
 
-@media screen and (min-width: 640px) {
-    .fontPurple {
-        color: #644db5 !important;
-    }
+.imagenBG {
+    background-image: url('/asset/img/pages/index/fondo.jpg');
+    background-size: cover;
+    background-position: center !important;
+}
 
-    .fontRed {
-        color: #eb32ff !important;
+.padingButton {
+    padding: 1%;
+}
+
+.fontPurple {
+    color: #644db5 !important;
+    opacity: 0;
+    animation: fadeIn 2s ease forwards;
+    animation-delay: 2s;
+    /* Ajusta el retraso según sea necesario */
+}
+
+.fontRed {
+    color: #eb32ff !important;
+    opacity: 0;
+    animation: fadeIn 2s ease forwards;
+    animation-delay: 2s;
+    /* Ajusta el retraso según sea necesario */
+}
+
+.fontRedIntro {
+    color: #eb32ff !important;
+    opacity: 0;
+    animation: fadeIn 2s ease forwards;
+    animation-delay: 3.5s;
+    /* Ajusta el retraso según sea necesario */
+}
+
+.fontPurpleIntroLink {
+    color: #fff !important;
+    background-color: #644db5;
+    border-radius: 10px;
+    opacity: 0;
+    animation: fadeIn 2s ease forwards;
+    animation-delay: 4s;
+    /* Ajusta el retraso según sea necesario */
+    margin-bottom: 1%;
+}
+
+@keyframes fadeIn {
+    to {
+        opacity: 1;
     }
+}
+
+.reacomodoFont {
+    display: block;
+    font-size: 1rem !important;
+    position: relative
+}
+
+@media (max-width: 640px) {
+    .reacomodoFont {
+        display: block;
+        font-size: .6rem !important;
+        position: relative
+    }
+}
+
+@media screen and (min-width: 640px) {
 
     .linkPurple:hover {
         transition: background-color 0.5s ease, color 0.5s ease;
-        background-color: #644db5 !important;
-        color: #fff !important;
+        background-color: #fff !important;
+        border: 1px solid #000;
+        color: #644db5 !important;
     }
-    
+
     .linkRed:hover {
         background-color: #eb32ff !important;
         color: #fff !important
@@ -53,11 +112,15 @@
 }
 
 .borderRadius {
-    border-radius: 10% !important;
+    border-radius: 20px !important;
 }
 
 @media (max-width: 768px) {
     .social-icons {
         flex-direction: column;
+    }
+
+    .padingButton {
+        padding: 3%;
     }
 }

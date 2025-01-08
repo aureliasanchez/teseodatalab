@@ -18,7 +18,7 @@
     font-family: 'Poppins' !important;
     src: url('../fonts/Poppins-Regular.woff2') format('woff2'),
         url('../fonts/Poppins-Regular.woff') format('woff') !important;
-    font-weight: 400 !important;
+    font-weight: 200 !important;
     font-style: normal !important;
 }
 
@@ -26,7 +26,7 @@
     font-family: 'Poppins' !important;
     src: url('../fonts/Poppins-Medium.woff2') format('woff2'),
         url('../fonts/Poppins-Medium.woff') format('woff') !important;
-    font-weight: 500 !important;
+    font-weight: 300 !important;
     font-style: normal !important;
 }
 
@@ -34,7 +34,7 @@
     font-family: 'Poppins' !important;
     src: url('../fonts/Poppins-SemiBold.woff2') format('woff2'),
         url('../fonts/Poppins-SemiBold.woff') format('woff') !important;
-    font-weight: 600 !important;
+    font-weight: 400 !important;
     font-style: normal !important;
 }
 
@@ -42,7 +42,7 @@
     font-family: 'Poppins' !important;
     src: url('../fonts/Poppins-Bold.woff2') format('woff2'),
         url('../fonts/Poppins-Bold.woff') format('woff') !important;
-    font-weight: 700 !important;
+    font-weight: 500 !important;
     font-style: normal !important;
 }
 
@@ -492,6 +492,7 @@ select::-ms-expand {
 }
 
 ._link-span02 {
+    border-radius: 10px;
     transition-property: background;
     transition-duration: .5s;
     transition-delay: 0s;
@@ -1005,7 +1006,7 @@ body.__footer-view .mod_toTop_btn ._arrow-top01:before {
     width: auto;
     height: .9rem;
     background-color: #644db5;
-    border: #fff 1px solid;
+    border: #fff 2px solid;
     color: #fff;
     position: fixed;
     bottom: .2rem;
@@ -1177,7 +1178,7 @@ body:not(.__scrolled) .mod-fixed-recruit-link+.mod_toTop_btn {
 }
 
 body.__scrolled .mod-fixed-recruit-link+.mod_toTop_btn {
-    transform: translateY(-1.4rem)
+    transform: translateY(-1rem)
 }
 
 @keyframes recruit_bnr_open01 {
@@ -1478,7 +1479,7 @@ body.__scrolled .mod-fixed-recruit-link+.mod_toTop_btn {
 .mod_footer {
     padding-top: 1rem;
     padding-bottom: .12rem;
-    background-color: #644db5;
+    background-color: #000;
     color: #fff
 }
 

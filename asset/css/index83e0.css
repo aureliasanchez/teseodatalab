@@ -218,7 +218,13 @@ html:not(.ie) .__opening-start .opening.anim .img img {
 }
 
 .top-mainvisual .catch-en {
-    font-size: 1.6rem
+    font-size: 1rem
+}
+
+@media (min-width: 1300px) {
+    .top-mainvisual .catch-en {
+        font-size: 1.6rem
+    }
 }
 
 .top-mainvisual .catch-en>small {
@@ -673,7 +679,7 @@ html:not(.os-iOS):not(.os-mac) .top-mainvisual .mainvisual-arrow>i:after {
     }
 
     .top-mainvisual .catch-en {
-        font-size: .75rem
+        font-size: .60rem
     }
 
     .top-mainvisual .catch-en .__sp-inview-span01+.__sp-inview-span01 {

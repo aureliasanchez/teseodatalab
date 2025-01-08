@@ -59,71 +59,45 @@
 
 		<div class="page_container -top">
 
-			<div class="top-mainvisual _pc-pd40 _sp-pd20" data-pararax01>
+			<div class="imagenBG">
 
-				<div class="mainvisual-catch">
-					<p class="catch-en _f-futura_m _futura-lh1 _futura-nm __inview-text01" data-pararax01-text01="0">
-						<span class="__pc-inview-span01">
-							<span class="__sp-inview-span01">
-								Teseo & Datos
+				<div class="top-mainvisual _pc-pd40 _sp-pd20" data-pararax01>
+
+					<div class="mainvisual-catch">
+						<p class="catch-en _f-futura_m _futura-lh1 _futura-nm __inview-text01"
+							data-pararax01-text01="0">
+							<span class="__pc-inview-span01">
+								<span class="__sp-inview-span01">
+									Impulsa tu
+									<span class="fontRedIntro">éxito</span>
+									con analisis de datos
+								</span>
 							</span>
-						</span>
-					</p>
-					<p class="catch-ja __inview-text01" data-pararax01-text01=".4">
-						<span class="__pc-inview-span01">
-							<span class="__sp-inview-span01">
-								Inteligencia Artificial para Soluciones Estratégicas
+						</p>
+						<p class="catch-ja __inview-text01" data-pararax01-text01=".4">
+							<span class="__pc-inview-span01">
+								<span class="__sp-inview-span01">
+									Transformamos
+									<span class="fontRedIntro">información compleja</span>
+									en
+									<span class="fontRedIntro">estrategias claras,</span>
+									<br>
+									ayudándote a liderar tu industria con inteligencia artificial y análisis predictivo
+								</span>
 							</span>
-						</span>
-						<span class="__inview-span01 linkPurple">
-							<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=contacto@teseodata.com"
-								target="_blank">
-								contacto@teseodata.com
-							</a>
-						</span>
-					</p>
+							<span class="__inview-span01 fontPurpleIntroLink linkPurple padingButton">
+								<a href="./pages/servicio.php" target="_self">
+									Explora nuestras soluciones
+								</a>
+							</span>
+						</p>
+					</div>
+
 				</div>
-
 			</div>
 
 			<section class="top-projects">
 
-				<article class="project" id="Servicios">
-					<a href="./pages/servicio.php" class="_link-block01 _pc-pd40" data-pararax01>
-						<div class="project-img of _link-img01 __inview-img01 __inview-img01" data-pararax01-img01="0">
-							<picture>
-								<source srcset="./asset/img/repetidas/PANA1201.jpg" width="750" height="500"
-									media="(max-width:640px)">
-								<img src="./asset/img/repetidas/PANA1201.jpg" width="1500" height="1000"
-									alt="札幌シェアオフィスBYYARD" loading="lazy">
-							</picture>
-						</div>
-						<div class="project-text _sp-pd20">
-
-							<h2 class="text-heading _link-text01" data-pararax01-text01="0.4">
-								<span class="_link-span02">
-									Lidera con datos. Transforma tu industria con decisiones estratégicas basadas en
-									inteligencia artificial
-								</span>
-							</h2>
-							<p class="text-client _link-text01" data-pararax01-text01=".7">
-								<span class="_link-span02">
-									Somos expertos en convertir datos complejos en soluciones claras que impulsan tu
-									negocio hacia el futuro
-								</span>
-							</p>
-							<p class="text-category _link-text01" data-pararax01-text01="1.0">
-								<span class="_link-span02">
-									Explora nuestras soluciones
-								</span>
-							</p>
-							<i class="text-arrow" data-pararax01-text01="1.0" data-sc-sp>
-								<i class="_arrow-right01"></i>
-							</i>
-
-						</div>
-					</a>
-				</article>
 				<article class="project">
 					<a href="./pages/portafolio/portafolio.php" class="_link-block01 _pc-pd40" data-pararax01>
 						<div class="project-img of _link-img01 __inview-img01 __inview-img01" data-pararax01-img01="0">
@@ -137,22 +111,22 @@
 						<div class="project-text _sp-pd20">
 							<h2 class="text-heading _link-text01" data-pararax01-text01="0.4">
 								<span class="_link-span02">
-									¿Por qué elegir Teseo?
+									Teseo Data Lab: Donde los datos generan resultados
 								</span>
 							</h2>
 							<p class="text-client _link-text01" data-pararax01-text01=".7">
 								<span class="_link-span02">
-									Soluciones medibles para tu negocio
+									<i class="fas fa-chart-line"></i> Impacto tangible
 								</span>
 							</p>
 							<p class="text-client _link-text01" data-pararax01-text01=".7">
 								<span class="_link-span02">
-									Decisiones basadas en datos precisos
+									Precisión garantizada
 								</span>
 							</p>
 							<p class="text-client _link-text01" data-pararax01-text01=".7">
 								<span class="_link-span02">
-									Análisis predictivo para adelantarte al mercado
+									Soluciones personalizadas
 								</span>
 							</p>
 							<p class="text-category _link-text01" data-pararax01-text01="1.0">
@@ -167,52 +141,53 @@
 					</a>
 				</article>
 
-				<div class="mod-lowerpage-haeder01 _pc-pd40 _sp-pd20" data-pararax01>
-					<h1 class="header-heading _heading01  __inview-text01" data-pararax01-text01="0">
-						<span class="heading-main _f-futura_m _futura-lh1 _futura-nm __inview-span01">
-							Nuestros Clientes
-						</span>
-					</h1>
-				</div>
-				<!-- Carrusel de imágenes -->
-				<div id="image-carousel-wrapper" style="position: relative;">
-					<div id="image-carousel" class="splide">
-						<div class="splide__track">
-							<ul class="splide__list">
-								<li class="splide__slide">
-									<img src="./asset/img/pages/index/marcas/ddci.webp">
-								</li>
-								<li class="splide__slide">
-									<img src="./asset/img/pages/index/marcas/save.webp">
-								</li>
-								<li class="splide__slide">
-									<img src="./asset/img/pages/index/marcas/homia.webp">
-								</li>
-								<li class="splide__slide">
-									<img src="./asset/img/pages/index/marcas/trend.webp">
-								</li>
-								<li class="splide__slide">
-									<img src="./asset/img/pages/index/marcas/prodit.webp">
-								</li>
-								<li class="splide__slide">
-									<img src="./asset/img/pages/index/marcas/stratu.webp">
-								</li>
-								<li class="splide__slide">
-									<img src="./asset/img/pages/index/marcas/alphine.webp">
-								</li>
-								<li class="splide__slide">
-									<img src="./asset/img/pages/index/marcas/sherwind.webp">
-								</li>
-								<li class="splide__slide">
-									<img src="./asset/img/pages/index/marcas/datalPine.webp">
-								</li>
-								<li class="splide__slide">
-									<img src="./asset/img/pages/index/marcas/ampiPuebla.webp">
-								</li>
-								<li class="splide__slide">
-									<img src="./asset/img/pages/index/marcas/valdepenas.webp">
-								</li>
-							</ul>
+				<div id="Clientes">
+					<div class="mod-lowerpage-haeder01 _pc-pd40 _sp-pd20" data-pararax01>
+						<h1 class="header-heading _heading01  __inview-text01" data-pararax01-text01="0">
+							<span class="heading-main _f-futura_m _futura-lh1 _futura-nm __inview-span01 reacomodoFont">
+								Nuestros Clientes
+							</span>
+						</h1>
+					</div>
+					<!-- Carrusel de imágenes -->
+					<div id="image-carousel-wrapper" style="position: relative;">
+						<div id="image-carousel" class="splide">
+							<div class="splide__track">
+								<ul class="splide__list">
+
+									<li class="splide__slide">
+										<img src="./asset/img/pages/index/marcas/valdepenas.webp">
+									</li>
+									<li class="splide__slide">
+										<img src="./asset/img/pages/index/marcas/stratu.webp">
+									</li>
+									<li class="splide__slide">
+										<img src="./asset/img/pages/index/marcas/sherwind.webp">
+									</li>
+									<li class="splide__slide">
+										<img src="./asset/img/pages/index/marcas/ampiPuebla.webp">
+									</li>
+									<li class="splide__slide">
+										<img src="./asset/img/pages/index/marcas/homia.webp">
+									</li>
+									<li class="splide__slide">
+										<img src="./asset/img/pages/index/marcas/ddci.webp">
+									</li>
+									<li class="splide__slide">
+										<img src="./asset/img/pages/index/marcas/save.webp">
+									</li>
+									<li class="splide__slide">
+										<img src="./asset/img/pages/index/marcas/villanova.webp">
+									</li>
+									<li class="splide__slide">
+										<img src="./asset/img/pages/index/marcas/cayco.webp">
+									</li>
+									<li class="splide__slide">
+										<img src="./asset/img/pages/index/marcas/gas.webp">
+									</li>
+
+								</ul>
+							</div>
 						</div>
 					</div>
 				</div>
