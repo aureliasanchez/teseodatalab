@@ -1,9 +1,11 @@
 .social-icons {
     margin-top: 20px;
-    display: flex;
-    gap: 50px;
-    justify-content: center; 
+    display: block;
+    gap: inherit;
+    justify-content: center;
     flex-direction: row;
+    flex-wrap: unset;
+    /* Asegura que los iconos no se envuelvan */
 }
 
 .social-icon-white {

@@ -133,9 +133,9 @@
 }
 
 @media (max-width: 768px) {
-    .social-icons {
+    /* .social-icons {
         flex-direction: column;
-    }
+    } */
 
     .padingButton {
         padding: 3%;
@@ -261,7 +261,7 @@
 .article-img i {
     color: #000;
     transition: transform 0.3s ease;
-    font-size: 10vw;
+    /* font-size: 10vw; */
     max-width: 100%;
     height: auto;
 }
