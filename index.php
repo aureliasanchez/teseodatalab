@@ -1,15 +1,15 @@
 <!DOCTYPE HTML>
-<html lang="ja" class=" os-win not-safari not-chrome not-edge not-ie not-googlebot addPrintMessage">
+<html lang="es" class="os-win not-safari not-chrome not-edge not-ie not-googlebot addPrintMessage">
 
 <head>
 	<!-- Meta -->
 	<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 	<meta charset="utf-8">
 	<meta name="description"
-		content="Equipo global de científicos de datos y desarrolladores de software que utiliza IA para transformar tu industria.">
+		content="Equipo global de científicos de datos y desarrolladores de software que utilizan IA para transformar tu industria.">
 	<meta property="og:title" content="Teseo DataLab | Análisis de Datos">
 	<meta property="og:description"
-		content="Equipo global de científicos de datos y desarrolladores de software que utiliza IA para transformar tu industria.">
+		content="Equipo global de científicos de datos y desarrolladores de software que utilizan IA para transformar tu industria.">
 	<meta property="og:url" content="https://teseo.com/index.php">
 	<meta property="og:image" content="https://teseo.com/assets/img/ogimage_index.png">
 	<meta name="twitter:card" content="summary">
@@ -71,7 +71,7 @@
 								<span class="__sp-inview-span01">
 									Impulsa tu
 									<span class="fontRedIntro">éxito</span>
-									con analisis de datos
+									con análisis de datos
 								</span>
 							</span>
 						</p>
@@ -83,7 +83,7 @@
 									en
 									<span class="fontRedIntro">estrategias claras,</span>
 									<br>
-									ayudándote a liderar tu industria con inteligencia artificial y análisis predictivo
+									ayudándote a liderar tu industria con inteligencia artificial y análisis predictivo.
 								</span>
 							</span>
 							<button class="__inview-span01 fontPurpleIntroLink linkPurple padingButton" onclick="window.location.href='./pages/servicio.php'">
@@ -116,24 +116,26 @@
 									Donde los datos generan resultados
 								</span>
 							</h2>
-							<p class="text-client _link-text01" data-pararax01-text01=".7">
-								<span class="_link-span02">
-									<i class="fas fa-chart-line feature-icon fontRed"></i>
-									Impacto tangible
-								</span>
-							</p>
-							<p class="text-client _link-text01" data-pararax01-text01=".7">
-								<span class="_link-span02">
-									<i class="fas fa-bullseye feature-icon fontRed"></i>
-									Precisión garantizada
-								</span>
-							</p>
-							<p class="text-client _link-text01" data-pararax01-text01=".7">
-								<span class="_link-span02">
-									<i class="fas fa-cogs feature-icon fontRed"></i>
-									Soluciones personalizadas
-								</span>
-							</p>
+							<div id="listados">
+								<p class="text-client _link-text01" data-pararax01-text01=".7">
+									<span class="_link-span02">
+										<i class="fas fa-chart-line feature-icon fontRed"></i>
+										Impacto tangible
+									</span>
+								</p>
+								<p class="text-client _link-text01" data-pararax01-text01=".7">
+									<span class="_link-span02">
+										<i class="fas fa-bullseye feature-icon fontRed"></i>
+										Precisión garantizada
+									</span>
+								</p>
+								<p class="text-client _link-text01" data-pararax01-text01=".7">
+									<span class="_link-span02">
+										<i class="fas fa-cogs feature-icon fontRed"></i>
+										Soluciones personalizadas
+									</span>
+								</p>
+							</div>
 							<button onclick="window.location.href='./pages/portafolio/portafolio.php'" 
 									class="text-category _link-text01 button-action" 
 									data-pararax01-text01="1.0">
@@ -149,7 +151,7 @@
 					<div class="mod-lowerpage-haeder01 _pc-pd40 _sp-pd20" data-pararax01>
 						<h1 class="header-heading _heading01  __inview-text01" data-pararax01-text01="0">
 							<span class="heading-main _f-futura_m _futura-lh1 _futura-nm __inview-span01 reacomodoFont">
-								Nuestros Clientes
+								Clientes
 							</span>
 						</h1>
 					</div>

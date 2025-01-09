@@ -1,27 +1,34 @@
 /* Estilos para el carrusel de imágenes */
-#image-carousel .splide__slide img {
-    display: block;
-    margin: 0 auto;
-    max-width: 100%;
-    height: auto;
-}
-
-#image-carousel .splide__slide {
-    display: flex;
-    justify-content: center;
-    /* Centra horizontalmente */
-    align-items: center;
-    /* Centra verticalmente */
-    min-height: 100%;
-    /* Ocupa toda la altura de la ventana */
-    margin: 0;
+#image-carousel-wrapper {
+    width: 100%;
+    padding: 0 40px; /* Espacio para las flechas */
+    box-sizing: border-box;
 }
 
 #image-carousel {
-    max-width: 80%;
-    /* Ajusta el tamaño máximo del carrusel según tus necesidades */
+    max-width: 100%; /* Usamos todo el ancho disponible */
     margin: 0 auto;
-    /* Centra el carrusel */
+}
+
+/* Ajustamos los slides */
+#image-carousel .splide__slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+/* Ajustamos las imágenes */
+#image-carousel .splide__slide img {
+    display: block;
+    max-width: 90%; /* Reducimos ligeramente para dar espacio entre imágenes */
+    height: auto;
+    object-fit: contain;
+    transition: transform 0.5s ease;
+    position: relative;
+    z-index: 2;
 }
 
 /* Personalizar los controles del carrusel */
@@ -29,19 +36,16 @@
     background-color: #644db5 !important;
     border-color: #644db5 !important;
     width: .5rem !important;
-    /* Ajusta el tamaño de las flechas según sea necesario */
     height: .5rem !important;
-    /* Ajusta el tamaño de las flechas según sea necesario */
+    transform: translateY(-50%);
 }
 
 .splide__arrow--prev {
-    left: -1rem !important;
-    /* Ajusta la distancia de la flecha izquierda */
+    left: -25px !important;
 }
 
 .splide__arrow--next {
-    right: -1rem !important;
-    /* Ajusta la distancia de la flecha derecha */
+    right: -25px !important;
 }
 
 .splide__pagination__page.is-active {
@@ -110,21 +114,15 @@
 }
 
 .splide__slide::after {
-    content: "";
-    position: absolute;
-    top: 5%;
-    left: 0;
-    width: 100%;
-    height: 80%;
-    background-color: transparent;
-    transition: background-color 0.5s ease;
-    pointer-events: none;
-    z-index: 1;
-    /* Asegura que el pseudo-elemento esté debajo de las imágenes */
-    border-radius: 20px;
+    display: none;
 }
 
 .splide__slide:hover::after {
-    background-color: #644db58b;
-    border-radius: 20px;
+    background-color: transparent;
+}
+
+/* Removemos los estilos que pueden causar problemas */
+.splide__track {
+    overflow: hidden; /* Volvemos al comportamiento normal */
+    margin: 0;
 }
