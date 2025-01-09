@@ -23,6 +23,7 @@
 	<script src="../asset/js/common71c5.js" defer></script>
 	<script src="../asset/js/member9d21.js" defer></script>
 	<script src="../asset/js/menuOpciones.js" defer></script>
+	<script src="../asset/js/animations.js" defer></script>
 	<script type="application/ld+json"></script>
 	<noscript>
 		<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P9GDZFD" height="0" width="0"
@@ -53,7 +54,7 @@
 			<div class="mod-lowerpage-haeder01 _pc-pd40 _sp-pd20" data-pararax01>
 				<h1 class="header-heading _heading01  __inview-text01" data-pararax01-text01="0">
 					<span class="heading-main _f-futura_m _futura-lh1 _futura-nm __inview-span01">
-						Servicios integrales diseñados para transformar datos en estrategias de éxito
+						Convierte datos en oportunidades estratégicas
 					</span>
 				</h1>
 			</div>
@@ -155,6 +156,7 @@
 
 										</a>
 									</div>
+
 								</div>
 							</div>
 							<div class="post-aside-splide-pagination_wrap" data-sc-sp>
@@ -178,315 +180,239 @@
 					<div class="archives_wrap">
 
 						<article class="archive-article analisis">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01 style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100%;">
-
+							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
 								<div class="article-img link-img of _link-img01 __inview-img01"
-									data-pararax01-img01="0" style="display: flex; justify-content: center; align-items: center;">
-									<i class="fas fa-chart-line fa-10x"></i>
+									data-pararax01-img01="0">
+									<i class="fas fa-check-circle fa-10x icon-hidden"></i>
+									<!-- Icono de Font Awesome -->
 								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2" style="text-align: center;">
-									<span class="_link-span03">
-										Evaluación de proyectos para determinar su factibilidad y potencial de éxito.
-									</span>
+								<p class="article-name _link-text01" data-pararax01-text01="0.4">
+									<span class="_link-span03">Viabilidad de Proyectos</span>
 								</p>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4" style="text-align: center;">
-									<span class="_link-span03">
-										Análisis de Viabilidad
-									</span>
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">"Analizamos su factibilidad y potencial de éxito."</span>
 								</p>
-
 							</a>
 						</article>
 						<article class="archive-article analisis">
 							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
-
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/servicio/factivilidadFinanciera.png" width="620"
-										height="620" alt="Daniel" loading="lazy">
+									<i class="fas fa-dollar-sign fa-10x icon-hidden"></i> <!-- Icono de Font Awesome -->
 								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Análisis financiero detallado para respaldar decisiones de inversión.
-									</span>
-								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">
-										Factibilidad Financiera
-									</span>
+									<span class="_link-span03">Análisis Financiero</span>
 								</p>
-
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">"Decisiones de inversión basadas en análisis
+										detallados."</span>
+								</p>
 							</a>
 						</article>
 						<article class="archive-article analisis">
 							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
-
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/servicio/dataeconometricoCliente.png" width="620"
-										height="620" alt="Daniel" loading="lazy">
+									<i class="fas fa-users fa-10x icon-hidden"></i> <!-- Icono de Font Awesome -->
 								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Segmentación avanzada para identificar oportunidades y clientes potenciales.
-									</span>
-								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">
-										Dataeconométrico con Identificación de Cliente Potencial
-									</span>
+									<span class="_link-span03">Segmentación de Clientes</span>
 								</p>
-
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">"Identifica clientes clave y oportunidades
+										estratégicas."</span>
+								</p>
 							</a>
 						</article>
 						<article class="archive-article analisis">
 							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
-
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/servicio/reporteAnalisisMercado.png" width="620"
-										height="620" alt="Daniel" loading="lazy">
+									<i class="fas fa-chart-pie fa-10x icon-hidden"></i> <!-- Icono de Font Awesome -->
 								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Estudios exhaustivos que integran tendencias, competidores y comportamiento del
-										consumidor para guiar decisiones estratégicas.
-									</span>
-								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">
-										Reportes y Análisis de Mercado
-									</span>
+									<span class="_link-span03">Estudios de Mercado</span>
 								</p>
-
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">"Tendencias, competencia y comportamiento del
+										consumidor."</span>
+								</p>
 							</a>
 						</article>
 						<article class="archive-article consultar">
 							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
-
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/servicio/desarrolloProductoComercial.png"
-										width="620" height="620" alt="Daniel" loading="lazy">
+									<i class="fas fa-cogs fa-10x icon-hidden"></i> <!-- Icono de Font Awesome -->
 								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Diseño y adaptación de productos para satisfacer demandas del mercado.
-									</span>
-								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">
-										Desarrollo de Producto Comercial
-									</span>
+									<span class="_link-span03">Diseño de Productos</span>
 								</p>
-
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">"Crea soluciones adaptadas a las demandas del
+										mercado."</span>
+								</p>
 							</a>
 						</article>
 						<article class="archive-article consultar">
 							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
-
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/servicio/modelosExpansion.png" width="620"
-										height="620" alt="Daniel" loading="lazy">
+									<i class="fas fa-arrow-up fa-10x icon-hidden"></i> <!-- Icono de Font Awesome -->
 								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Estrategias para crecimiento territorial o sectorial.
-									</span>
-								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">
-										Modelos de Expansión
-									</span>
+									<span class="_link-span03">Estrategias de Expansión</span>
 								</p>
-
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">"Planeamos tu crecimiento territorial o
+										sectorial."</span>
+								</p>
 							</a>
 						</article>
 						<article class="archive-article consultar">
 							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
-
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/servicio/evaluacionUbicasionPotenciales.png"
-										width="620" height="620" alt="Daniel" loading="lazy">
+									<i class="fas fa-map-marker-alt fa-10x icon-hidden"></i> <!-- Icono de Font Awesome -->
 								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Estudio de sitios ideales para proyectos.
-									</span>
-								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">
-										Evaluación de Ubicaciones Potenciales
-									</span>
+									<span class="_link-span03">Ubicaciones Estratégicas</span>
 								</p>
-
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">"Estudios para elegir los mejores sitios."</span>
+								</p>
 							</a>
 						</article>
 						<article class="archive-article consultar">
 							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
-
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/servicio/optimizacionProducto.png" width="620"
-										height="620" alt="Daniel" loading="lazy">
+									<i class="fas fa-tools fa-10x icon-hidden"></i> <!-- Icono de Font Awesome -->
 								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Ajustes para maximizar el valor y la rentabilidad.
-									</span>
-								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">
-										Optimización de Producto
-									</span>
+									<span class="_link-span03">Mejora de Productos</span>
 								</p>
-
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">"Maximiza su valor y rentabilidad."</span>
+								</p>
 							</a>
 						</article>
 						<article class="archive-article marketing">
 							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
-
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/servicio/estrategiasDigitales.png" width="620"
-										height="620" alt="Daniel" loading="lazy">
+									<i class="fas fa-desktop fa-10x icon-hidden"></i> <!-- Icono de Font Awesome -->
 								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Diseño y ejecución de planes digitales integrales.
-									</span>
-								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">
-										Estrategias Digitales
-									</span>
+									<span class="_link-span03">Planes Digitales</span>
 								</p>
-
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">"Diseñamos estrategias completas para el entorno
+										digital."</span>
+								</p>
 							</a>
 						</article>
 						<article class="archive-article marketing">
 							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
-
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/servicio/socialMediaMarketing.png" width="620"
-										height="620" alt="Daniel" loading="lazy">
+									<i class="fas fa-share-alt fa-10x icon-hidden"></i> <!-- Icono de Font Awesome -->
 								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Gestión de redes sociales y creación de contenido.
-									</span>
-								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">
-										Social Media Marketing
-									</span>
+									<span class="_link-span03">Gestión de Redes Sociales</span>
 								</p>
-
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">"Contenido atractivo y administración
+										profesional."</span>
+								</p>
 							</a>
 						</article>
 						<article class="archive-article marketing">
 							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
-
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/servicio/seoCampanasADS.png" width="620"
-										height="620" alt="Daniel" loading="lazy">
+									<i class="fas fa-search fa-10x icon-hidden"></i> <!-- Icono de Font Awesome -->
 								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Optimización de motores de búsqueda y publicidad digital.
-									</span>
-								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">
-										SEO y Campañas ADS
-									</span>
+									<span class="_link-span03">SEO y Anuncios Digitales</span>
 								</p>
-
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">"Optimiza búsquedas y campañas publicitarias."</span>
+								</p>
 							</a>
 						</article>
 						<article class="archive-article marketing">
 							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
-
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/servicio/emailMarketing.png" width="620"
-										height="620" alt="Daniel" loading="lazy">
+									<i class="fas fa-envelope fa-10x icon-hidden"></i> <!-- Icono de Font Awesome -->
 								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Diseño de campañas personalizadas.
-									</span>
-								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">
-										Email Marketing
-									</span>
+									<span class="_link-span03">Marketing por Email</span>
 								</p>
-
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">"Campañas personalizadas y efectivas."</span>
+								</p>
 							</a>
 						</article>
 						<article class="archive-article masificasion">
 							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
-
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/servicio/generacionBaseDatos.png" width="620"
-										height="620" alt="Daniel" loading="lazy">
+									<i class="fas fa-database fa-10x icon-hidden"></i> <!-- Icono de Font Awesome -->
 								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Creación de bases segmentadas y verificadas.
-									</span>
-								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">
-										Generación de Bases de Datos
-									</span>
+									<span class="_link-span03">Bases de Datos</span>
 								</p>
-
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">"Crea listas segmentadas y verificadas."</span>
+								</p>
 							</a>
 						</article>
 						<article class="archive-article masificasion">
 							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
-
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/servicio/campañasMasivaWhatsapp.png" width="620"
-										height="620" alt="Daniel" loading="lazy">
+									<i class="fas fa-comments fa-10x icon-hidden"></i> <!-- Icono de Font Awesome -->
 								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Envío automatizado y seguimiento.
-									</span>
-								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">
-										Campañas Masivas Vía WhatsApp
-									</span>
+									<span class="_link-span03">Campañas por WhatsApp</span>
 								</p>
-
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">"Automatización y seguimiento masivo efectivo."</span>
+								</p>
 							</a>
 						</article>
 						<article class="archive-article masificasion">
 							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+								<div class="article-img link-img of _link-img01 __inview-img01"
+									data-pararax01-img01="0">
+									<i class="fas fa-exchange-alt fa-10x icon-hidden"></i> <!-- Icono de Font Awesome -->
+								</div>
+								<p class="article-name _link-text01" data-pararax01-text01="0.4">
+									<span class="_link-span03">Pruebas A/B</span>
+								</p>
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">"Evalúa la efectividad de estrategias y
+										productos."</span>
+								</p>
+							</a>
+						</article>
+						<article class="archive-article software">
+							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/servicio/desarrolladorABTesting.png" width="620"
-										height="620" alt="Daniel" loading="lazy">
+									<i class="fas fa-tachometer-alt fa-10x icon-hidden"></i>
 								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Pruebas para medir efectividad de productos y campañas.
-									</span>
-								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
-										Desarrollo de A/B Testing
+										Dashboards Interactivos
+									</span>
+								</p>
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">
+										"Tableros operativos para decisiones rápidas."
 									</span>
 								</p>
 
@@ -497,17 +423,16 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/servicio/dashboardPersonalizado.png" width="620"
-										height="620" alt="Daniel" loading="lazy">
+									<i class="fas fa-code fa-10x icon-hidden"></i>
 								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Tableros operativos y estratégicos.
-									</span>
-								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
-										Dashboards Personalizados
+										Software Personalizado
+									</span>
+								</p>
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">
+										"Soluciones SaaS adaptadas a tu negocio."
 									</span>
 								</p>
 
@@ -518,38 +443,16 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/servicio/solucionSaas.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
+									<i class="fas fa-robot fa-10x icon-hidden"></i>
 								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Herramientas digitales personalizadas.
-									</span>
-								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
-										Soluciones SaaS
+										Automatización Inteligente
 									</span>
 								</p>
-
-							</a>
-						</article>
-						<article class="archive-article software">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01"
-									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/servicio/automatizacionOperaciones.png" width="620"
-										height="620" alt="Daniel" loading="lazy">
-								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">
-										Sistemas inteligentes para optimizar procesos.
-									</span>
-								</p>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">
-										Automatización de Operaciones
+										"Optimiza procesos con tecnología avanzada."
 									</span>
 								</p>
 
@@ -560,17 +463,16 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/servicio/reporteMercado.png" width="620"
-										height="620" alt="Daniel" loading="lazy">
+									<i class="fas fa-chart-line fa-10x icon-hidden"></i>
 								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										(Dataeconométricos) Análisis detallado del mercado.
-									</span>
-								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
-										Reportes de Mercado
+										Análisis de Mercado
+									</span>
+								</p>
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">
+										"Estudios econométricos para decisiones informadas."
 									</span>
 								</p>
 
@@ -581,38 +483,16 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/servicio/optimizsacionMenu.png" width="620"
-										height="620" alt="Daniel" loading="lazy">
+									<i class="fas fa-utensils fa-10x icon-hidden"></i>
 								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Recomendaciones basadas en datos.
-									</span>
-								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
 										Optimización de Menú
 									</span>
 								</p>
-
-							</a>
-						</article>
-						<article class="archive-article restaurante">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01"
-									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/servicio/ubicasionesPotenciales.png" width="620"
-										height="620" alt="Daniel" loading="lazy">
-								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">
-										Identificación de zonas estratégicas.
-									</span>
-								</p>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">
-										Ubicaciones Potenciales
+										"Mejora opciones con análisis de datos."
 									</span>
 								</p>
 
@@ -623,17 +503,16 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/servicio/factivilidadFinanciera2.png" width="620"
-										height="620" alt="Daniel" loading="lazy">
+									<i class="fas fa-tags fa-10x icon-hidden"></i>
 								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Evaluación del retorno de inversión.
-									</span>
-								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
-										Factibilidad Financiera
+										Zonas Estratégicas
+									</span>
+								</p>
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">
+										"Identifica ubicaciones ideales para proyectos."
 									</span>
 								</p>
 
@@ -644,17 +523,36 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/servicio/analisisTendencias.png" width="620"
-										height="620" alt="Daniel" loading="lazy">
+									<i class="fas fa-dollar-sign fa-10x icon-hidden"></i>
 								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Decoración, diseño y preferencias del cliente.
-									</span>
-								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
-										Análisis de Tendencias
+										Rentabilidad Financiera
+									</span>
+								</p>
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">
+										"Maximiza el retorno de tus inversiones."
+									</span>
+								</p>
+
+							</a>
+						</article>
+						<article class="archive-article restaurante">
+							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+
+								<div class="article-img link-img of _link-img01 __inview-img01"
+									data-pararax01-img01="0">
+									<i class="fas fa-paint-brush fa-10x icon-hidden"></i>
+								</div>
+								<p class="article-name _link-text01" data-pararax01-text01="0.4">
+									<span class="_link-span03">
+										Tendencias de Diseño
+									</span>
+								</p>
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">
+										"Explora preferencias y estilos clave."
 									</span>
 								</p>
 
@@ -665,17 +563,16 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/servicio/viabilidadProducto.png" width="620"
-										height="620" alt="Daniel" loading="lazy">
+									<i class="fas fa-tags fa-10x icon-hidden"></i>
 								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Diseño de productos alineados al mercado.
-									</span>
-								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
-										Viabilidad de Producto
+										Productos Rentables
+									</span>
+								</p>
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">
+										"Diseña soluciones alineadas con el mercado."
 									</span>
 								</p>
 
@@ -686,17 +583,16 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/servicio/factivilidadFinanciera3.png" width="620"
-										height="620" alt="Daniel" loading="lazy">
+									<i class="fas fa-chart-bar fa-10x icon-hidden"></i>
 								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Análisis para evaluar inversiones.
-									</span>
-								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
-										Factibilidad Financiera
+										Evaluación de Inversiones
+									</span>
+								</p>
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">
+										"Analiza riesgos y oportunidades financieras."
 									</span>
 								</p>
 
@@ -707,17 +603,16 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/servicio/desarrolloProducto.png" width="620"
-										height="620" alt="Daniel" loading="lazy">
+									<i class="fas fa-lightbulb fa-10x icon-hidden"></i>
 								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Creación de proyectos innovadores.
-									</span>
-								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
-										Desarrollo de Producto
+										Proyectos Innovadores
+									</span>
+								</p>
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">
+										"Crea ideas únicas y rentables."
 									</span>
 								</p>
 
@@ -725,65 +620,59 @@
 						</article>
 						<article class="archive-article rais">
 							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
-
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/servicio/preciosDinamicos.png" width="620"
-										height="620" alt="Daniel" loading="lazy">
+									<i class="fas fa-chart-line fa-10x icon-hidden"></i>
+									<!-- Icono de Font Awesome relacionado con precios dinámicos -->
 								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Estrategias para optimizar ingresos.
-									</span>
-								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
 										Precios Dinámicos
 									</span>
 								</p>
-
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">
+										"Optimiza ingresos con estrategias flexibles."
+									</span>
+								</p>
 							</a>
 						</article>
 						<article class="archive-article rais">
 							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
-
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/servicio/optimizacionProducto2.png" width="620"
-										height="620" alt="Daniel" loading="lazy">
+									<i class="fas fa-thumbs-up fa-10x icon-hidden"></i>
+									<!-- Icono de Font Awesome relacionado con mejora de valor -->
 								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Ajustes para maximizar el valor.
-									</span>
-								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
-										Optimización de Producto
+										Mejora de Valor
 									</span>
 								</p>
-
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">
+										"Ajustes enfocados en rentabilidad máxima."
+									</span>
+								</p>
 							</a>
 						</article>
 						<article class="archive-article rais">
 							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
-
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../../asset/img/pages/servicio/comparativasSegmento.png" width="620"
-										height="620" alt="Daniel" loading="lazy">
+									<i class="fas fa-chart-bar fa-10x icon-hidden"></i>
+									<!-- Icono de Font Awesome relacionado con comparativas de mercado -->
 								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Análisis competitivo de mercado.
-									</span>
-								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
-										Comparativas de Segmento
+										Comparativas de Mercado
 									</span>
 								</p>
-
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">
+										"Analiza tu competencia y posición estratégica."
+									</span>
+								</p>
 							</a>
 						</article>
 

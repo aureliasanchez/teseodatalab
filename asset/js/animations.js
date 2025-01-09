@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
             
             if (entry.isIntersecting) {
                 checkAndAnimateChildren(entry.target);
-           }
+            }
         });
     }, {
         threshold: 0.3
@@ -38,12 +38,8 @@ document.addEventListener('DOMContentLoaded', function() {
                 resolve();
             };
 
-            if (element.classList.toString().includes('inview')) {
-                setTimeout(handleAnimationEnd, 2000);
-            } else {
-                element.addEventListener('animationend', handleAnimationEnd);
-                element.addEventListener('transitionend', handleAnimationEnd);
-            }
+            element.addEventListener('animationend', handleAnimationEnd);
+            element.addEventListener('transitionend', handleAnimationEnd);
         });
     }
 
@@ -73,8 +69,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Función principal para animar elementos
     async function checkAndAnimateChildren(container) {
-        // Manejamos tanto fontRed como button-action
-        const elements = container.querySelectorAll('.fontRed, .button-action');
+        const elements = container.querySelectorAll('.icon-hidden'); // Seleccionamos los iconos ocultos
         
         for (const element of elements) {
             // 1. Verificamos que el contenedor sea visible
@@ -85,7 +80,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
             // 3. Verificamos que el elemento esté en el viewport
             if (isElementVisible(element)) {
-                element.classList.add('animate');
+                element.classList.remove('icon-hidden'); // Removemos la clase que oculta el icono
+                element.classList.add('icon-visible'); // Agregamos la clase que muestra el icono
             }
         }
     }
@@ -103,14 +99,14 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     }
 
-    // Inicializamos para ambos tipos de elementos
-    document.querySelectorAll('.fontRed, .button-action').forEach(element => {
+    // Inicializamos para todos los iconos ocultos
+    document.querySelectorAll('.icon-hidden').forEach(element => {
         observeContainer(element);
     });
 
     // Verificamos periódicamente los elementos que aún no se han animado
     setInterval(() => {
-        document.querySelectorAll('.fontRed:not(.animate), .button-action:not(.animate)').forEach(element => {
+        document.querySelectorAll('.icon-hidden:not(.icon-visible)').forEach(element => {
             checkAndAnimateChildren(element.parentElement);
         });
     }, 500);
