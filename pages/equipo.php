@@ -17,19 +17,6 @@
 	<meta name="format-detection" content="telephone=no, email=no, address=no">
 	<meta name="skype_toolbar" content="skype_toolbar_parser_compatible">
 
-	<!-- Script -->
-	<script src="../asset/js/webfont.js" async></script>
-	<script src="../asset/js/splide.min.js" defer></script>
-	<script src="../asset/js/common71c5.js" defer></script>
-	<script src="../asset/js/member9d21.js" defer></script>
-	<script src="../asset/js/menuOpciones.js" defer></script>
-	<script type="application/ld+json"></script>
-	<noscript>
-		<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P9GDZFD" height="0" width="0"
-			style="display:none;visibility:hidden">
-		</iframe>
-	</noscript>
-
 	<!-- Link -->
 	<link href="../asset/css/splide-core.min.css" rel="stylesheet">
 	<link href="../asset/css/common1571.css" rel="stylesheet">
@@ -53,10 +40,10 @@
 			<div class="mod-lowerpage-haeder01 _pc-pd40 _sp-pd20" data-pararax01>
 				<h1 class="header-heading _heading01  __inview-text01" data-pararax01-text01="0">
 					<span class="heading-main _f-futura_m _futura-lh1 _futura-nm __inview-span01">
-						Miembros
-					</span>
-					<span class="heading-sub __inview-span01">
-						Personas que trabajan de TESEO DataLab
+						Personas que trabajan en
+						<span class="fontRedIntro2">
+							TESEO DataLab
+						</span>
 					</span>
 				</h1>
 			</div>
@@ -65,9 +52,6 @@
 				data-pararax01-text01=".4">
 
 				<span class="heading-main _f-futura_d _futura-lh1 _futura-nm __inview-span01">
-					Lista de miembros
-				</span>
-				<span class="heading-sub __inview-span01">
 					Nuestro equipo
 				</span>
 
@@ -164,12 +148,12 @@
 					<div class="archives_wrap">
 
 						<article class="archive-article senior">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/equipo/man.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
+									<img src="../asset/img/pages/equipo/man.png" width="620" height="620" alt="Daniel"
+										loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">
@@ -178,19 +162,19 @@
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
-										Daniel
+										Daniel Virgen
 									</span>
 								</p>
 
-							</a>
+							</div>
 						</article>
 						<article class="archive-article senior">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/equipo/man.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
+									<img src="../asset/img/pages/equipo/man.png" width="620" height="620" alt="Daniel"
+										loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">
@@ -199,19 +183,19 @@
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
-										Alex
+										Alejandro
 									</span>
 								</p>
 
-							</a>
+							</div>
 						</article>
 						<article class="archive-article senior">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/equipo/women.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
+									<img src="../asset/img/pages/equipo/women.png" width="620" height="620" alt="Daniel"
+										loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">
@@ -220,19 +204,19 @@
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
-										Dania
+										Dania Peñafiel
 									</span>
 								</p>
 
-							</a>
+							</div>
 						</article>
 						<article class="archive-article leader">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/equipo/women.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
+									<img src="../asset/img/pages/equipo/women.png" width="620" height="620" alt="Daniel"
+										loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">
@@ -241,19 +225,19 @@
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
-										Lizbeth
+										Lizbeth Ramos
 									</span>
 								</p>
 
-							</a>
+							</div>
 						</article>
 						<article class="archive-article associate">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/equipo/man.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
+									<img src="../asset/img/pages/equipo/man.png" width="620" height="620" alt="Daniel"
+										loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">
@@ -262,19 +246,19 @@
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
-										Luis Fernando
+										Luis Fernando Alvarado
 									</span>
 								</p>
 
-							</a>
+							</div>
 						</article>
 						<article class="archive-article associate">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/equipo/women.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
+									<img src="../asset/img/pages/equipo/women.png" width="620" height="620" alt="Daniel"
+										loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">
@@ -283,19 +267,19 @@
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
-										Aurelia
+										Aurelia Sánchez
 									</span>
 								</p>
 
-							</a>
+							</div>
 						</article>
 						<article class="archive-article associate">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/equipo/women.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
+									<img src="../asset/img/pages/equipo/women.png" width="620" height="620" alt="Daniel"
+										loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">
@@ -304,19 +288,19 @@
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
-										Yoali
+										Yoali Trejo
 									</span>
 								</p>
 
-							</a>
+							</div>
 						</article>
 						<article class="archive-article associate">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/equipo/women.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
+									<img src="../asset/img/pages/equipo/women.png" width="620" height="620" alt="Daniel"
+										loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">
@@ -325,19 +309,19 @@
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
-										Fernanda
+										Fernanda Monzalvo
 									</span>
 								</p>
 
-							</a>
+							</div>
 						</article>
 						<article class="archive-article associate">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/equipo/women.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
+									<img src="../asset/img/pages/equipo/women.png" width="620" height="620" alt="Daniel"
+										loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">
@@ -346,19 +330,19 @@
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
-										America
+										America Romero
 									</span>
 								</p>
 
-							</a>
+							</div>
 						</article>
 						<article class="archive-article associate">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/equipo/man.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
+									<img src="../asset/img/pages/equipo/man.png" width="620" height="620" alt="Daniel"
+										loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">
@@ -367,19 +351,19 @@
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
-										Uris
+										Uriel García
 									</span>
 								</p>
 
-							</a>
+							</div>
 						</article>
 						<article class="archive-article consultant">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/equipo/women.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
+									<img src="../asset/img/pages/equipo/women.png" width="620" height="620" alt="Daniel"
+										loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">
@@ -392,15 +376,15 @@
 									</span>
 								</p>
 
-							</a>
+							</div>
 						</article>
 						<article class="archive-article consultant">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/equipo/man.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
+									<img src="../asset/img/pages/equipo/man.png" width="620" height="620" alt="Daniel"
+										loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">
@@ -413,15 +397,15 @@
 									</span>
 								</p>
 
-							</a>
+							</div>
 						</article>
 						<article class="archive-article consultant">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/equipo/man.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
+									<img src="../asset/img/pages/equipo/man.png" width="620" height="620" alt="Daniel"
+										loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">
@@ -430,19 +414,19 @@
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
-										Carlos Fernando Ponce Ibarra
+										Carlos Ponce
 									</span>
 								</p>
 
-							</a>
+							</div>
 						</article>
 						<article class="archive-article consultant">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/equipo/women.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
+									<img src="../asset/img/pages/equipo/women.png" width="620" height="620" alt="Daniel"
+										loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">
@@ -451,19 +435,19 @@
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
-										María José Loyolo Ramírez
+										María Loyolo
 									</span>
 								</p>
 
-							</a>
+							</div>
 						</article>
 						<article class="archive-article consultant">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/equipo/man.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
+									<img src="../asset/img/pages/equipo/man.png" width="620" height="620" alt="Daniel"
+										loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">
@@ -476,15 +460,15 @@
 									</span>
 								</p>
 
-							</a>
+							</div>
 						</article>
 						<article class="archive-article intern">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/equipo/women.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
+									<img src="../asset/img/pages/equipo/women.png" width="620" height="620" alt="Daniel"
+										loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">
@@ -493,19 +477,19 @@
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
-										Miriam
+									Miriam Mendoza
 									</span>
 								</p>
 
-							</a>
+							</div>
 						</article>
 						<article class="archive-article intern">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/equipo/man.png" width="620" height="620"
-										alt="Daniel" loading="lazy">
+									<img src="../asset/img/pages/equipo/man.png" width="620" height="620" alt="Daniel"
+										loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">
@@ -514,11 +498,11 @@
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
-										Karol Rodolfo Ponce Ibarra
+										Karol Ponce
 									</span>
 								</p>
 
-							</a>
+							</div>
 						</article>
 
 					</div>
@@ -534,6 +518,19 @@
 
 		</section>
 	</main>
+
+	<!-- Script -->
+	<script src="../asset/js/webfont.js" async></script>
+	<script src="../asset/js/splide.min.js" defer></script>
+	<script src="../asset/js/common71c5.js" defer></script>
+	<script src="../asset/js/member9d21.js" defer></script>
+	<script src="../asset/js/menuOpciones.js" defer></script>
+	<script type="application/ld+json"></script>
+	<noscript>
+		<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P9GDZFD" height="0" width="0"
+			style="display:none;visibility:hidden">
+		</iframe>
+	</noscript>
 
 	<?php include '../asset/html/lateral.html'; ?>
 	<?php include '../asset/html/footer.html'; ?>

@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html lang="ja" class=" os-win not-safari not-chrome not-edge not-ie not-googlebot addPrintMessage">
+<html lang="es" class=" os-win not-safari not-chrome not-edge not-ie not-googlebot addPrintMessage">
 
 <head>
 	<!-- Meta -->
@@ -16,17 +16,6 @@
 	<meta name="viewport" content="width=device-width,viewport-fit=cover">
 	<meta name="format-detection" content="telephone=no, email=no, address=no">
 	<meta name="skype_toolbar" content="skype_toolbar_parser_compatible">
-
-	<!-- Script -->
-	<noscript>
-		<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P9GDZFD" height="0" width="0"
-			style="display:none;visibility:hidden">
-		</iframe>
-	</noscript>
-	<script src="../asset/js/webfont.js" async></script>
-	<script src="../asset/js/common71c5.js" defer></script>
-	<script src="../asset/js/form81d1.js" defer></script>
-	<script type="application/ld+json"></script>
 
 	<!-- Link -->
 	<link href="../asset/css/common1571.css" rel="stylesheet">
@@ -47,81 +36,13 @@
 	<main class="mod_main" role="main">
 		<section class="page_container -contact">
 
-			<div class="mod-lowerpage-haeder01">
-				<h1 class="header-heading _heading01  __inview-text01 _pc-pd40 _sp-pd20">
-					<span class="heading-main _f-futura_m _futura-lh1 __inview-span01">
-						Estamos aquí para potenciar tu negocio
-					</span>
-				</h1>
-			</div>
-
 			<div class="contact-contents _pc-w1160 _sp-pd20" data-pararax01 data-pararax01-opacity01=".4">
-
-				<div class="content-introduction _sp-pd15">
-					<h2 class="introduction-heading">
-						Contactanos a trabes de nuestras redes sociales, teléfono o por correo electronico.
-					</h2>
-					<div class="introduction-tel_block">
-						<p class="tel">
-							<a href="https://wa.me/527713306407" target="_blank" data-tel="771-330-6407"
-								class="_button01 fontRed linkPurple">
-								<span data-sc-sp>
-									771-330-6407
-								</span>
-								<i class="_arrow-right01" data-sc-sp></i>
-							</a>
-						</p>
-						<br>
-						<p class="cor">
-							<a href="https://mail.google.com/mail/?view=cm&fs=1&to=contacto@teseodata.com"
-								target="_blank" data-tel="contacto@teseodata.com" class="_button01 fontRed linkPurple">
-								<span data-sc-sp>
-									contacto@teseodata.com
-								</span>
-								<i class="_arrow-right01" data-sc-sp></i>
-							</a>
-						</p>
-						<p class="tel-annotation">
-							［Horario de atencion］
-							<br>
-							Lunes a Viernes - 09:00-18:00 CST
-							<br>
-							Sábado - 09:00-14:00 CST
-						</p>
-					</div>
-				</div>
-
-				<div class="content-introduction _sp-pd15">
-					<h2 class="introduction-heading">
-						Redes Sociales
-					</h2>
-				</div>
-
-				<!-- Logos de redes sociales -->
-				<div class="social-icons">
-					<a href="https://www.facebook.com/teseodata" target="_blank" class="social-icon-black">
-						<i class="fab fa-facebook-f"></i>
-					</a>
-					<a href="https://www.instagram.com/teseo_data/" target="_blank" class="social-icon-black">
-						<i class="fab fa-instagram"></i>
-					</a>
-					<a href="https://www.tiktok.com/@teseodata" target="_blank" class="social-icon-black">
-						<i class="fab fa-tiktok"></i>
-					</a>
-					<a href="https://www.linkedin.com/company/teseo-data-center/" target="_blank"
-						class="social-icon-black">
-						<i class="fab fa-linkedin-in"></i>
-					</a>
-				</div>
 
 				<div class="content-form_wrap _sp-pd15">
 
 					<h3 class="form-heading">
 						Formulario
 					</h3>
-					<p class="form-description">
-						Comunicate con nosotros a travbes del siguiente Formulario
-					</p>
 
 					<form id="Form" autocomplete="on" enctype="text/plain" name="form" method="post"
 						action="./procesar.php" class="formArea _pc-w980">
@@ -129,7 +50,7 @@
 						<div class="formlistWrap _pc-w980">
 
 							<dl class="formlist -name" data-form-hissu data-form-unique="text_firstname_autokana">
-								<dt class="formlistTit">
+								<dt class="formlistTit radiusTopIzquierdo radiusTopDerecho">
 									<span>
 										Nombre Completo
 									</span>
@@ -140,12 +61,12 @@
 											N
 										</span>
 										<div class="inputBlock">
-											<div class="itemWrap textWrap text_firstname_autokana"><input
-													autocorrect="off" autocapitalize="off" type="text"
+											<div class="itemWrap textWrap text_firstname_autokana">
+												<input autocorrect="off" autocapitalize="off" type="text"
 													name="text_firstname_autokana" id="text_firstname_autokana" value=""
 													data-needinput="text_firstname_autokana" data-needinput-type="text"
 													placeholder="Nombre" data-form-autokana="1"
-													autocomplete="family-name">
+													autocomplete="family-name" class="borderRadiusForm">
 											</div>
 										</div>
 									</div>
@@ -154,11 +75,13 @@
 											A
 										</span>
 										<div class="inputBlock">
-											<div class="itemWrap textWrap text_name_autokana"><input autocorrect="off"
-													autocapitalize="off" type="text" name="text_name_autokana"
-													id="text_name_autokana" value="" data-needinput="text_name_autokana"
-													data-needinput-type="text" placeholder="Apellidos"
-													data-form-autokana="2" autocomplete="given-name"></div>
+											<div class="itemWrap textWrap text_name_autokana">
+												<input autocorrect="off" autocapitalize="off" type="text"
+													name="text_name_autokana" id="text_name_autokana" value=""
+													data-needinput="text_name_autokana" data-needinput-type="text"
+													placeholder="Apellidos" data-form-autokana="2"
+													autocomplete="given-name" class="borderRadiusForm">
+											</div>
 										</div>
 									</div>
 								</dd>
@@ -166,7 +89,7 @@
 							<dl class="formlist -mail" data-form-hissu data-form-unique="text_mail">
 								<dt class="formlistTit">
 									<span>
-										Correo Electronico
+										Correo Electrónico
 									</span>
 								</dt>
 								<dd class="formlistContent">
@@ -176,7 +99,7 @@
 												value="" size="40" autocomplete="email"
 												pattern="^[A-Za-z0-9]{1}[A-Za-z0-9_.-]*@{1}[A-Za-z0-9_.-]{1,}\.[A-Za-z0-9]{1,}$"
 												data-needinput="text_mail" data-needinput-type="email"
-												placeholder="Correo">
+												placeholder="Correo" class="borderRadiusForm">
 										</div>
 									</div>
 								</dd>
@@ -184,7 +107,7 @@
 							<dl class="formlist -mail" data-form-hissu data-form-unique="ciudad">
 								<dt class="formlistTit">
 									<span>
-										Ciudad de residencia
+										Ciudad de Residencia
 									</span>
 								</dt>
 								<dd class="formlistContent">
@@ -192,7 +115,8 @@
 										<div class="itemWrap emailWrap text_mail">
 											<input autocorrect="off" autocapitalize="off" type="text" name="ciudad"
 												id="ciudad" value="" size="40" autocomplete="address-level2"
-												pattern="[A-Za-zÀ-ÿ ]+" data-needinput="ciudad" placeholder="Ciudad">
+												pattern="[A-Za-zÀ-ÿ ]+" data-needinput="ciudad" placeholder="Ciudad"
+												class="borderRadiusForm">
 										</div>
 									</div>
 								</dd>
@@ -209,7 +133,7 @@
 											<input autocorrect="off" autocapitalize="off" type="text" name="industria"
 												id="industria" value="" size="40" autocomplete="off"
 												pattern="[A-Za-zÀ-ÿ ]+" data-needinput="industria"
-												placeholder="Industria">
+												placeholder="Industria" class="borderRadiusForm">
 										</div>
 									</div>
 								</dd>
@@ -217,7 +141,7 @@
 							<dl class="formlist -mail" data-form-hissu data-form-unique="tel">
 								<dt class="formlistTit">
 									<span>
-										Telefonó
+										Teléfono
 									</span>
 								</dt>
 								<dd class="formlistContent">
@@ -225,21 +149,22 @@
 										<div class="itemWrap emailWrap text_mail"><input autocorrect="off"
 												autocapitalize="off" type="tel" name="tel" id="tel" value="" size="40"
 												autocomplete="off" pattern="\+?[0-9]{10,15}" data-needinput="tel"
-												data-needinput-type="tel" placeholder="Número telefonico">
+												data-needinput-type="tel" placeholder="Número telefónico"
+												class="borderRadiusForm">
 										</div>
 									</div>
 								</dd>
 							</dl>
 							<dl class="formlist -inquiry" data-form-unique="contacto">
-								<dt class="formlistTit">
+								<dt class="formlistTit radiusBottomIzquierdo radiusBottomDerecho">
 									<span>
-										Motivo del contacto
+										Motivo del Contacto
 									</span>
 								</dt>
 								<dd class="formlistContent">
 									<div class="inputBlock">
 										<div class="itemWrap textareaWrap textarea_inquiry"><textarea name="contacto"
-												id="contacto"></textarea></div>
+												id="contacto" class="borderRadiusForm"></textarea></div>
 									</div>
 								</dd>
 							</dl>
@@ -247,16 +172,15 @@
 						</div>
 						<p class="form-privacylink">
 							<a href="./politicas.php" target="_blank">
-								Terminos de privacidad
+								Términos de Privacidad
 							</a>
 						</p>
 						<div class="formbtnarea">
-							<button class="formbtn ConfirmBtn _button01" id="ConfirmBtn" type="submit">
+							<button class="formbtn ConfirmBtn _button01 borderRadius" id="ConfirmBtn" type="submit">
 								<span>
 									Enviar
 								</span>
-								<i class="_arrow-right01"></i></button>
-							<input type="hidden" name="mode" value="confirm">
+								<input type="hidden" name="mode" value="confirm">
 						</div>
 
 					</form>
@@ -267,6 +191,17 @@
 
 		</section>
 	</main>
+
+	<!-- Script -->
+	<noscript>
+		<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P9GDZFD" height="0" width="0"
+			style="display:none;visibility:hidden">
+		</iframe>
+	</noscript>
+	<script src="../asset/js/webfont.js" async></script>
+	<script src="../asset/js/common71c5.js" defer></script>
+	<script src="../asset/js/form81d1.js" defer></script>
+	<script type="application/ld+json"></script>
 
 	<?php include '../asset/html/lateral.html'; ?>
 	<?php include '../asset/html/footer.html'; ?>

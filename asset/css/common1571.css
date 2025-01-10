@@ -232,7 +232,7 @@ textarea {
     font-family: inherit !important;
     appearance: none;
     background: 0 0;
-    border: none;
+    /* border: none; */
     outline: 0;
     margin: 0;
     padding: 0

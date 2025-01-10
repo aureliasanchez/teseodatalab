@@ -1,12 +1,14 @@
 /* Estilos para el carrusel de imágenes */
 #image-carousel-wrapper {
     width: 100%;
-    padding: 0 40px; /* Espacio para las flechas */
+    padding: 0 40px;
+    /* Espacio para las flechas */
     box-sizing: border-box;
 }
 
 #image-carousel {
-    max-width: 100%; /* Usamos todo el ancho disponible */
+    max-width: 100%;
+    /* Usamos todo el ancho disponible */
     margin: 0 auto;
 }
 
@@ -23,7 +25,8 @@
 /* Ajustamos las imágenes */
 #image-carousel .splide__slide img {
     display: block;
-    max-width: 90%; /* Reducimos ligeramente para dar espacio entre imágenes */
+    max-width: 90%;
+    /* Reducimos ligeramente para dar espacio entre imágenes */
     height: auto;
     object-fit: contain;
     transition: transform 0.5s ease;
@@ -123,6 +126,111 @@
 
 /* Removemos los estilos que pueden causar problemas */
 .splide__track {
-    overflow: hidden; /* Volvemos al comportamiento normal */
+    overflow: hidden;
+    /* Volvemos al comportamiento normal */
     margin: 0;
+}
+
+#text-carousel1-wrapper,
+#text-carousel2-wrapper {
+    width: 100%;
+    padding: 20px 40px; /* Espacio para las flechas */
+    box-sizing: border-box;
+    margin-bottom: 40px; /* Espacio inferior para separar del contenido siguiente */
+}
+
+#text-carousel1,
+#text-carousel2 {
+    max-width: 100%; /* Usamos todo el ancho disponible */
+    margin: 0 auto;
+}
+
+/* Ajustamos los slides */
+#text-carousel1 .splide__slide,
+#text-carousel2 .splide__slide {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    border: #000 solid 2px;
+}
+
+/* Estilos para los textos */
+#text-carousel1 .subtitle,
+#text-carousel2 .subtitle {
+    font-size: .8rem; /* Ajusta el tamaño del subtítulo */
+    color: #eb32ff;
+    margin-bottom: 10px;
+}
+
+#text-carousel1 .text,
+#text-carousel2 .text {
+    font-size: .5rem; /* Ajusta el tamaño del texto */
+    color: #000000;
+    line-height: 1.5;
+}
+
+/* Media queries para ajustar el tamaño del texto en diferentes tamaños de pantalla */
+@media screen and (max-width: 1200px) {
+    #text-carousel1 .subtitle,
+    #text-carousel2 .subtitle {
+        font-size: .9rem;
+    }
+
+    #text-carousel1 .text,
+    #text-carousel2 .text {
+        font-size: .6rem;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    #text-carousel1 .subtitle,
+    #text-carousel2 .subtitle {
+        font-size: .8rem;
+    }
+
+    #text-carousel1 .text,
+    #text-carousel2 .text {
+        font-size: .5rem;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    #text-carousel1 .subtitle,
+    #text-carousel2 .subtitle {
+        font-size: .3rem;
+    }
+
+    #text-carousel1 .text,
+    #text-carousel2 .text {
+        font-size: .2rem;
+    }
+}
+
+/* Personalizar los controles del carrusel */
+.splide__arrow {
+    display: none !important; /* Ocultar las flechas */
+}
+
+.splide__pagination__page.is-active {
+    background-color: #644db5 !important;
+}
+
+.splide__pagination__page {
+    border-color: #644db5 !important;
+}
+
+.splide__list {
+    border-radius: 10px;
+    background-color: #f9f9f9;
+}
+
+.splide__pagination {
+    margin-top: 2%;
 }

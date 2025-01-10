@@ -13,3 +13,21 @@ document.addEventListener('DOMContentLoaded', function () {
         },
     }).mount();
 });
+
+document.addEventListener('DOMContentLoaded', function () {
+    new Splide('#text-carousel1',  {
+        type   : 'loop',
+        perPage: 1,
+        autoplay: true,
+        interval: 5000,
+    }).mount();
+});
+
+document.addEventListener('DOMContentLoaded', function () {
+    new Splide('#text-carousel2',  {
+        type   : 'loop',
+        perPage: 1,
+        autoplay: true,
+        interval: 5000,
+    }).mount();
+});

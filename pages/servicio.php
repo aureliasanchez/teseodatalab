@@ -17,20 +17,6 @@
 	<meta name="format-detection" content="telephone=no, email=no, address=no">
 	<meta name="skype_toolbar" content="skype_toolbar_parser_compatible">
 
-	<!-- Script -->
-	<script src="../asset/js/webfont.js" async></script>
-	<script src="../asset/js/splide.min.js" defer></script>
-	<script src="../asset/js/common71c5.js" defer></script>
-	<script src="../asset/js/member9d21.js" defer></script>
-	<script src="../asset/js/menuOpciones.js" defer></script>
-	<script src="../asset/js/animations.js" defer></script>
-	<script type="application/ld+json"></script>
-	<noscript>
-		<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P9GDZFD" height="0" width="0"
-			style="display:none;visibility:hidden">
-		</iframe>
-	</noscript>
-
 	<!-- Link -->
 	<link href="../asset/css/splide-core.min.css" rel="stylesheet">
 	<link href="../asset/css/common1571.css" rel="stylesheet">
@@ -54,7 +40,9 @@
 			<div class="mod-lowerpage-haeder01 _pc-pd40 _sp-pd20" data-pararax01>
 				<h1 class="header-heading _heading01  __inview-text01" data-pararax01-text01="0">
 					<span class="heading-main _f-futura_m _futura-lh1 _futura-nm __inview-span01">
-						Convierte datos en oportunidades estratégicas
+						Convierte datos en
+						<span class="fontRedIntro2">oportunidades</span>
+						estratégicas
 					</span>
 				</h1>
 			</div>
@@ -63,9 +51,6 @@
 				data-pararax01-text01=".4">
 
 				<span class="heading-main _f-futura_d _futura-lh1 _futura-nm __inview-span01">
-					Lista de servicios
-				</span>
-				<span class="heading-sub __inview-span01">
 					Nuestros Servicios
 				</span>
 
@@ -180,11 +165,10 @@
 					<div class="archives_wrap">
 
 						<article class="archive-article analisis">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<i class="fas fa-check-circle fa-10x icon-hidden"></i>
-									<!-- Icono de Font Awesome -->
+									<i class="fas fa-database fa-10x icon-hidden"></i>
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">Viabilidad de Proyectos</span>
@@ -192,13 +176,13 @@
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">"Analizamos su factibilidad y potencial de éxito."</span>
 								</p>
-							</a>
+							</div>
 						</article>
 						<article class="archive-article analisis">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<i class="fas fa-dollar-sign fa-10x icon-hidden"></i> <!-- Icono de Font Awesome -->
+									<i class="fas fa-money-bill fa-10x icon-hidden"></i> <!-- Icono de Font Awesome -->
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">Análisis Financiero</span>
@@ -207,10 +191,10 @@
 									<span class="_link-span03">"Decisiones de inversión basadas en análisis
 										detallados."</span>
 								</p>
-							</a>
+							</div>
 						</article>
 						<article class="archive-article analisis">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
 									<i class="fas fa-users fa-10x icon-hidden"></i> <!-- Icono de Font Awesome -->
@@ -222,10 +206,10 @@
 									<span class="_link-span03">"Identifica clientes clave y oportunidades
 										estratégicas."</span>
 								</p>
-							</a>
+							</div>
 						</article>
 						<article class="archive-article analisis">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
 									<i class="fas fa-chart-pie fa-10x icon-hidden"></i> <!-- Icono de Font Awesome -->
@@ -237,10 +221,10 @@
 									<span class="_link-span03">"Tendencias, competencia y comportamiento del
 										consumidor."</span>
 								</p>
-							</a>
+							</div>
 						</article>
 						<article class="archive-article consultar">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
 									<i class="fas fa-cogs fa-10x icon-hidden"></i> <!-- Icono de Font Awesome -->
@@ -252,10 +236,10 @@
 									<span class="_link-span03">"Crea soluciones adaptadas a las demandas del
 										mercado."</span>
 								</p>
-							</a>
+							</div>
 						</article>
 						<article class="archive-article consultar">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
 									<i class="fas fa-arrow-up fa-10x icon-hidden"></i> <!-- Icono de Font Awesome -->
@@ -267,13 +251,14 @@
 									<span class="_link-span03">"Planeamos tu crecimiento territorial o
 										sectorial."</span>
 								</p>
-							</a>
+							</div>
 						</article>
 						<article class="archive-article consultar">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<i class="fas fa-map-marker-alt fa-10x icon-hidden"></i> <!-- Icono de Font Awesome -->
+									<i class="fas fa-map-marker-alt fa-10x icon-hidden"></i>
+									<!-- Icono de Font Awesome -->
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">Ubicaciones Estratégicas</span>
@@ -281,10 +266,10 @@
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">"Estudios para elegir los mejores sitios."</span>
 								</p>
-							</a>
+							</div>
 						</article>
 						<article class="archive-article consultar">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
 									<i class="fas fa-tools fa-10x icon-hidden"></i> <!-- Icono de Font Awesome -->
@@ -295,10 +280,10 @@
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">"Maximiza su valor y rentabilidad."</span>
 								</p>
-							</a>
+							</div>
 						</article>
 						<article class="archive-article marketing">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
 									<i class="fas fa-desktop fa-10x icon-hidden"></i> <!-- Icono de Font Awesome -->
@@ -310,10 +295,10 @@
 									<span class="_link-span03">"Diseñamos estrategias completas para el entorno
 										digital."</span>
 								</p>
-							</a>
+							</div>
 						</article>
 						<article class="archive-article marketing">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
 									<i class="fas fa-share-alt fa-10x icon-hidden"></i> <!-- Icono de Font Awesome -->
@@ -325,10 +310,10 @@
 									<span class="_link-span03">"Contenido atractivo y administración
 										profesional."</span>
 								</p>
-							</a>
+							</div>
 						</article>
 						<article class="archive-article marketing">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
 									<i class="fas fa-search fa-10x icon-hidden"></i> <!-- Icono de Font Awesome -->
@@ -339,10 +324,10 @@
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">"Optimiza búsquedas y campañas publicitarias."</span>
 								</p>
-							</a>
+							</div>
 						</article>
 						<article class="archive-article marketing">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
 									<i class="fas fa-envelope fa-10x icon-hidden"></i> <!-- Icono de Font Awesome -->
@@ -353,10 +338,10 @@
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">"Campañas personalizadas y efectivas."</span>
 								</p>
-							</a>
+							</div>
 						</article>
 						<article class="archive-article masificasion">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
 									<i class="fas fa-database fa-10x icon-hidden"></i> <!-- Icono de Font Awesome -->
@@ -367,10 +352,10 @@
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">"Crea listas segmentadas y verificadas."</span>
 								</p>
-							</a>
+							</div>
 						</article>
 						<article class="archive-article masificasion">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
 									<i class="fas fa-comments fa-10x icon-hidden"></i> <!-- Icono de Font Awesome -->
@@ -381,13 +366,14 @@
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">"Automatización y seguimiento masivo efectivo."</span>
 								</p>
-							</a>
+							</div>
 						</article>
 						<article class="archive-article masificasion">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<i class="fas fa-exchange-alt fa-10x icon-hidden"></i> <!-- Icono de Font Awesome -->
+									<i class="fas fa-exchange-alt fa-10x icon-hidden"></i>
+									<!-- Icono de Font Awesome -->
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">Pruebas A/B</span>
@@ -396,10 +382,10 @@
 									<span class="_link-span03">"Evalúa la efectividad de estrategias y
 										productos."</span>
 								</p>
-							</a>
+							</div>
 						</article>
 						<article class="archive-article software">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
@@ -416,10 +402,10 @@
 									</span>
 								</p>
 
-							</a>
+							</div>
 						</article>
 						<article class="archive-article software">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
@@ -436,10 +422,10 @@
 									</span>
 								</p>
 
-							</a>
+							</div>
 						</article>
 						<article class="archive-article software">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
@@ -456,10 +442,10 @@
 									</span>
 								</p>
 
-							</a>
+							</div>
 						</article>
 						<article class="archive-article restaurante">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
@@ -476,10 +462,10 @@
 									</span>
 								</p>
 
-							</a>
+							</div>
 						</article>
 						<article class="archive-article restaurante">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
@@ -496,14 +482,14 @@
 									</span>
 								</p>
 
-							</a>
+							</div>
 						</article>
 						<article class="archive-article restaurante">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<i class="fas fa-tags fa-10x icon-hidden"></i>
+									<i class="fas fa-gift fa-10x icon-hidden"></i>
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
@@ -516,10 +502,10 @@
 									</span>
 								</p>
 
-							</a>
+							</div>
 						</article>
 						<article class="archive-article restaurante">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
@@ -536,10 +522,10 @@
 									</span>
 								</p>
 
-							</a>
+							</div>
 						</article>
 						<article class="archive-article restaurante">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
@@ -556,10 +542,10 @@
 									</span>
 								</p>
 
-							</a>
+							</div>
 						</article>
 						<article class="archive-article rais">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
@@ -576,10 +562,10 @@
 									</span>
 								</p>
 
-							</a>
+							</div>
 						</article>
 						<article class="archive-article rais">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
@@ -596,10 +582,10 @@
 									</span>
 								</p>
 
-							</a>
+							</div>
 						</article>
 						<article class="archive-article rais">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
@@ -616,13 +602,13 @@
 									</span>
 								</p>
 
-							</a>
+							</div>
 						</article>
 						<article class="archive-article rais">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<i class="fas fa-chart-line fa-10x icon-hidden"></i>
+									<i class="fas fa-line-chart fa-10x icon-hidden"></i>
 									<!-- Icono de Font Awesome relacionado con precios dinámicos -->
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
@@ -635,10 +621,10 @@
 										"Optimiza ingresos con estrategias flexibles."
 									</span>
 								</p>
-							</a>
+							</div>
 						</article>
 						<article class="archive-article rais">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
 									<i class="fas fa-thumbs-up fa-10x icon-hidden"></i>
@@ -654,26 +640,26 @@
 										"Ajustes enfocados en rentabilidad máxima."
 									</span>
 								</p>
-							</a>
+							</div>
 						</article>
 						<article class="archive-article rais">
-							<a href="javascript:void(0);" class="_link-block01" data-pararax01>
+							<div data-pararax01>
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<i class="fas fa-chart-bar fa-10x icon-hidden"></i>
-									<!-- Icono de Font Awesome relacionado con comparativas de mercado -->
+									<i class="fas fa-balance-scale fa-10x icon-hidden"></i>
+									<!-- Icono de Font Awesome relacionado con evaluación de inversiones -->
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
-										Comparativas de Mercado
+										Evaluación de Inversiones
 									</span>
 								</p>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">
-										"Analiza tu competencia y posición estratégica."
+										"Analiza riesgos y oportunidades financieras."
 									</span>
 								</p>
-							</a>
+							</div>
 						</article>
 
 					</div>
@@ -689,6 +675,20 @@
 
 		</section>
 	</main>
+
+	<!-- Script -->
+	<script src="../asset/js/webfont.js" async></script>
+	<script src="../asset/js/splide.min.js" defer></script>
+	<script src="../asset/js/common71c5.js" defer></script>
+	<script src="../asset/js/member9d21.js" defer></script>
+	<script src="../asset/js/menuOpciones.js" defer></script>
+	<script src="../asset/js/animations.js" defer></script>
+	<script type="application/ld+json"></script>
+	<noscript>
+		<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P9GDZFD" height="0" width="0"
+			style="display:none;visibility:hidden">
+		</iframe>
+	</noscript>
 
 	<?php include '../asset/html/lateral.html'; ?>
 	<?php include '../asset/html/footer.html'; ?>

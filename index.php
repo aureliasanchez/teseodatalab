@@ -17,20 +17,6 @@
 	<meta name="format-detection" content="telephone=no, email=no, address=no">
 	<meta name="skype_toolbar" content="skype_toolbar_parser_compatible">
 
-	<!-- Script -->
-	<script src="./asset/js/webfont.js" async></script>
-	<script src="./asset/js/common71c5.js" defer></script>
-	<script src="./asset/js/indexccb0.js" defer></script>
-	<script src="./asset/js/carucel.js" defer></script>
-	<script src="./asset/js/animations.js" defer></script>
-	<script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@3.6.9/dist/js/splide.min.js"></script>
-	<script type="application/ld+json"></script>
-	<noscript>
-		<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P9GDZFD" height="0" width="0"
-			style="display:none;visibility:hidden">
-		</iframe>
-	</noscript>
-
 	<!-- Link -->
 	<link href="./asset/css/common1571.css" rel="stylesheet">
 	<link href="./asset/css/index83e0.css" rel="stylesheet">
@@ -86,7 +72,8 @@
 									ayudándote a liderar tu industria con inteligencia artificial y análisis predictivo.
 								</span>
 							</span>
-							<button class="__inview-span01 fontPurpleIntroLink linkPurple padingButton" onclick="window.location.href='./pages/servicio.php'">
+							<button class="__inview-span01 fontPurpleIntroLink linkPurple padingButton"
+								onclick="window.location.href='./pages/servicio.php'">
 								Explora nuestras soluciones
 							</button>
 						</p>
@@ -136,9 +123,8 @@
 									</span>
 								</p>
 							</div>
-							<button onclick="window.location.href='./pages/portafolio/portafolio.php'" 
-									class="text-category _link-text01 button-action" 
-									data-pararax01-text01="1.0">
+							<button onclick="window.location.href='./pages/portafolio/portafolio.php'"
+								class="text-category _link-text01 button-action" data-pararax01-text01="1.0">
 								<span class="_link-span02">
 									Conoce cómo trabajamos
 								</span>
@@ -203,6 +189,20 @@
 		</div>
 
 	</main>
+
+	<!-- Script -->
+	<script src="./asset/js/webfont.js" async></script>
+	<script src="./asset/js/common71c5.js" defer></script>
+	<script src="./asset/js/indexccb0.js" defer></script>
+	<script src="./asset/js/carucel.js" defer></script>
+	<script src="./asset/js/animations.js" defer></script>
+	<script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@3.6.9/dist/js/splide.min.js"></script>
+	<script type="application/ld+json"></script>
+	<noscript>
+		<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P9GDZFD" height="0" width="0"
+			style="display:none;visibility:hidden">
+		</iframe>
+	</noscript>
 
 	<?php include './asset/html/lateral.html'; ?>
 	<?php include './asset/html/footer.html'; ?>

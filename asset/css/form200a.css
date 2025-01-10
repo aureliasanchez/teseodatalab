@@ -83,32 +83,34 @@ textarea {
 .telWrap input,
 .textWrap input {
     padding: .5em 1em;
-    color: #656563;
+    color: #000000;
     background-color: #fff;
     box-sizing: border-box;
     border-radius: 0;
     transition: .2s;
     width: 100%;
-    font-size: .16rem
+    font-size: .16rem;
 }
 
 .emailWrap input:focus,
 .telWrap input:focus,
 .textWrap input:focus {
     background-color: #fff;
+    font-weight: 700;
     box-shadow: 0 0 6px rgba(0, 0, 0, .4)
 }
 
 .emailWrap input:-ms-input-placeholder,
 .telWrap input:-ms-input-placeholder,
 .textWrap input:-ms-input-placeholder {
+    font-weight: 700;
     color: #ccc
 }
 
 .emailWrap input::placeholder,
 .telWrap input::placeholder,
 .textWrap input::placeholder {
-    color: #ccc
+    color: #000000
 }
 
 .emailWrap input[disabled],
@@ -123,6 +125,7 @@ textarea {
 .no-touchevents .emailWrap input:hover,
 .no-touchevents .telWrap input:hover,
 .no-touchevents .textWrap input:hover {
+    font-weight: 700;
     box-shadow: 0 0 6px rgba(0, 0, 0, .4)
 }
 
@@ -610,11 +613,12 @@ textarea {
 }
 
 .formlist .formlistTit {
+    font-weight: 600;
     display: flex;
     align-items: center;
     justify-content: center;
     height: auto;
-    background-color: #644db5;
+    background-color: #161515;
     color: #fff
 }
 
@@ -756,7 +760,7 @@ textarea {
 }
 
 .formbtnarea ._button01 {
-    width: 3.6rem
+    width: 2.6rem
 }
 
 .formbtnarea ._button01 i,

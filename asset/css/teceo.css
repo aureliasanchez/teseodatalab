@@ -28,6 +28,13 @@
     animation-delay: 3.5s;
 }
 
+.fontRedIntro2 {
+    color: #eb32ff !important;
+    opacity: 0;
+    animation: fadeIn 2s ease forwards;
+    animation-delay: 1s;
+}
+
 .fontRed {
     color: #eb32ff !important;
     opacity: 0;
@@ -130,6 +137,10 @@
 
 .borderRadius {
     border-radius: 20px !important;
+}
+
+.borderRadiusForm {
+    border-radius: 10px !important;
 }
 
 @media (max-width: 768px) {
@@ -256,26 +267,138 @@
     align-items: center;
     height: 100%;
     max-width: 100%;
+    text-align: center;
 }
 
 .article-img i {
     color: #000;
     transition: transform 0.3s ease;
-    /* font-size: 10vw; */
     max-width: 100%;
     height: auto;
+    font-size: 8vw;
+    /* Tamaño responsivo basado en el ancho del viewport */
+    margin: 0 auto;
+    /* Tamaño responsivo basado en el ancho del viewport */
 }
 
-.article-img i:hover {
+@media screen and (max-width: 768px) {
+    .article-img i {
+        font-size: 10vw;
+        /* Ajusta el tamaño para pantallas más pequeñas */
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .article-img i {
+        font-size: 12vw;
+        /* Ajusta el tamaño para pantallas aún más pequeñas */
+    }
+}
+
+.article-img i:hover,
+.article-img img:hover {
     transform: scale(1.1);
 }
 
 /* Nueva clase para ocultar los iconos inicialmente */
 .icon-hidden {
-    opacity: 0; /* Oculta el icono */
-    transition: opacity 0.5s ease; /* Transición suave para la aparición */
+    opacity: 0;
+    /* Oculta el icono */
+    transition: opacity 0.5s ease;
+    /* Transición suave para la aparición */
 }
 
 .icon-visible {
-    opacity: 1; /* Muestra el icono */
+    opacity: 1;
+    /* Muestra el icono */
+}
+
+@media screen and (min-width: 750px) {
+    .radiusTopIzquierdo {
+        border-top-left-radius: 10px;
+    }
+
+    .radiusBottomIzquierdo {
+        border-bottom-left-radius: 10px;
+    }
+
+    .radiusTopDerecho {
+        border-top-right-radius: 10px;
+    }
+
+    .radiusBottomDerecho {
+        border-bottom-right-radius: 10px;
+    }
+}
+
+.mission-vision-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 20px;
+    gap: 20px;
+}
+
+.mission,
+.vision {
+    flex: 1;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    border: #000 solid 2px;
+}
+
+.subtitle {
+    color: #eb32ff;
+    font-size: 1rem;
+    /* Tamaño más grande para los subtítulos */
+    margin-bottom: 10px;
+}
+
+.text {
+    color: #000000;
+    font-size: .3rem;
+    /* Tamaño del texto adaptado al estilo de la página */
+    line-height: 1.5;
+}
+
+@media screen and (max-width: 768px) {
+    .mission-vision-container {
+        flex-direction: column !important;
+        align-items: center;
+    }
+
+    .mission,
+    .vision {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .subtitle {
+        font-size: .8rem;
+        /* Ajusta el tamaño del subtítulo para pantallas más pequeñas */
+    }
+
+    .text {
+        font-size: .5rem;
+        /* Ajusta el tamaño del texto para pantallas más pequeñas */
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .subtitle {
+        font-size: .3rem;
+        /* Ajusta el tamaño del subtítulo para pantallas aún más pequeñas */
+    }
+
+    .text {
+        font-size: .2rem;
+        /* Ajusta el tamaño del texto para pantallas aún más pequeñas */
+    }
+
+}
+
+.boldText {
+    font-weight: bold !important;
 }

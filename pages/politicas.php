@@ -16,16 +16,6 @@
     <meta name="format-detection" content="telephone=no, email=no, address=no">
     <meta name="skype_toolbar" content="skype_toolbar_parser_compatible">
 
-	<!-- Script -->
-	<script src="../asset/js/webfont.js" async></script>
-	<script src="../asset/js/common71c5.js" defer></script>
-	<script type="application/ld+json"></script>
-	<noscript>
-		<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P9GDZFD" height="0" width="0"
-			style="display:none;visibility:hidden">
-		</iframe>
-	</noscript>
-
 	<!-- Link -->
 	<link href="../asset/css/common1571.css" rel="stylesheet">
 	<link href="../asset/css/aboutd62f.css" rel="stylesheet">
@@ -398,6 +388,16 @@
 
 		</section>
 	</main>
+
+	<!-- Script -->
+	<script src="../asset/js/webfont.js" async></script>
+	<script src="../asset/js/common71c5.js" defer></script>
+	<script type="application/ld+json"></script>
+	<noscript>
+		<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P9GDZFD" height="0" width="0"
+			style="display:none;visibility:hidden">
+		</iframe>
+	</noscript>
 
 	<?php include '../asset/html/lateral.html'; ?>
 	<?php include '../asset/html/footer.html'; ?>
