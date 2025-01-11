@@ -68,7 +68,7 @@
 
 						</div>
 						<div class="single-contents_inner _pc-w780 _sp-pd20">
-							<section class="single-contents-item" data-pararax01 data-pararax01-opacity01="0">
+							<section class="single-contents-item borderRadius borderColor" data-pararax01 data-pararax01-opacity01="0">
 
 								<p class="tag _f-futura_d">
 									Producto
@@ -119,7 +119,7 @@
 
 						</div>
 						<div class="single-contents_inner _pc-w780 _sp-pd20">
-							<section class="single-contents-item" data-pararax01 data-pararax01-opacity01="0">
+							<section class="single-contents-item borderRadius borderColor" data-pararax01 data-pararax01-opacity01="0">
 
 								<p class="tag _f-futura_d">
 									Producto
@@ -176,7 +176,7 @@
 
 						</div>
 						<div class="single-contents_inner _pc-w780 _sp-pd20">
-							<section class="single-contents-item" data-pararax01 data-pararax01-opacity01="0">
+							<section class="single-contents-item borderRadius borderColor" data-pararax01 data-pararax01-opacity01="0">
 
 								<p class="tag _f-futura_d">
 									Producto
@@ -237,7 +237,7 @@
 
 						</div>
 						<div class="single-contents_inner _pc-w780 _sp-pd20">
-							<section class="single-contents-item" data-pararax01 data-pararax01-opacity01="0">
+							<section class="single-contents-item borderRadius borderColor" data-pararax01 data-pararax01-opacity01="0">
 
 								<p class="tag _f-futura_d">
 									Producto
@@ -298,7 +298,7 @@
 
 						</div>
 						<div class="single-contents_inner _pc-w780 _sp-pd20">
-							<section class="single-contents-item" data-pararax01 data-pararax01-opacity01="0">
+							<section class="single-contents-item borderRadius borderColor" data-pararax01 data-pararax01-opacity01="0">
 
 								<p class="tag _f-futura_d">
 									Caso Éxito
@@ -350,7 +350,7 @@
 
 						</div>
 						<div class="single-contents_inner _pc-w780 _sp-pd20">
-							<section class="single-contents-item" data-pararax01 data-pararax01-opacity01="0">
+							<section class="single-contents-item borderRadius borderColor" data-pararax01 data-pararax01-opacity01="0">
 
 								<p class="tag _f-futura_d">
 									Caso Éxito
@@ -402,7 +402,7 @@
 
 						</div>
 						<div class="single-contents_inner _pc-w780 _sp-pd20">
-							<section class="single-contents-item" data-pararax01 data-pararax01-opacity01="0">
+							<section class="single-contents-item borderRadius borderColor" data-pararax01 data-pararax01-opacity01="0">
 
 								<p class="tag _f-futura_d">
 									Caso Éxito
@@ -454,7 +454,7 @@
 
 						</div>
 						<div class="single-contents_inner _pc-w780 _sp-pd20">
-							<section class="single-contents-item" data-pararax01 data-pararax01-opacity01="0">
+							<section class="single-contents-item borderRadius borderColor" data-pararax01 data-pararax01-opacity01="0">
 
 								<p class="tag _f-futura_d">
 									Caso Éxito
