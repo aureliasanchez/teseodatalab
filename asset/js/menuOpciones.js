@@ -21,230 +21,154 @@ function allClick() {
   }
 }
 
-let seniorsButon = document.getElementById("seniors");
-if (seniorsButon) {
-  seniorsButon.onclick = function (element) {
-    seniorsClick();
+let opcion1Buton = document.getElementById("opcion1");
+if (opcion1Buton) {
+  opcion1Buton.onclick = function (element) {
+    opcion1Click();
     buttonClick(element);
   };
 }
 
-function seniorsClick() {
+function opcion1Click() {
   let members = document.getElementsByClassName("archive-article");
   for (let i = 0; i < members.length; i++) {
     members[i].classList.add("d-none");
   }
-  let seniorsMembers = document.getElementsByClassName("senior");
-  for (let i = 0; i < seniorsMembers.length; i++) {
-    seniorsMembers[i].classList.remove("d-none");
+  let opcion1Members = document.getElementsByClassName("opcion1");
+  for (let i = 0; i < opcion1Members.length; i++) {
+    opcion1Members[i].classList.remove("d-none");
   }
 }
 
-let leadersButton = document.getElementById("leaders");
-if (leadersButton) {
-  leadersButton.onclick = function (element) {
-    leadersClick();
+let opcion2Button = document.getElementById("opcion2");
+if (opcion2Button) {
+  opcion2Button.onclick = function (element) {
+    opcion2Click();
     buttonClick(element);
   };
 }
 
-function leadersClick() {
+function opcion2Click() {
   let members = document.getElementsByClassName("archive-article");
   for (let i = 0; i < members.length; i++) {
     members[i].classList.add("d-none");
   }
-  let leadersClickMembers = document.getElementsByClassName("leader");
-  for (let i = 0; i < leadersClickMembers.length; i++) {
-    leadersClickMembers[i].classList.remove("d-none");
+  let opcion2ClickMembers = document.getElementsByClassName("opcion2");
+  for (let i = 0; i < opcion2ClickMembers.length; i++) {
+    opcion2ClickMembers[i].classList.remove("d-none");
   }
 }
 
-let associatesButton = document.getElementById("associates");
-if (associatesButton) {
-  associatesButton.onclick = function (element) {
-    associatesClick();
+let opcion3Button = document.getElementById("opcion3");
+if (opcion3Button) {
+  opcion3Button.onclick = function (element) {
+    opcion3Click();
     buttonClick(element);
   };
 }
 
-function associatesClick() {
+function opcion3Click() {
   let members = document.getElementsByClassName("archive-article");
   for (let i = 0; i < members.length; i++) {
     members[i].classList.add("d-none");
   }
-  let associatesClickMembers = document.getElementsByClassName("associate");
-  for (let i = 0; i < associatesClickMembers.length; i++) {
-    associatesClickMembers[i].classList.remove("d-none");
+  let opcion3ClickMembers = document.getElementsByClassName("opcion3");
+  for (let i = 0; i < opcion3ClickMembers.length; i++) {
+    opcion3ClickMembers[i].classList.remove("d-none");
   }
 }
 
-let consultantsButton = document.getElementById("consultants");
-if (consultantsButton) {
-  consultantsButton.onclick = function (element) {
-    consultantsClick();
+let opcion4Button = document.getElementById("opcion4");
+if (opcion4Button) {
+  opcion4Button.onclick = function (element) {
+    opcion4Click();
     buttonClick(element);
   };
 }
 
-function consultantsClick() {
+function opcion4Click() {
   let members = document.getElementsByClassName("archive-article");
   for (let i = 0; i < members.length; i++) {
     members[i].classList.add("d-none");
   }
-  let consultantsClickMembers = document.getElementsByClassName("consultant");
-  for (let i = 0; i < consultantsClickMembers.length; i++) {
-    consultantsClickMembers[i].classList.remove("d-none");
+  let opcion4ClickMembers = document.getElementsByClassName("opcion4");
+  for (let i = 0; i < opcion4ClickMembers.length; i++) {
+    opcion4ClickMembers[i].classList.remove("d-none");
   }
 }
 
-let internsButton = document.getElementById("interns");
-if (internsButton) {
-  internsButton.onclick = function (element) {
-    internsClick();
+let opcion5Button = document.getElementById("opcion5");
+if (opcion5Button) {
+  opcion5Button.onclick = function (element) {
+    opcion5Click();
     buttonClick(element);
   };
 }
 
-function internsClick() {
+function opcion5Click() {
   let members = document.getElementsByClassName("archive-article");
   for (let i = 0; i < members.length; i++) {
     members[i].classList.add("d-none");
   }
-  let internsClickMembers = document.getElementsByClassName("intern");
-  for (let i = 0; i < internsClickMembers.length; i++) {
-    internsClickMembers[i].classList.remove("d-none");
+  let opcion5ClickMembers = document.getElementsByClassName("opcion5");
+  for (let i = 0; i < opcion5ClickMembers.length; i++) {
+    opcion5ClickMembers[i].classList.remove("d-none");
   }
 }
 
-let analisisButton = document.getElementById("analisis");
-if (analisisButton) {
-  analisisButton.onclick = function (element) {
-    analisisClick();
+let opcion6Button = document.getElementById("opcion6");
+if (opcion6Button) {
+  opcion6Button.onclick = function (element) {
+    opcion6Click();
     buttonClick(element);
   };
 }
 
-function analisisClick() {
+function opcion6Click() {
   let members = document.getElementsByClassName("archive-article");
   for (let i = 0; i < members.length; i++) {
     members[i].classList.add("d-none");
   }
-  let analisisClickMembers = document.getElementsByClassName("analisis");
-  for (let i = 0; i < analisisClickMembers.length; i++) {
-    analisisClickMembers[i].classList.remove("d-none");
+  let opcion6ClickMembers = document.getElementsByClassName("opcion6");
+  for (let i = 0; i < opcion6ClickMembers.length; i++) {
+    opcion6ClickMembers[i].classList.remove("d-none");
   }
 }
 
-let consultoriaButton = document.getElementById("cosultoria");
-if (consultoriaButton) {
-  consultoriaButton.onclick = function (element) {
-    cosultoriaClick();
+let opcion7Button = document.getElementById("opcion7");
+if (opcion7Button) {
+  opcion7Button.onclick = function (element) {
+    opcion7Click();
     buttonClick(element);
   };
 }
 
-function cosultoriaClick() {
+function opcion7Click() {
   let members = document.getElementsByClassName("archive-article");
   for (let i = 0; i < members.length; i++) {
     members[i].classList.add("d-none");
   }
-  let cosultoriaClickMembers = document.getElementsByClassName("consultar");
-  for (let i = 0; i < cosultoriaClickMembers.length; i++) {
-    cosultoriaClickMembers[i].classList.remove("d-none");
+  let opcion7ClickMembers = document.getElementsByClassName("opcion7");
+  for (let i = 0; i < opcion7ClickMembers.length; i++) {
+    opcion7ClickMembers[i].classList.remove("d-none");
   }
 }
 
-let marketingButton = document.getElementById("marketing");
-if (marketingButton) {
-  marketingButton.onclick = function (element) {
-    marketingClick();
+let opcion8Button = document.getElementById("opcion8");
+if (opcion8Button) {
+  opcion8Button.onclick = function (element) {
+    opcion8Click();
     buttonClick(element);
   };
 }
 
-function marketingClick() {
+function opcion8Click() {
   let members = document.getElementsByClassName("archive-article");
   for (let i = 0; i < members.length; i++) {
     members[i].classList.add("d-none");
   }
-  let marketingClickMembers = document.getElementsByClassName("marketing");
-  for (let i = 0; i < marketingClickMembers.length; i++) {
-    marketingClickMembers[i].classList.remove("d-none");
-  }
-}
-
-let masificasionButton = document.getElementById("masificasion");
-if (masificasionButton) {
-  masificasionButton.onclick = function (element) {
-    masificasionClick();
-    buttonClick(element);
-  };
-}
-
-function masificasionClick() {
-  let members = document.getElementsByClassName("archive-article");
-  for (let i = 0; i < members.length; i++) {
-    members[i].classList.add("d-none");
-  }
-  let masificasionClickMembers = document.getElementsByClassName("masificasion");
-  for (let i = 0; i < masificasionClickMembers.length; i++) {
-    masificasionClickMembers[i].classList.remove("d-none");
-  }
-}
-
-let softwareButton = document.getElementById("software");
-if (softwareButton) {
-  softwareButton.onclick = function (element) {
-    softwareClick();
-    buttonClick(element);
-  };
-}
-
-function softwareClick() {
-  let members = document.getElementsByClassName("archive-article");
-  for (let i = 0; i < members.length; i++) {
-    members[i].classList.add("d-none");
-  }
-  let softwareClickMembers = document.getElementsByClassName("software");
-  for (let i = 0; i < softwareClickMembers.length; i++) {
-    softwareClickMembers[i].classList.remove("d-none");
-  }
-}
-
-let restaurantesButton = document.getElementById("restaurantes");
-if (restaurantesButton) {
-  restaurantesButton.onclick = function (element) {
-    restaurantesClick();
-    buttonClick(element);
-  };
-}
-
-function restaurantesClick() {
-  let members = document.getElementsByClassName("archive-article");
-  for (let i = 0; i < members.length; i++) {
-    members[i].classList.add("d-none");
-  }
-  let restaurantesClickMembers = document.getElementsByClassName("restaurante");
-  for (let i = 0; i < restaurantesClickMembers.length; i++) {
-    restaurantesClickMembers[i].classList.remove("d-none");
-  }
-}
-
-let raicesButton = document.getElementById("raices");
-if (raicesButton) {
-  raicesButton.onclick = function (element) {
-    raicesClick();
-    buttonClick(element);
-  };
-}
-
-function raicesClick() {
-  let members = document.getElementsByClassName("archive-article");
-  for (let i = 0; i < members.length; i++) {
-    members[i].classList.add("d-none");
-  }
-  let raicesClickMembers = document.getElementsByClassName("rais");
-  for (let i = 0; i < raicesClickMembers.length; i++) {
-    raicesClickMembers[i].classList.remove("d-none");
+  let opcion8ClickMembers = document.getElementsByClassName("opcion8");
+  for (let i = 0; i < opcion8ClickMembers.length; i++) {
+    opcion8ClickMembers[i].classList.remove("d-none");
   }
 }

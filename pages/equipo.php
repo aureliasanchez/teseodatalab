@@ -80,7 +80,7 @@
 										</a>
 									</div>
 									<div class="aside-link splide__slide">
-										<a href="#PostList" id="seniors">
+										<a href="#PostList" id="opcion1">
 
 											<span class="en _f-futura_d _futura-lh1 _futura-nm">
 												Seniors
@@ -89,7 +89,7 @@
 										</a>
 									</div>
 									<div class="aside-link splide__slide">
-										<a href="#PostList" id="leaders">
+										<a href="#PostList" id="opcion2">
 
 											<span class="en _f-futura_d _futura-lh1 _futura-nm">
 												Leaders
@@ -98,7 +98,7 @@
 										</a>
 									</div>
 									<div class="aside-link splide__slide">
-										<a href="#PostList" id="associates">
+										<a href="#PostList" id="opcion3">
 
 											<span class="en _f-futura_d _futura-lh1 _futura-nm">
 												Associates
@@ -107,7 +107,7 @@
 										</a>
 									</div>
 									<div class="aside-link splide__slide">
-										<a href="#PostList" id="consultants">
+										<a href="#PostList" id="opcion4">
 
 											<span class="en _f-futura_d _futura-lh1 _futura-nm">
 												Consultants
@@ -116,7 +116,7 @@
 										</a>
 									</div>
 									<div class="aside-link splide__slide">
-										<a href="#PostList" id="interns">
+										<a href="#PostList" id="opcion5">
 
 											<span class="en _f-futura_d _futura-lh1 _futura-nm">
 												Interns
@@ -147,7 +147,7 @@
 				<div class="contents-main">
 					<div class="archives_wrap">
 
-						<article class="archive-article senior">
+						<article class="archive-article opcion1">
 							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
@@ -168,7 +168,7 @@
 
 							</div>
 						</article>
-						<article class="archive-article senior">
+						<article class="archive-article opcion1">
 							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
@@ -189,7 +189,7 @@
 
 							</div>
 						</article>
-						<article class="archive-article senior">
+						<article class="archive-article opcion1">
 							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
@@ -210,7 +210,7 @@
 
 							</div>
 						</article>
-						<article class="archive-article leader">
+						<article class="archive-article opcion2">
 							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
@@ -231,7 +231,7 @@
 
 							</div>
 						</article>
-						<article class="archive-article associate">
+						<article class="archive-article opcion3">
 							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
@@ -252,7 +252,7 @@
 
 							</div>
 						</article>
-						<article class="archive-article associate">
+						<article class="archive-article opcion3">
 							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
@@ -273,7 +273,7 @@
 
 							</div>
 						</article>
-						<article class="archive-article associate">
+						<article class="archive-article opcion3">
 							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
@@ -294,7 +294,7 @@
 
 							</div>
 						</article>
-						<article class="archive-article associate">
+						<article class="archive-article opcion3">
 							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
@@ -315,7 +315,7 @@
 
 							</div>
 						</article>
-						<article class="archive-article associate">
+						<article class="archive-article opcion3">
 							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
@@ -336,7 +336,7 @@
 
 							</div>
 						</article>
-						<article class="archive-article associate">
+						<article class="archive-article opcion3">
 							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
@@ -357,7 +357,7 @@
 
 							</div>
 						</article>
-						<article class="archive-article consultant">
+						<article class="archive-article opcion4">
 							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
@@ -378,7 +378,7 @@
 
 							</div>
 						</article>
-						<article class="archive-article consultant">
+						<article class="archive-article opcion4">
 							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
@@ -399,7 +399,7 @@
 
 							</div>
 						</article>
-						<article class="archive-article consultant">
+						<article class="archive-article opcion4">
 							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
@@ -420,7 +420,7 @@
 
 							</div>
 						</article>
-						<article class="archive-article consultant">
+						<article class="archive-article opcion4">
 							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
@@ -441,7 +441,7 @@
 
 							</div>
 						</article>
-						<article class="archive-article consultant">
+						<article class="archive-article opcion4">
 							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
@@ -462,7 +462,7 @@
 
 							</div>
 						</article>
-						<article class="archive-article intern">
+						<article class="archive-article opcion5">
 							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
@@ -483,7 +483,7 @@
 
 							</div>
 						</article>
-						<article class="archive-article intern">
+						<article class="archive-article opcion5">
 							<div data-pararax01>
 
 								<div class="article-img link-img of _link-img01 __inview-img01"
