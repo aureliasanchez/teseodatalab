@@ -59,17 +59,24 @@
 					</span>
 					<div class="mission-vision-container">
 						<div class="mission">
-							<h2 class="subtitle">Misión</h2>
+							<h2 class="subtitle">Propósito</h2>
 							<p class="text">
-								"Transformamos datos en estrategias inteligentes que potencian resultados, reducen
-								riesgos y maximizan oportunidades."
+								Nuestro propósito es empoderar a las empresas mediante soluciones basadas en datos,
+								integrando tecnologías avanzadas como inteligencia artificial (IA) y modelos
+								predictivos.
+								<br>
+								Ayudamos a maximizar recursos, optimizar procesos y adaptarse ágilmente a
+								los constantes cambios del mercado.
 							</p>
 						</div>
 						<div class="vision">
 							<h2 class="subtitle">Visión</h2>
 							<p class="text">
-								"Convertirnos en el líder en Latinoamérica en soluciones basadas en datos, impulsando
-								innovación y transformación empresarial."
+								Nuestra visión es ser una empresa mexicana en constante evolución, iteración y adopción
+								de tecnologías de clase mundial. Nos enfocamos en desarrollar soluciones únicas e
+								innovadoras que respondan a las necesidades cambiantes del mercado, liderando con
+								estrategias disruptivas y manteniendo un compromiso continuo con la transformación
+								empresarial sostenible.
 							</p>
 						</div>
 					</div>
@@ -90,7 +97,9 @@
 							<ul class="splide__list">
 
 								<li class="splide__slide">
-									<h2 class="subtitle">Inovación</h2>
+									<h2 class="subtitle">
+										<i class="fas fa-lightbulb"></i> Innovación
+									</h2>
 									<p class="text">"Adoptamos tecnologías avanzadas para diseñar estrategias
 										disruptivas."
 									</p>

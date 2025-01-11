@@ -613,7 +613,7 @@
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span01">
-										Estrategias Digitales para Impacto ElectoralF
+										Estrategias Digitales para Impacto Electoral
 									</span>
 								</p>
 							</a>
