@@ -169,7 +169,9 @@
 							</div>
 							<div class="single-contents-header-img of">
 								<img src="../asset/img/pages/portafolio/productosMarcas/data/datAlphineFondoBlanco.webp" width="620" height="620"
-									alt="山崎 明信">
+									alt="山崎 明信" class="imagenBase">
+								<img src="../asset/img/pages/portafolio/productosMarcas/data/datAlphineCelular.webp" width="620" height="620"
+									alt="山崎 明信" class="imagenPhone">
 							</div>
 
 						</div>
@@ -228,7 +230,9 @@
 							</div>
 							<div class="single-contents-header-img of">
 								<img src="../asset/img/pages/portafolio/productosMarcas/aphodite/aphroditeFondoBlanco.webp" width="620" height="620"
-									alt="山崎 明信">
+									alt="山崎 明信" class="imagenBase">
+								<img src="../asset/img/pages/portafolio/productosMarcas/aphodite/aphroditeCelular.webp" width="620" height="620"
+									alt="山崎 明信" class="imagenPhone">
 							</div>
 
 						</div>
@@ -287,7 +291,9 @@
 							</div>
 							<div class="single-contents-header-img of">
 								<img src="../asset/img/pages/portafolio/productosMarcas/valdepepenas/valdepenasFondoBlanco.webp" width="620" height="620"
-									alt="山崎 明信">
+									alt="山崎 明信" class="imagenBase">
+								<img src="../asset/img/pages/portafolio/productosMarcas/valdepepenas/valdepenasCelular.webp" width="620" height="620"
+									alt="山崎 明信" class="imagenPhone">
 							</div>
 
 						</div>
@@ -337,7 +343,9 @@
 							</div>
 							<div class="single-contents-header-img of">
 								<img src="../asset/img/pages/portafolio/productosMarcas/sherwind/sherwindFondoBlanco.webp" width="620" height="620"
-									alt="山崎 明信">
+									alt="山崎 明信" class="imagenBase">
+								<img src="../asset/img/pages/portafolio/productosMarcas/sherwind/sherwindCelular.webp" width="620" height="620"
+									alt="山崎 明信" class="imagenPhone">
 							</div>
 
 						</div>
@@ -387,7 +395,9 @@
 							</div>
 							<div class="single-contents-header-img of">
 								<img src="../asset/img/pages/portafolio/productosMarcas/torrijos/torrijosFondoBlanco.webp" width="620" height="620"
-									alt="山崎 明信">
+									alt="山崎 明信" class="imagenBase">
+								<img src="../asset/img/pages/portafolio/productosMarcas/torrijos/torrijosCelular.webp" width="620" height="620"
+									alt="山崎 明信" class="imagenPhone">
 							</div>
 
 						</div>
@@ -437,7 +447,9 @@
 							</div>
 							<div class="single-contents-header-img of">
 								<img src="../asset/img/pages/portafolio/productosMarcas/villanova/villanovaFondoBlanco.webp" width="620" height="620"
-									alt="山崎 明信">
+									alt="山崎 明信" class="imagenBase">
+								<img src="../asset/img/pages/portafolio/productosMarcas/villanova/villanovaCelulares.webp" width="620" height="620"
+									alt="山崎 明信" class="imagenPhone">
 							</div>
 
 						</div>

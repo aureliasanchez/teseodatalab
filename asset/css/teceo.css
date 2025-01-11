@@ -402,3 +402,21 @@
 .boldText {
     font-weight: bold !important;
 }
+
+.imagenBase {
+    display: block;
+}
+
+.imagenPhone {
+    display: none;
+}
+
+@media screen and (max-width: 576px) {
+    .imagenBase {
+        display: none;
+    }
+
+    .imagenPhone {
+        display: block;
+    }
+}
