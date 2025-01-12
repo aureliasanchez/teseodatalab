@@ -88,9 +88,9 @@
 					<a href="./pages/portafolio/portafolio.php" class="_link-block01 _pc-pd40" data-pararax01>
 						<div class="project-img of _link-img01 __inview-img01 __inview-img01" data-pararax01-img01="0">
 							<picture>
-								<source srcset="./asset/img/repetidas/S5A9918-Editar-1024x683.jpg" width="750"
+								<source srcset="./asset/img/pages/index/teseoFondo.jpg" width="750"
 									height="500" media="(max-width:640px)">
-								<img src="./asset/img/repetidas/S5A9918-Editar-1024x683.jpg" width="2560" height="1212"
+								<img src="./asset/img/pages/index/teseoFondo.jpg" width="2560" height="1212"
 									alt="TentoTen 07 Puerto Vallarta" loading="lazy">
 							</picture>
 						</div>
