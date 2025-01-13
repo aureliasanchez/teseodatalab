@@ -3,17 +3,19 @@
 
 <head>
 	<!-- Meta -->
-    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-    <meta charset="utf-8">
-    <meta name="description" content="Lee nuestras políticas de privacidad y términos de uso. Descubre cómo protegemos tu información y garantizamos la seguridad de tus datos.">
-    <meta property="og:title" content="Teseo | Políticas de Privacidad y Términos de Uso">
-    <meta property="og:description" content="Conoce cómo en Teseo protegemos tu información personal y garantizamos la seguridad de tus datos con nuestras políticas de privacidad y términos de uso.">
-    <meta property="og:url" content="https://teseo.com/pages/politicas.php">
-    <meta property="og:image" content="https://teseo.com/assets/img/repetidas/logos/teceo.webp">
-    <meta name="twitter:card" content="summary">
-    <meta name="viewport" content="width=device-width,viewport-fit=cover">
-    <meta name="format-detection" content="telephone=no, email=no, address=no">
-    <meta name="skype_toolbar" content="skype_toolbar_parser_compatible">
+	<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+	<meta charset="utf-8">
+	<meta name="description"
+		content="Lee nuestras políticas de privacidad y términos de uso. Descubre cómo protegemos tu información y garantizamos la seguridad de tus datos.">
+	<meta property="og:title" content="Teseo | Políticas de Privacidad y Términos de Uso">
+	<meta property="og:description"
+		content="Conoce cómo en Teseo protegemos tu información personal y garantizamos la seguridad de tus datos con nuestras políticas de privacidad y términos de uso.">
+	<meta property="og:url" content="https://teseo.com/pages/politicas.php">
+	<meta property="og:image" content="https://teseo.com/assets/img/repetidas/logos/teceo.webp">
+	<meta name="twitter:card" content="summary">
+	<meta name="viewport" content="width=device-width,viewport-fit=cover">
+	<meta name="format-detection" content="telephone=no, email=no, address=no">
+	<meta name="skype_toolbar" content="skype_toolbar_parser_compatible">
 
 	<!-- Link -->
 	<link href="../asset/css/common1571.css" rel="stylesheet">
@@ -40,27 +42,25 @@
 					</span>
 					<span class="heading-sub __inview-span01">
 						<span>
-							Como resultado del ingreso, consulta o utilización del portal https://teseodata.com/ (el
-							“Portal) o de los servicios y Contenidos que en el Portal se brindan o muestran, Usted, como
-							usuario del Portal (el “Usuario se somete y adhiere a, y acepta plenamente sin reserva
-							alguna
-							los términos además de estar obligado a cumplir con todos y cada uno de los términos,
+							Como resultado del ingreso, consulta o utilización del portal
+							<a href="../index.php" class="cta-link fontRedIntro2">
+								https://teseo.com/
+							</a>
+							(el “Portal) o de los servicios y Contenidos que en el Portal se brindan o muestran, Usted,
+							como usuario del Portal (el “Usuario se somete y adhiere a, y acepta plenamente sin reserva
+							alguna los términos además de estar obligado a cumplir con todos y cada uno de los términos,
 							condiciones y demás disposiciones incluidas o referidas en (i) el Aviso Legal del Portal,
-							(ii)
-							el presente Aviso Legal de Política de Confidencialidad de Datos Personales del Portal (en
-							lo
-							sucesivo referida como la “Política de Confidencialidad), cualquier otro Aviso del Portal
-							que se
-							encuentre vigente en el momento mismo en que el Usuario acceda al Portal y (iii) cuando
-							aplique,
-							el Contrato de Prestación de Servicios con base en el cual Usted solicita el acceso a los
-							contenidos del Portal de acceso está restringido sólo a usuarios autorizados por
-							suscriptores
-							que tengan celebrado un Contrato de Prestación de Servicios con TESEO DATA. Salvo que en
-							este
-							aviso se disponga otra cosa, los términos con inicial en mayúscula tienen el significado que
-							se
-							les da en el Aviso Legal para la Página de Internet https://teseodata.com/
+							(ii) el presente Aviso Legal de Política de Confidencialidad de Datos Personales del Portal
+							(en lo sucesivo referida como la “Política de Confidencialidad), cualquier otro Aviso del
+							Portal que se encuentre vigente en el momento mismo en que el Usuario acceda al Portal y
+							(iii) cuando aplique, el Contrato de Prestación de Servicios con base en el cual Usted
+							solicita el acceso a los contenidos del Portal de acceso está restringido sólo a usuarios
+							autorizados por suscriptores que tengan celebrado un Contrato de Prestación de Servicios con
+							TESEO DATA. Salvo que en este aviso se disponga otra cosa, los términos con inicial en
+							mayúscula tienen el significado que se les da en el Aviso Legal para la Página de Internet
+							<a href="../index.php" class="cta-link fontRedIntro2">
+								https://teseo.com/
+							</a>
 						</span>
 						<br><br>
 						<span>
@@ -276,7 +276,11 @@
 							rectificar, cancelar u oponerse al Tratamiento de sus datos personales, conforme a los
 							términos y sujetos a las excepciones establecidas en la Ley y cualquier otra disposición
 							legal aplicable. Los derechos antes mencionados podrán ejercerse enviando a través de
-							nuestra página de Internet https://teseodata.com/ el Formulario de Uso Múltiple para el
+							nuestra página de Internet 
+							<a href="../index.php" class="cta-link fontRed">
+								https://teseodata.com/ 
+							</a>
+							el Formulario de Uso Múltiple para el
 							Ejercicio de Derechos ARCO o para la Revocación de Consentimiento que ahí se encuentra,
 							debidamente requisitado y firmado; indicando y/o adjuntando, según corresponda, la
 							información y/o documentación que se señala en dicha solicitud.
@@ -286,7 +290,10 @@
 							Asimismo el titular podrá limitar en cualquier momento el Tratamiento de sus datos
 							personales para los efectos de las finalidades descritas en el apartado 2 de las sección
 							Finalidades del Tratamiento de Datos Personales, enviando una correo electrónico a la
-							siguiente dirección electrónica contactoteseodata@gmail.com.
+							siguiente dirección electrónica 
+							<a href="../index.php" class="cta-link fontRed">
+								contactoteseodata@gmail.com.
+							</a>
 						</span>
 					</span>
 				</h1>

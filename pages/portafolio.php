@@ -62,8 +62,10 @@
 
 							</div>
 							<div class="single-contents-header-img of">
-								<img src="../asset/img/pages/portafolio/productosMarcas/noFaund.svg" width="620"
-									height="620" alt="山崎 明信">
+								<img src="../asset/img/pages/portafolio/productosMarcas/frumentarii/frumentarii.webp"
+									width="620" height="620" alt="山崎 明信" class="imagenBase">
+								<img src="../asset/img/pages/portafolio/productosMarcas/frumentarii/frumentarii.webp"
+									width="620" height="620" alt="山崎 明信" class="imagenPhone">
 							</div>
 
 						</div>
@@ -497,8 +499,8 @@
 							<a href="#PostList" class="_link-block01" data-pararax01 id="opcion1">
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/portafolio/productosMarcas/noFaund.svg" width="400"
-										height="400" alt="佐川 環" loading="lazy">
+									<img src="../asset/img/pages/portafolio/productosMarcas/frumentarii/frumentarii.webp"
+										width="400" height="400" alt="佐川 環" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span01">

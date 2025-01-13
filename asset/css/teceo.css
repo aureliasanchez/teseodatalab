@@ -376,6 +376,17 @@
     /* Color de fondo del botón al pasar el ratón */
 }
 
+.cta-link {
+    text-decoration: none; /* Quitar subrayado */
+    font-weight: bold; /* Grosor del texto */
+    transition: color 0.3s ease; /* Transición suave al pasar el cursor */
+}
+
+.cta-link:hover {
+    color: #502a8d; /* Cambiar color al pasar el cursor */
+    text-decoration: underline; /* Subrayar al pasar el cursor */
+}
+
 @media screen and (min-width: 750px) {
     .radiusTopIzquierdo {
         border-top-left-radius: 10px;
@@ -428,7 +439,6 @@
     }
 }
 
-/* Media queries para ajustar el tamaño del texto en pantallas más pequeñas */
 @media screen and (max-width: 768px) {
 
     .title {

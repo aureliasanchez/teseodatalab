@@ -24,6 +24,7 @@
 	<link href="../asset/css/redesSociales.css" rel="stylesheet">
 	<link href="../asset/css/menuOpciones.css" rel="stylesheet">
 	<link href="../asset/css/teceo.css" rel="stylesheet">
+	<link href="../asset/css/index83e0.css" rel="stylesheet">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 	<link rel="canonical" href="https://teseo.com/pages/equipo.php">
 
@@ -80,6 +81,15 @@
 										</a>
 									</div>
 									<div class="aside-link splide__slide">
+										<a href="#PostList" id="opcion4">
+
+											<span class="en _f-futura_d _futura-lh1 _futura-nm">
+												Consultants
+											</span>
+
+										</a>
+									</div>
+									<div class="aside-link splide__slide">
 										<a href="#PostList" id="opcion1">
 
 											<span class="en _f-futura_d _futura-lh1 _futura-nm">
@@ -102,15 +112,6 @@
 
 											<span class="en _f-futura_d _futura-lh1 _futura-nm">
 												Associates
-											</span>
-
-										</a>
-									</div>
-									<div class="aside-link splide__slide">
-										<a href="#PostList" id="opcion4">
-
-											<span class="en _f-futura_d _futura-lh1 _futura-nm">
-												Consultants
 											</span>
 
 										</a>
@@ -147,6 +148,111 @@
 				<div class="contents-main">
 					<div class="archives_wrap">
 
+						<article class="archive-article opcion4">
+							<div data-pararax01>
+
+								<div class="article-img link-img of _link-img01 __inview-img01"
+									data-pararax01-img01="0">
+									<img src="../asset/img/pages/equipo/women.png" width="620" height="620" alt="Daniel"
+										loading="lazy">
+								</div>
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">
+										Behavior Sciences Expert
+									</span>
+								</p>
+								<p class="article-name _link-text01" data-pararax01-text01="0.4">
+									<span class="_link-span03">
+										Dr. Tubga Metinyurt
+									</span>
+								</p>
+
+							</div>
+						</article>
+						<article class="archive-article opcion4">
+							<div data-pararax01>
+
+								<div class="article-img link-img of _link-img01 __inview-img01"
+									data-pararax01-img01="0">
+									<img src="../asset/img/pages/equipo/man.png" width="620" height="620" alt="Daniel"
+										loading="lazy">
+								</div>
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">
+										Quantitative Social Demography
+									</span>
+								</p>
+								<p class="article-name _link-text01" data-pararax01-text01="0.4">
+									<span class="_link-span03">
+										Dr. Tomasz Wera
+									</span>
+								</p>
+
+							</div>
+						</article>
+						<article class="archive-article opcion4">
+							<div data-pararax01>
+
+								<div class="article-img link-img of _link-img01 __inview-img01"
+									data-pararax01-img01="0">
+									<img src="../asset/img/pages/equipo/man.png" width="620" height="620" alt="Daniel"
+										loading="lazy">
+								</div>
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">
+										Senior Software Engineer
+									</span>
+								</p>
+								<p class="article-name _link-text01" data-pararax01-text01="0.4">
+									<span class="_link-span03">
+										Carlos Ponce
+									</span>
+								</p>
+
+							</div>
+						</article>
+						<article class="archive-article opcion4">
+							<div data-pararax01>
+
+								<div class="article-img link-img of _link-img01 __inview-img01"
+									data-pararax01-img01="0">
+									<img src="../asset/img/pages/equipo/women.png" width="620" height="620" alt="Daniel"
+										loading="lazy">
+								</div>
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">
+										Business Analyst
+									</span>
+								</p>
+								<p class="article-name _link-text01" data-pararax01-text01="0.4">
+									<span class="_link-span03">
+										María Loyolo
+									</span>
+								</p>
+
+							</div>
+						</article>
+						<article class="archive-article opcion4">
+							<div data-pararax01>
+
+								<div class="article-img link-img of _link-img01 __inview-img01"
+									data-pararax01-img01="0">
+									<img src="../asset/img/pages/equipo/man.png" width="620" height="620" alt="Daniel"
+										loading="lazy">
+								</div>
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">
+										Operations Manager
+									</span>
+								</p>
+								<p class="article-name _link-text01" data-pararax01-text01="0.4">
+									<span class="_link-span03">
+										Kento Nakajima
+									</span>
+								</p>
+
+							</div>
+						</article>
 						<article class="archive-article opcion1">
 							<div data-pararax01>
 
@@ -357,111 +463,6 @@
 
 							</div>
 						</article>
-						<article class="archive-article opcion4">
-							<div data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01"
-									data-pararax01-img01="0">
-									<img src="../asset/img/pages/equipo/women.png" width="620" height="620" alt="Daniel"
-										loading="lazy">
-								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Behavior Sciences Expert
-									</span>
-								</p>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">
-										Dr. Tubga Metinyurt
-									</span>
-								</p>
-
-							</div>
-						</article>
-						<article class="archive-article opcion4">
-							<div data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01"
-									data-pararax01-img01="0">
-									<img src="../asset/img/pages/equipo/man.png" width="620" height="620" alt="Daniel"
-										loading="lazy">
-								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Quantitative Social Demography
-									</span>
-								</p>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">
-										Dr. Tomasz Wera
-									</span>
-								</p>
-
-							</div>
-						</article>
-						<article class="archive-article opcion4">
-							<div data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01"
-									data-pararax01-img01="0">
-									<img src="../asset/img/pages/equipo/man.png" width="620" height="620" alt="Daniel"
-										loading="lazy">
-								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Senior Software Engineer
-									</span>
-								</p>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">
-										Carlos Ponce
-									</span>
-								</p>
-
-							</div>
-						</article>
-						<article class="archive-article opcion4">
-							<div data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01"
-									data-pararax01-img01="0">
-									<img src="../asset/img/pages/equipo/women.png" width="620" height="620" alt="Daniel"
-										loading="lazy">
-								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Business Analyst
-									</span>
-								</p>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">
-										María Loyolo
-									</span>
-								</p>
-
-							</div>
-						</article>
-						<article class="archive-article opcion4">
-							<div data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01"
-									data-pararax01-img01="0">
-									<img src="../asset/img/pages/equipo/man.png" width="620" height="620" alt="Daniel"
-										loading="lazy">
-								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Operations Manager
-									</span>
-								</p>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">
-										Kento Nakajima
-									</span>
-								</p>
-
-							</div>
-						</article>
 						<article class="archive-article opcion5">
 							<div data-pararax01>
 
@@ -477,7 +478,7 @@
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
-									Miriam Mendoza
+										Miriam Mendoza
 									</span>
 								</p>
 
@@ -516,6 +517,42 @@
 
 			</section>
 
+			<section class="top-projects">
+				<article class="project">
+					<a href="./contacto.php" class="_link-block01 _pc-pd40" data-pararax01>
+						<div class="project-img of _link-img01 __inview-img01 __inview-img01" data-pararax01-img01="0">
+							<picture>
+								<source srcset="../asset/img/pages/equipo/team.webp" width="750" height="500"
+									media="(max-width:640px)">
+								<img src="../asset/img/pages/equipo/team.webp" width="2560" height="1212"
+									alt="TentoTen 07 Puerto Vallarta" loading="lazy">
+							</picture>
+						</div>
+						<div class="project-text _sp-pd20">
+							<h2 class="text-heading _link-text01" data-pararax01-text01="0.4">
+								<span class="_link-span02" style="text-align: center;">
+									<span class="fontRed">
+										Nuestro propósito nos define
+									</span>
+								</span>
+							</h2>
+							<p class="text-client _link-text01" data-pararax01-text01=".7">
+								<span class="_link-span02">
+									Conoce los valores que guían a nuestro equipo hacia la innovación y el impacto
+									empresarial
+								</span>
+							</p>
+							<button onclick="window.location.href='./contacto.php'"
+								class="text-category _link-text01 button-action" data-pararax01-text01="1.0">
+								<span class="_link-span02">
+									Descubre nuestra visión
+								</span>
+							</button>
+						</div>
+					</a>
+				</article>
+			</section>
+
 		</section>
 	</main>
 
@@ -525,6 +562,7 @@
 	<script src="../asset/js/common71c5.js" defer></script>
 	<script src="../asset/js/member9d21.js" defer></script>
 	<script src="../asset/js/menuOpciones.js" defer></script>
+	<script src="../asset/js/animations.js" defer></script>
 	<script type="application/ld+json"></script>
 	<noscript>
 		<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P9GDZFD" height="0" width="0"
