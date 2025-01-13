@@ -6,12 +6,12 @@
 	<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 	<meta charset="utf-8">
 	<meta name="description"
-		content="Ponte en contacto con Teseo para cualquier consulta o información adicional. Llámanos al 011-200-0978 (Lunes a Viernes de 10:00 a 20:00).">
-	<meta property="og:title" content="Teseo & Data | Contacto">
+		content="Ponte en contacto con Teseo para cualquier consulta o información adicional. Estamos aquí para ayudarte de Lunes a Viernes de 10:00 a 20:00.">
+	<meta property="og:title" content="Teseo Data Lab | Contacto">
 	<meta property="og:description"
-		content="Ponte en contacto con Teseo para cualquier consulta o información adicional. Llámanos al 011-200-0978 (Lunes a Viernes de 10:00 a 20:00).">
-	<meta property="og:url" content="https://teseo.com/contacto.php">
-	<meta property="og:image" content="https://teseo.com/assets/img/ogimage_contacto.png">
+		content="Contacta con Teseo para resolver tus dudas o solicitar información. Llámanos o escríbenos, estamos aquí para ayudarte.">
+	<meta property="og:url" content="https://teseo.com/pages/contacto.php">
+	<meta property="og:image" content="https://teseo.com/assets/img/repetidas/logos/teceo.webp">
 	<meta name="twitter:card" content="summary">
 	<meta name="viewport" content="width=device-width,viewport-fit=cover">
 	<meta name="format-detection" content="telephone=no, email=no, address=no">
@@ -24,10 +24,10 @@
 	<link href="../asset/css/teceo.css" rel="stylesheet">
 	<link href="../asset/css/redesSociales.css" rel="stylesheet">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-	<link rel="canonical" href="./contacto.php">
+	<link rel="canonical" href="https://teseo.com/pages/contacto.php">
 
-	<link rel="icon" href="../asset/img/repetidas/logos/fotoDePerfil1.jpg">
-	<title>Teseo & Data | Contacto</title>
+	<link rel="icon" href="../asset/img/repetidas/logos/teceo.jpg">
+	<title>Teseo Data Lab | Contacto</title>
 </head>
 
 <body id="Pagetop" class="page_contact">

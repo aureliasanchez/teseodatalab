@@ -6,12 +6,12 @@
 	<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 	<meta charset="utf-8">
 	<meta name="description"
-		content="Servicios integrales de Teseo diseñados para transformar datos en estrategias de éxito. Conoce nuestros servicios de investigación, desarrollo, inteligencia artificial, consultoría y marketing, y servicios digitales.">
-	<meta property="og:title" content="Teseo & Data | Servicios">
+		content="Servicios integrales de Teseo diseñados para transformar datos en estrategias de éxito. Descubre soluciones en investigación, inteligencia artificial, consultoría, marketing y más.">
+	<meta property="og:title" content="Teseo | Servicios Integrales para Transformar tu Negocio">
 	<meta property="og:description"
-		content="Servicios integrales de Teseo diseñados para transformar datos en estrategias de éxito. Conoce nuestros servicios de investigación, desarrollo, inteligencia artificial, consultoría y marketing, y servicios digitales.">
-	<meta property="og:url" content="https://teseo.com/servicio.php">
-	<meta property="og:image" content="https://teseo.com/assets/img/ogimage_servicios.png">
+		content="Conoce los servicios de Teseo: investigación avanzada, inteligencia artificial, desarrollo digital y consultoría para potenciar tu empresa.">
+	<meta property="og:url" content="https://teseo.com/pages/servicio.php">
+	<meta property="og:image" content="https://teseo.com/assets/img/repetidas/logos/teceo.webp">
 	<meta name="twitter:card" content="summary">
 	<meta name="viewport" content="width=device-width,viewport-fit=cover">
 	<meta name="format-detection" content="telephone=no, email=no, address=no">
@@ -24,11 +24,12 @@
 	<link href="../asset/css/redesSociales.css" rel="stylesheet">
 	<link href="../asset/css/menuOpciones.css" rel="stylesheet">
 	<link href="../asset/css/teceo.css" rel="stylesheet">
+	<link href="../asset/css/index83e0.css" rel="stylesheet">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-	<link rel="canonical" href="./equipo.php">
+	<link rel="canonical" href="https://teseo.com/pages/servicio.php">
 
-	<link rel="icon" href="../asset/img/repetidas/logos/fotoDePerfil1.jpg">
-	<title>Teseo & Data | Servicios</title>
+	<link rel="icon" href="../asset/img/repetidas/logos/teceo.jpg">
+	<title>Teseo | Servicios Integrales para Transformar tu Negocio</title>
 </head>
 
 <body id="Pagetop" class="page_people">
@@ -671,6 +672,42 @@
 					</aside>
 				</div>
 
+			</section>
+
+			<section class="top-projects">
+				<article class="project">
+					<a href="./contacto.php" class="_link-block01 _pc-pd40" data-pararax01>
+						<div class="project-img of _link-img01 __inview-img01 __inview-img01" data-pararax01-img01="0">
+							<picture>
+								<source srcset="../asset/img/pages/servicio/fondo.webp" width="750" height="500"
+									media="(max-width:640px)">
+								<img src="../asset/img/pages/servicio/fondo.webp" width="2560" height="1212"
+									alt="TentoTen 07 Puerto Vallarta" loading="lazy">
+							</picture>
+						</div>
+						<div class="project-text _sp-pd20">
+							<h2 class="text-heading _link-text01" data-pararax01-text01="0.4">
+								<span class="_link-span02" style="text-align: center;">
+									<span class="fontRed">
+										Potencia tu negocio con datos.
+									</span>
+								</span>
+							</h2>
+							<p class="text-client _link-text01" data-pararax01-text01=".7">
+								<span class="_link-span02">
+									Transforma tus estrategias con inteligencia artificial y análisis avanzado.
+									¡Hablemos hoy!
+								</span>
+							</p>
+							<button onclick="window.location.href='./contacto.php'"
+								class="text-category _link-text01 button-action" data-pararax01-text01="1.0">
+								<span class="_link-span02">
+									Contáctanos ahora
+								</span>
+							</button>
+						</div>
+					</a>
+				</article>
 			</section>
 
 		</section>

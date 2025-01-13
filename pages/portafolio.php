@@ -6,12 +6,12 @@
 	<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 	<meta charset="utf-8">
 	<meta name="description"
-		content="Descubre el proyecto Frumentarii, una solución innovadora en inteligencia de negocios desarrollada por Teseo.">
-	<meta property="og:title" content="Teseo & Data | Frumentarii">
+		content="Explora el portafolio de Teseo, donde la inteligencia artificial y el análisis de datos generan resultados excepcionales para transformar negocios.">
+	<meta property="og:title" content="Teseo | Portafolio de Soluciones Innovadoras">
 	<meta property="og:description"
-		content="Descubre el proyecto Frumentarii, una solución innovadora en inteligencia de negocios desarrollada por Teseo.">
-	<meta property="og:url" content="https://teseo.com/portafolio/exito/frumentarii.php">
-	<meta property="og:image" content="https://teseo.com/assets/img/ogimage_frumentarii.png">
+		content="Conoce los proyectos exitosos de Teseo, desde inteligencia artificial hasta análisis predictivo, diseñados para potenciar empresas y crear impacto.">
+	<meta property="og:url" content="https://teseo.com/pages/portafolio.php">
+	<meta property="og:image" content="https://teseo.com/assets/img/repetidas/logos/teceo.webp">
 	<meta name="twitter:card" content="summary">
 	<meta name="viewport" content="width=device-width,viewport-fit=cover">
 	<meta name="format-detection" content="telephone=no, email=no, address=no">
@@ -22,10 +22,10 @@
 	<link href="../asset/css/member8984.css" rel="stylesheet">
 	<link href="../asset/css/teceo.css" rel="stylesheet">
 	<link href="../asset/css/menuOpciones.css" rel="stylesheet">
-	<link rel="canonical" href="./miembro_1.php">
+	<link rel="canonical" href="https://teseo.com/pages/portafolio.php">
 
-	<link rel="icon" href="../asset/img/repetidas/logos/fotoDePerfil1.jpg">
-	<title>Teseo & Data | Frumentarii</title>
+	<link rel="icon" href="../asset/img/repetidas/logos/teceo.jpg">
+	<title>Teseo | Portafolio de Soluciones Innovadoras</title>
 </head>
 
 <body id="Pagetop" class="page_member">
@@ -68,7 +68,8 @@
 
 						</div>
 						<div class="single-contents_inner _pc-w780 _sp-pd20">
-							<section class="single-contents-item borderRadius borderColor" data-pararax01 data-pararax01-opacity01="0">
+							<section class="single-contents-item borderRadius borderColor" data-pararax01
+								data-pararax01-opacity01="0">
 
 								<p class="tag _f-futura_d">
 									Producto
@@ -113,13 +114,14 @@
 
 							</div>
 							<div class="single-contents-header-img of">
-								<img src="../asset/img/pages/portafolio/productosMarcas/alphine/alpineFondoBlanco.webp" width="620" height="620"
-									alt="山崎 明信">
+								<img src="../asset/img/pages/portafolio/productosMarcas/alphine/alpineFondoBlanco.webp"
+									width="620" height="620" alt="山崎 明信">
 							</div>
 
 						</div>
 						<div class="single-contents_inner _pc-w780 _sp-pd20">
-							<section class="single-contents-item borderRadius borderColor" data-pararax01 data-pararax01-opacity01="0">
+							<section class="single-contents-item borderRadius borderColor" data-pararax01
+								data-pararax01-opacity01="0">
 
 								<p class="tag _f-futura_d">
 									Producto
@@ -168,15 +170,16 @@
 
 							</div>
 							<div class="single-contents-header-img of">
-								<img src="../asset/img/pages/portafolio/productosMarcas/data/datAlphineFondoBlanco.webp" width="620" height="620"
-									alt="山崎 明信" class="imagenBase">
-								<img src="../asset/img/pages/portafolio/productosMarcas/data/datAlphineCelular.webp" width="620" height="620"
-									alt="山崎 明信" class="imagenPhone">
+								<img src="../asset/img/pages/portafolio/productosMarcas/data/datAlphineFondoBlanco.webp"
+									width="620" height="620" alt="山崎 明信" class="imagenBase">
+								<img src="../asset/img/pages/portafolio/productosMarcas/data/datAlphineCelular.webp"
+									width="620" height="620" alt="山崎 明信" class="imagenPhone">
 							</div>
 
 						</div>
 						<div class="single-contents_inner _pc-w780 _sp-pd20">
-							<section class="single-contents-item borderRadius borderColor" data-pararax01 data-pararax01-opacity01="0">
+							<section class="single-contents-item borderRadius borderColor" data-pararax01
+								data-pararax01-opacity01="0">
 
 								<p class="tag _f-futura_d">
 									Producto
@@ -229,15 +232,16 @@
 
 							</div>
 							<div class="single-contents-header-img of">
-								<img src="../asset/img/pages/portafolio/productosMarcas/aphodite/aphroditeFondoBlanco.webp" width="620" height="620"
-									alt="山崎 明信" class="imagenBase">
-								<img src="../asset/img/pages/portafolio/productosMarcas/aphodite/aphroditeCelular.webp" width="620" height="620"
-									alt="山崎 明信" class="imagenPhone">
+								<img src="../asset/img/pages/portafolio/productosMarcas/aphodite/aphroditeFondoBlanco.webp"
+									width="620" height="620" alt="山崎 明信" class="imagenBase">
+								<img src="../asset/img/pages/portafolio/productosMarcas/aphodite/aphroditeCelular.webp"
+									width="620" height="620" alt="山崎 明信" class="imagenPhone">
 							</div>
 
 						</div>
 						<div class="single-contents_inner _pc-w780 _sp-pd20">
-							<section class="single-contents-item borderRadius borderColor" data-pararax01 data-pararax01-opacity01="0">
+							<section class="single-contents-item borderRadius borderColor" data-pararax01
+								data-pararax01-opacity01="0">
 
 								<p class="tag _f-futura_d">
 									Producto
@@ -290,15 +294,16 @@
 
 							</div>
 							<div class="single-contents-header-img of">
-								<img src="../asset/img/pages/portafolio/productosMarcas/valdepepenas/valdepenasFondoBlanco.webp" width="620" height="620"
-									alt="山崎 明信" class="imagenBase">
-								<img src="../asset/img/pages/portafolio/productosMarcas/valdepepenas/valdepenasCelular.webp" width="620" height="620"
-									alt="山崎 明信" class="imagenPhone">
+								<img src="../asset/img/pages/portafolio/productosMarcas/valdepepenas/valdepenasFondoBlanco.webp"
+									width="620" height="620" alt="山崎 明信" class="imagenBase">
+								<img src="../asset/img/pages/portafolio/productosMarcas/valdepepenas/valdepenasCelular.webp"
+									width="620" height="620" alt="山崎 明信" class="imagenPhone">
 							</div>
 
 						</div>
 						<div class="single-contents_inner _pc-w780 _sp-pd20">
-							<section class="single-contents-item borderRadius borderColor" data-pararax01 data-pararax01-opacity01="0">
+							<section class="single-contents-item borderRadius borderColor" data-pararax01
+								data-pararax01-opacity01="0">
 
 								<p class="tag _f-futura_d">
 									Caso Éxito
@@ -342,15 +347,16 @@
 
 							</div>
 							<div class="single-contents-header-img of">
-								<img src="../asset/img/pages/portafolio/productosMarcas/sherwind/sherwindFondoBlanco.webp" width="620" height="620"
-									alt="山崎 明信" class="imagenBase">
-								<img src="../asset/img/pages/portafolio/productosMarcas/sherwind/sherwindCelular.webp" width="620" height="620"
-									alt="山崎 明信" class="imagenPhone">
+								<img src="../asset/img/pages/portafolio/productosMarcas/sherwind/sherwindFondoBlanco.webp"
+									width="620" height="620" alt="山崎 明信" class="imagenBase">
+								<img src="../asset/img/pages/portafolio/productosMarcas/sherwind/sherwindCelular.webp"
+									width="620" height="620" alt="山崎 明信" class="imagenPhone">
 							</div>
 
 						</div>
 						<div class="single-contents_inner _pc-w780 _sp-pd20">
-							<section class="single-contents-item borderRadius borderColor" data-pararax01 data-pararax01-opacity01="0">
+							<section class="single-contents-item borderRadius borderColor" data-pararax01
+								data-pararax01-opacity01="0">
 
 								<p class="tag _f-futura_d">
 									Caso Éxito
@@ -394,15 +400,16 @@
 
 							</div>
 							<div class="single-contents-header-img of">
-								<img src="../asset/img/pages/portafolio/productosMarcas/torrijos/torrijosFondoBlanco.webp" width="620" height="620"
-									alt="山崎 明信" class="imagenBase">
-								<img src="../asset/img/pages/portafolio/productosMarcas/torrijos/torrijosCelular.webp" width="620" height="620"
-									alt="山崎 明信" class="imagenPhone">
+								<img src="../asset/img/pages/portafolio/productosMarcas/torrijos/torrijosFondoBlanco.webp"
+									width="620" height="620" alt="山崎 明信" class="imagenBase">
+								<img src="../asset/img/pages/portafolio/productosMarcas/torrijos/torrijosCelular.webp"
+									width="620" height="620" alt="山崎 明信" class="imagenPhone">
 							</div>
 
 						</div>
 						<div class="single-contents_inner _pc-w780 _sp-pd20">
-							<section class="single-contents-item borderRadius borderColor" data-pararax01 data-pararax01-opacity01="0">
+							<section class="single-contents-item borderRadius borderColor" data-pararax01
+								data-pararax01-opacity01="0">
 
 								<p class="tag _f-futura_d">
 									Caso Éxito
@@ -446,15 +453,16 @@
 
 							</div>
 							<div class="single-contents-header-img of">
-								<img src="../asset/img/pages/portafolio/productosMarcas/villanova/villanovaFondoBlanco.webp" width="620" height="620"
-									alt="山崎 明信" class="imagenBase">
-								<img src="../asset/img/pages/portafolio/productosMarcas/villanova/villanovaCelulares.webp" width="620" height="620"
-									alt="山崎 明信" class="imagenPhone">
+								<img src="../asset/img/pages/portafolio/productosMarcas/villanova/villanovaFondoBlanco.webp"
+									width="620" height="620" alt="山崎 明信" class="imagenBase">
+								<img src="../asset/img/pages/portafolio/productosMarcas/villanova/villanovaCelulares.webp"
+									width="620" height="620" alt="山崎 明信" class="imagenPhone">
 							</div>
 
 						</div>
 						<div class="single-contents_inner _pc-w780 _sp-pd20">
-							<section class="single-contents-item borderRadius borderColor" data-pararax01 data-pararax01-opacity01="0">
+							<section class="single-contents-item borderRadius borderColor" data-pararax01
+								data-pararax01-opacity01="0">
 
 								<p class="tag _f-futura_d">
 									Caso Éxito
@@ -508,8 +516,8 @@
 							<a href="#PostList" class="_link-block01" data-pararax01 id="opcion2">
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/portafolio/productosMarcas/alphine/alphineZoomIn.webp" width="620"
-										height="620" alt="佐川 環" loading="lazy">
+									<img src="../asset/img/pages/portafolio/productosMarcas/alphine/alphineZoomIn.webp"
+										width="620" height="620" alt="佐川 環" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span01">
@@ -527,8 +535,8 @@
 							<a href="#PostList" class="_link-block01" data-pararax01 id="opcion3">
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/portafolio/productosMarcas/data/datAlphine.webp" width="620"
-										height="620" alt="佐川 環" loading="lazy">
+									<img src="../asset/img/pages/portafolio/productosMarcas/data/datAlphine.webp"
+										width="620" height="620" alt="佐川 環" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span01">
@@ -546,8 +554,8 @@
 							<a href="#PostList" class="_link-block01" data-pararax01 id="opcion4">
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/portafolio/productosMarcas/aphodite/aphrodite.webp" width="620"
-										height="620" alt="佐川 環" loading="lazy">
+									<img src="../asset/img/pages/portafolio/productosMarcas/aphodite/aphrodite.webp"
+										width="620" height="620" alt="佐川 環" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span01">
@@ -565,8 +573,8 @@
 							<a href="#PostList" class="_link-block01" data-pararax01 id="opcion5">
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/portafolio/productosMarcas/valdepepenas/valdepenas.webp" width="620"
-										height="620" alt="佐川 環" loading="lazy">
+									<img src="../asset/img/pages/portafolio/productosMarcas/valdepepenas/valdepenas.webp"
+										width="620" height="620" alt="佐川 環" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span01">
@@ -584,8 +592,8 @@
 							<a href="#PostList" class="_link-block01" data-pararax01 id="opcion6">
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/portafolio/productosMarcas/sherwind/sherwind.webp" width="620"
-										height="620" alt="佐川 環" loading="lazy">
+									<img src="../asset/img/pages/portafolio/productosMarcas/sherwind/sherwind.webp"
+										width="620" height="620" alt="佐川 環" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span01">
@@ -603,8 +611,8 @@
 							<a href="#PostList" class="_link-block01" data-pararax01 id="opcion7">
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/portafolio/productosMarcas/torrijos/torrijos.webp" width="620"
-										height="620" alt="佐川 環" loading="lazy">
+									<img src="../asset/img/pages/portafolio/productosMarcas/torrijos/torrijos.webp"
+										width="620" height="620" alt="佐川 環" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span01">
@@ -622,8 +630,8 @@
 							<a href="#PostList" class="_link-block01" data-pararax01 id="opcion8">
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/portafolio/productosMarcas/villanova/villanova.webp" width="620"
-										height="620" alt="佐川 環" loading="lazy">
+									<img src="../asset/img/pages/portafolio/productosMarcas/villanova/villanova.webp"
+										width="620" height="620" alt="佐川 環" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span01">

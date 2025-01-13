@@ -3,15 +3,15 @@
 
 <head>
 	<!-- Meta -->
-	<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+	<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 	<meta charset="utf-8">
 	<meta name="description"
-		content="Equipo global de científicos de datos y desarrolladores de software que utilizan IA para transformar tu industria.">
-	<meta property="og:title" content="Teseo DataLab | Análisis de Datos">
+		content="Transformamos datos en estrategias inteligentes con IA. Servicios innovadores de análisis y desarrollo para maximizar el impacto empresarial.">
+	<meta property="og:title" content="Teseo DataLab | Soluciones Basadas en Inteligencia Artificial">
 	<meta property="og:description"
-		content="Equipo global de científicos de datos y desarrolladores de software que utilizan IA para transformar tu industria.">
-	<meta property="og:url" content="https://teseo.com/index.php">
-	<meta property="og:image" content="https://teseo.com/assets/img/ogimage_index.png">
+		content="En Teseo DataLab, usamos IA y análisis avanzado para transformar datos en resultados estratégicos que potencian tu industria.">
+	<meta property="og:url" content="https://teseo.com/">
+	<meta property="og:image" content="https://teseo.com/assets/img/repetidas/logos/teceo.webp">
 	<meta name="twitter:card" content="summary">
 	<meta name="viewport" content="width=device-width,viewport-fit=cover">
 	<meta name="format-detection" content="telephone=no, email=no, address=no">
@@ -25,10 +25,10 @@
 	<link href="./asset/css/carucel.css" rel="stylesheet">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@3.6.9/dist/css/splide.min.css">
-	<link rel="canonical" href="index.php">
+	<link rel="canonical" href="https://teseo.com/">
 
-	<link rel="icon" href="./asset/img/repetidas/logos/fotoDePerfil1.jpg">
-	<title>Teseo & Data</title>
+	<link rel="icon" href="./asset/img/repetidas/logos/teceo.jpg">
+	<title>Teseo DataLab | Soluciones Basadas en Inteligencia Artificial</title>
 </head>
 
 <body id="Pagetop" class="page_top __opening">
@@ -39,7 +39,7 @@
 		<div class="opening" aria-hidden="true">
 			<div class="opening-imgs">
 				<div class="img">
-					<img src="./asset/img/repetidas/logos/logoBlanco.webp" alt="FULLCOMMISSION" class="imagenTeceo">
+					<img src="./asset/img/repetidas/logos/logoBlanco.webp" alt="Teseo" class="imagenTeceo">
 				</div>
 			</div>
 		</div>
@@ -47,7 +47,6 @@
 		<div class="page_container -top">
 
 			<div class="imagenBG">
-
 				<div class="top-mainvisual _pc-pd40 _sp-pd20" data-pararax01>
 
 					<div class="mainvisual-catch">
@@ -85,11 +84,11 @@
 			<section class="top-projects">
 
 				<article class="project">
-					<a href="./pages/portafolio/portafolio.php" class="_link-block01 _pc-pd40" data-pararax01>
+					<a href="./pages/portafolio.php" class="_link-block01 _pc-pd40" data-pararax01>
 						<div class="project-img of _link-img01 __inview-img01 __inview-img01" data-pararax01-img01="0">
 							<picture>
-								<source srcset="./asset/img/pages/index/teseoFondo.jpg" width="750"
-									height="500" media="(max-width:640px)">
+								<source srcset="./asset/img/pages/index/teseoFondo.jpg" width="750" height="500"
+									media="(max-width:640px)">
 								<img src="./asset/img/pages/index/teseoFondo.jpg" width="2560" height="1212"
 									alt="TentoTen 07 Puerto Vallarta" loading="lazy">
 							</picture>
@@ -123,7 +122,7 @@
 									</span>
 								</p>
 							</div>
-							<button onclick="window.location.href='./pages/portafolio/portafolio.php'"
+							<button onclick="window.location.href='./pages/portafolio.php'"
 								class="text-category _link-text01 button-action" data-pararax01-text01="1.0">
 								<span class="_link-span02">
 									Conoce cómo trabajamos

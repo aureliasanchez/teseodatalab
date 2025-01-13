@@ -1,22 +1,21 @@
 <!DOCTYPE HTML>
 <html lang="ja" class=" os-win not-safari not-chrome not-edge not-ie not-googlebot addPrintMessage">
 
-
 <head>
 	<!-- Meta -->
-	<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+	<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 	<meta charset="utf-8">
 	<meta name="description"
 		content="Conoce a Teseo Data Lab, nuestra misión, visión y valores. Descubre cómo transformamos datos en estrategias inteligentes para potenciar resultados y minimizar riesgos.">
-	<meta property="og:title" content="Teseo Data Lab | Nosotros">
+	<meta property="og:title" content="Teseo Data Lab | Misión, Visión y Valores">
 	<meta property="og:description"
-		content="Conoce a Teseo Data Lab, nuestra misión, visión y valores. Descubre cómo transformamos datos en estrategias inteligentes para potenciar resultados y minimizar riesgos.">
-	<meta property="og:url" content="https://teseo.com/nosotros.php">
-	<meta property="og:image" content="https://teseo.com/assets/img/ogimage_nosotros.png">
+		content="Explora cómo Teseo Data Lab transforma datos en estrategias inteligentes con inteligencia artificial y modelos predictivos personalizados.">
+	<meta property="og:url" content="https://teseo.com/pages/nosotros.php">
+	<meta property="og:image" content="https://teseo.com/assets/img/repetidas/logos/teceo.webp">
 	<meta name="keywords"
 		content="Teseo Data Lab, misión, visión, valores, estrategias basadas en datos, inteligencia artificial, modelos predictivos, soluciones personalizadas">
 	<meta name="author" content="Teseo Data Lab">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Meta viewport para diseño responsivo -->
+	<meta name="viewport" content="width=device-width,viewport-fit=cover">
 
 	<!-- Link -->
 	<link href="../asset/css/common1571.css" rel="stylesheet">
@@ -26,10 +25,10 @@
 	<link href="../asset/css/carucel.css" rel="stylesheet">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@3.6.9/dist/css/splide.min.css">
-	<link rel="canonical" href="./nosotros.php">
+	<link rel="canonical" href="https://teseo.com/pages/nosotros.php">
 
-	<link rel="icon" href="../asset/img/repetidas/logos/fotoDePerfil1.jpg">
-	<title>Teseo & Data | Nosotros</title>
+	<link rel="icon" href="../asset/img/repetidas/logos/teceo.jpg">
+	<title>Teseo Data Lab | Misión, Visión y Valores</title>
 </head>
 
 <body id="Pagetop" class="page_about">

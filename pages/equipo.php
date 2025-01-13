@@ -7,11 +7,11 @@
 	<meta charset="utf-8">
 	<meta name="description"
 		content="Conoce al equipo de Teseo, un grupo de expertos en datos y desarrollo de software dedicados a transformar industrias con inteligencia artificial.">
-	<meta property="og:title" content="Teseo & Data | Nuestro Equipo">
+	<meta property="og:title" content="Teseo Data Lab | Nuestro Equipo de Expertos">
 	<meta property="og:description"
-		content="Conoce al equipo de Teseo, un grupo de expertos en datos y desarrollo de software dedicados a transformar industrias con inteligencia artificial.">
-	<meta property="og:url" content="https://teseo.com/equipo.php">
-	<meta property="og:image" content="https://teseo.com/assets/img/ogimage_equipo.png">
+		content="Descubre al equipo de Teseo Data Lab, líderes en análisis de datos, inteligencia artificial y desarrollo de soluciones innovadoras para transformar negocios.">
+	<meta property="og:url" content="https://teseo.com/pages/equipo.php">
+	<meta property="og:image" content="https://teseo.com/assets/img/repetidas/logos/teceo.webp">
 	<meta name="twitter:card" content="summary">
 	<meta name="viewport" content="width=device-width,viewport-fit=cover">
 	<meta name="format-detection" content="telephone=no, email=no, address=no">
@@ -25,10 +25,10 @@
 	<link href="../asset/css/menuOpciones.css" rel="stylesheet">
 	<link href="../asset/css/teceo.css" rel="stylesheet">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-	<link rel="canonical" href="./equipo.php">
+	<link rel="canonical" href="https://teseo.com/pages/equipo.php">
 
-	<link rel="icon" href="../asset/img/repetidas/logos/fotoDePerfil1.jpg">
-	<title>Teseo & Data | Equipo</title>
+	<link rel="icon" href="../asset/img/repetidas/logos/teceo.jpg">
+	<title>Teseo Data Lab | Nuestro Equipo de Expertos</title>
 </head>
 
 <body id="Pagetop" class="page_people">
