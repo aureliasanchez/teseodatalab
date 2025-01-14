@@ -73,7 +73,7 @@
 							<p class="text">
 								Nuestra visión es ser una empresa mexicana en constante evolución, iteración y adopción
 								de tecnologías de clase mundial. Nos enfocamos en desarrollar soluciones únicas e
-								innovadoras que respondan a las necesidades cambiantes del mercado, liderando con
+								inovadoras que respondan a las necesidades cambiantes del mercado, liderando con
 								estrategias disruptivas y manteniendo un compromiso continuo con la transformación
 								empresarial sostenible.
 							</p>
@@ -100,29 +100,35 @@
 										<i class="fas fa-lightbulb"></i> Innovación
 									</h2>
 									<p class="text">"Adoptamos tecnologías avanzadas para diseñar estrategias
-										disruptivas."
-									</p>
+										disruptivas."</p>
 								</li>
 								<li class="splide__slide">
-									<h2 class="subtitle">Precisión</h2>
+									<h2 class="subtitle">
+										<i class="fas fa-bullseye"></i> Precisión
+									</h2>
 									<p class="text">"Decisiones informadas gracias a análisis de datos confiables."</p>
 								</li>
 								<li class="splide__slide">
-									<h2 class="subtitle">Colaboración</h2>
+									<h2 class="subtitle">
+										<i class="fas fa-handshake"></i> Colaboración
+									</h2>
 									<p class="text">"Trabajamos como una extensión de tu equipo, priorizando tus
-										objetivos."
-									</p>
+										objetivos."</p>
 								</li>
 								<li class="splide__slide">
-									<h2 class="subtitle">Impacto</h2>
+									<h2 class="subtitle">
+										<i class="fas fa-chart-line"></i> Impacto
+									</h2>
 									<p class="text">"Nos enfocamos en resultados tangibles y sostenibles para tu
-										negocio."
-									</p>
+										negocio."</p>
 								</li>
 								<li class="splide__slide">
-									<h2 class="subtitle">Adaptabilidad</h2>
+									<h2 class="subtitle">
+										<i class="fas fa-sync-alt"></i> Adaptabilidad
+									</h2>
 									<p class="text">"Diseñamos soluciones personalizadas para cada desafío único."</p>
 								</li>
+
 
 							</ul>
 						</div>
@@ -138,7 +144,7 @@
 								Historia
 							</span>
 							<br>
-							Inspirados por la Innovación
+							Inspirados por la Inovación
 						</span>
 					</h1>
 				</div>

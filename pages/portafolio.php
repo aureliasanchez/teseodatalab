@@ -22,6 +22,9 @@
 	<link href="../asset/css/member8984.css" rel="stylesheet">
 	<link href="../asset/css/teceo.css" rel="stylesheet">
 	<link href="../asset/css/menuOpciones.css" rel="stylesheet">
+	<link href="../asset/css/redesSociales.css" rel="stylesheet">
+
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 	<link rel="canonical" href="https://teseo.com/pages/portafolio.php">
 
 	<link rel="icon" href="../asset/img/repetidas/logos/teceo.jpg">
@@ -33,6 +36,17 @@
 
 	<main class="mod_main" role="main">
 		<div class="contentWrap -member _archives">
+
+			<div class="mod-lowerpage-haeder01 _pc-pd40 _sp-pd20" data-pararax01>
+				<h1 class="header-heading _heading01  __inview-text01" data-pararax01-text01="0">
+					<span class="heading-main _f-futura_m _futura-lh1 _futura-nm __inview-span01">
+						Casos de
+						<span class="fontRedIntro2">Éxito</span>
+						que Transforman Negocios
+					</span>
+				</h1>
+			</div>
+
 			<article class="single-contents" data-pararax01>
 
 				<div id="PostList" style="padding-top: 5%;">
@@ -79,11 +93,16 @@
 								<h2 class="heading">
 									Gestor de Interacciones
 								</h2>
-								<p class="description">
+								<p class="description boldFont">
 									Frumentarii es una herramienta que automatiza la gestión de interacciones en
 									WhatsApp,
 									integrando el poder de envíos masivos, registro inteligente de respuestas y chatbots
-									avanzados, integrando toda la información en un CRM centralizado. Este desarrollo
+									avanzados, integrando toda la información en un
+									<span class="fontColorRed paddingFont borderRadius">
+										CRM centralizado.
+									</span>
+									<br>
+									Este desarrollo
 									potencia
 									las soluciones de Teseo al transformar la comunicación en resultados efectivos.
 								</p>
@@ -131,13 +150,18 @@
 								<h2 class="heading">
 									Big Data
 								</h2>
-								<p class="description">
+								<p class="description boldFont">
 									Alpine Habitat, es una plataforma basada en Big Data diseñada para transformar la
 									gestión
-									del mercado inmobiliario. Ofrece análisis en tiempo real, proyecciones precisas y
+									del mercado inmobiliario.
+									<br>
+									Ofrece análisis en tiempo real, proyecciones precisas y
 									herramientas avanzadas que permiten a desarrolladores, inversionistas, constructores
 									y
-									agentes inmobiliarios tomar decisiones estratégicas informadas. Con Alpine Habitat,
+									<span class="fontColorRed paddingFont borderRadius">
+										agentes inmobiliarios
+									</span>
+									tomar decisiones estratégicas informadas. Con Alpine Habitat,
 									es
 									posible identificar tendencias del mercado, optimizar estrategias de desarrollo,
 									maximizar
@@ -189,21 +213,23 @@
 								<h2 class="heading">
 									Analisis de datos
 								</h2>
-								<p class="description">
+								<p class="description boldFont">
 									DatAlpine, producto estrella de Teseo Data Lab, está diseñado para revolucionar el
-									análisis
-									de datos en el sector inmobiliario mediante Big Data, Machine Learning e
-									Inteligencia
-									Artificial. Esta plataforma permite a desarrolladores, agentes y empresas
-									inmobiliarias
+									análisis de datos en el sector inmobiliario mediante
+									<span class="fontColorRed paddingFont borderRadius">
+										Big Data,
+									</span>
+									Machine Learning e Inteligencia Artificial.
+									<br>
+									Esta plataforma permite a desarrolladores, agentes y empresas
+									<span class="fontColorRed paddingFont borderRadius">
+										inmobiliarias
+									</span>
 									tomar decisiones informadas con herramientas como exploradores de propiedades en
-									venta y
-									renta, análisis predictivo y visualización avanzada de datos. Con DatAlpine, los
-									usuarios
-									pueden identificar oportunidades, maximizar rentabilidad, minimizar riesgos y
-									adaptarse
-									rápidamente a cambios del mercado, asegurando una ventaja competitiva en un entorno
-									dinámico.
+									venta y renta, análisis predictivo y visualización avanzada de datos. Con DatAlpine,
+									los usuarios pueden identificar oportunidades, maximizar rentabilidad, minimizar
+									riesgos y adaptarse rápidamente a cambios del mercado, asegurando una ventaja
+									competitiva en un entorno dinámico.
 								</p>
 
 							</section>
@@ -251,21 +277,18 @@
 								<h2 class="heading">
 									Conectar influencers y Marcas
 								</h2>
-								<p class="description">
+								<p class="description boldFont">
 									Aphrodité Media es la plataforma innovadora de Teseo Data Lab diseñada para conectar
-									a
-									influencers con marcas reconocidas. Como parte de nuestro ecosistema, Aphrodité
-									Media
-									potencia el talento de creadores de contenido, ofreciéndoles oportunidades
-									exclusivas para
-									colaborar con marcas líderes del mercado.
-									A través de estrategias basadas en datos, brindamos a los influencers acceso a
-									productos
-									gratuitos, servicios de crecimiento digital, y remuneraciones atractivas, adaptadas
-									a su
-									nivel de influencia. Aphrodité Media redefine la manera en que marcas e influencers
-									trabajan
-									juntos para alcanzar objetivos comunes.
+									a influencers con marcas reconocidas. Como parte de nuestro ecosistema, Aphrodité
+									Media potencia el talento de
+									<span class="fontColorRed paddingFont borderRadius">
+										creadores audiovisuales,
+									</span>
+									ofreciéndoles oportunidades exclusivas para colaborar con marcas líderes del
+									mercado. A través de estrategias basadas en datos, brindamos a los influencers
+									acceso a productos #cccgratuitos, servicios de crecimiento digital, y remuneraciones
+									atractivas, adaptadas a su nivel de influencia. Aphrodité Media redefine la manera
+									en que marcas e influencers trabajan juntos para alcanzar objetivos comunes.
 								</p>
 
 							</section>
@@ -313,12 +336,27 @@
 								<h2 class="heading">
 									Transformación Comercial Inmobiliaria
 								</h2>
-								<p class="description">
+								<p class="description boldFont">
 									A través de análisis de mercado avanzados, estrategias de precios dinámicos y
 									campañas digitales masivas, logramos transformar la estrategia comercial de
-									Inmobiliaria Valdepeñas. Este enfoque permitió aumentar las visitas al desarrollo en
-									un 30% y las ventas en un 25% en tan solo seis meses, optimizando la relación
-									costo-beneficio en la captación de clientes.
+									Inmobiliaria Valdepeñas. Este enfoque permitió aumentar las
+									<span class="fontColorRed paddingFont borderRadius">
+										visitas
+									</span>
+									al desarrollo en un
+									<span class="fontColorRed paddingFont borderRadius">
+										30%
+									</span>
+									y las
+									<span class="fontColorRed paddingFont borderRadius">
+										ventas
+									</span>
+									en un
+									<span class="fontColorRed paddingFont borderRadius">
+										25%
+									</span>
+									en tan solo seis meses, optimizando la relación costo-beneficio en la captación de
+									clientes.
 								</p>
 
 							</section>
@@ -366,12 +404,23 @@
 								<h2 class="heading">
 									Gestión de Datos para la Industria de la Construcción
 								</h2>
-								<p class="description">
+								<p class="description boldFont">
 									Creamos una solución integral basada en scraping avanzado, segmentación precisa y
 									automatización de seguimientos. Esta herramienta permitió a Sherwin Williams México
-									generar más de 40,000 registros en una base de datos confiable, aumentando los leads
-									en un 230% y reduciendo el costo por lead en un 35%. Una transformación estratégica
-									que consolidó su posicionamiento en el sector.
+									generar más de
+									<span class="fontColorRed paddingFont borderRadius">
+										40,000
+									</span>
+									registros en una base de datos confiable, aumentando los leads
+									en un
+									<span class="fontColorRed paddingFont borderRadius">
+										230%
+									</span>
+									y reduciendo el costo por lead en un
+									<span class="fontColorRed paddingFont borderRadius">
+										35%.
+									</span>
+									Una transformación estratégica que consolidó su posicionamiento en el sector.
 								</p>
 
 							</section>
@@ -419,11 +468,22 @@
 								<h2 class="heading">
 									Estrategias Digitales para Impacto Electoral
 								</h2>
-								<p class="description">
+								<p class="description boldFont">
 									Con segmentación avanzada y estrategias digitales disruptivas, posicionamos al
-									candidato como líder entre los votantes jóvenes. La implementación de pruebas A/B,
+									candidato como líder entre los votantes jóvenes. La implementación de pruebas
+									<span class="fontColorRed paddingFont borderRadius">
+										A/B,
+									</span>
 									mensajes personalizados y una fuerte presencia en redes sociales incrementaron las
-									interacciones digitales en un 310%, capturando más del 40% del segmento juvenil
+									interacciones digitales en un
+									<span class="fontColorRed paddingFont borderRadius">
+										310%,
+									</span>
+									capturando más del
+									<span class="fontColorRed paddingFont borderRadius">
+										40%
+									</span>
+									del segmento juvenil
 									objetivo y redefiniendo su alcance electoral.
 								</p>
 
@@ -472,12 +532,26 @@
 								<h2 class="heading">
 									Posicionamiento Digital y Expansión Local
 								</h2>
-								<p class="description">
+								<p class="description boldFont">
 									Impulsamos la presencia digital de Helados Villanova con un enfoque data-driven que
 									incluyó campañas automatizadas de WhatsApp, mailing y bots en redes sociales. Los
-									resultados fueron extraordinarios: un aumento del 700% en búsquedas relacionadas, un
-									20% más de seguidores en redes sociales y un crecimiento del 25% en su base de datos
-									de clientes potenciales, consolidando su posición en el mercado.
+									resultados fueron extraordinarios: un
+									<span class="fontColorRed paddingFont borderRadius">
+										aumento
+									</span>
+									del
+									<span class="fontColorRed paddingFont borderRadius">
+										700%
+									</span>
+									en búsquedas relacionadas, un
+									<span class="fontColorRed paddingFont borderRadius">
+										20%
+									</span>
+									más de seguidores en redes sociales y un crecimiento del
+									<span class="fontColorRed paddingFont borderRadius">
+										25%
+									</span>
+									en su base de datos de clientes potenciales, consolidando su posición en el mercado.
 								</p>
 
 							</section>
@@ -485,12 +559,13 @@
 					</div>
 
 				</div>
+
 				<div class="single-other _pc-w1160 _sp-pd20">
 
 					<h4 class="member_list-header __inview-text01 marginTopBottom" data-pararax01
 						data-pararax01-text01=".4">
 						<span class="heading-main _f-futura_d _futura-lh1 _futura-nm __inview-span01">
-							PRODUCTOS Y CASOS DE ÉXITO
+							PRODUCTOS
 						</span>
 					</h4>
 					<div class="archives_wrap">
@@ -571,6 +646,21 @@
 								</p>
 							</a>
 						</article>
+
+					</div>
+
+				</div>
+
+				<div class="single-other _pc-w1160 _sp-pd20">
+
+					<h4 class="member_list-header __inview-text01 marginTopBottom" data-pararax01
+						data-pararax01-text01=".4">
+						<span class="heading-main _f-futura_d _futura-lh1 _futura-nm __inview-span01">
+							CASOS DE ÉXITO
+						</span>
+					</h4>
+					<div class="archives_wrap">
+
 						<article class="archive-article d-allways">
 							<a href="#PostList" class="_link-block01" data-pararax01 id="opcion5">
 								<div class="article-img link-img of _link-img01 __inview-img01"
@@ -653,6 +743,13 @@
 				</div>
 
 			</article>
+
+			<div class="contenedorButton">
+				<a href="./contacto.php" class="centerButton borderRadius">
+					Contáctanos
+				</a>
+			</div>
+
 		</div>
 	</main>
 

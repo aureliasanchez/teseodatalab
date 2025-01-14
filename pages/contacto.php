@@ -41,7 +41,7 @@
 				<div class="content-form_wrap _sp-pd15">
 
 					<h3 class="form-heading">
-						Formulario
+						Hablemos Hoy
 					</h3>
 
 					<form id="Form" autocomplete="on" enctype="text/plain" name="form" method="post"
@@ -181,6 +181,7 @@
 									Enviar
 								</span>
 								<input type="hidden" name="mode" value="confirm">
+							</button>
 						</div>
 
 					</form>

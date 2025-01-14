@@ -277,8 +277,8 @@
 							términos y sujetos a las excepciones establecidas en la Ley y cualquier otra disposición
 							legal aplicable. Los derechos antes mencionados podrán ejercerse enviando a través de
 							nuestra página de Internet 
-							<a href="../index.php" class="cta-link fontRed">
-								https://teseodata.com/ 
+							<a href="../index.php" class="cta-link">
+								https://teseo.com/ 
 							</a>
 							el Formulario de Uso Múltiple para el
 							Ejercicio de Derechos ARCO o para la Revocación de Consentimiento que ahí se encuentra,
@@ -291,7 +291,7 @@
 							personales para los efectos de las finalidades descritas en el apartado 2 de las sección
 							Finalidades del Tratamiento de Datos Personales, enviando una correo electrónico a la
 							siguiente dirección electrónica 
-							<a href="../index.php" class="cta-link fontRed">
+							<a href="https://mail.google.com/mail/?view=cm&fs=1&to=contactoteseodata@gmail.com" target="_blank" class="cta-link">
 								contactoteseodata@gmail.com.
 							</a>
 						</span>
@@ -311,9 +311,16 @@
 							para adaptarlo a las reformas legales que entren en vigor, sin que esto implique la
 							modificación de las finalidades de la Política de Confidencialidad. Las modificaciones a la
 							Política de Confidencialidad estarán a disposición del Usuario titular de los datos
-							personales en nuestra página de Internet https://teseodata.com/ serán enviadas por correo
+							personales en nuestra página de Internet 
+							<a href="../index.php" target="_blank" class="cta-link">
+								https://teseo.com/ 
+							</a>
+							serán enviadas por correo
 							electrónico al Usuario titular en caso de que lo requiera a TESEO DATA mediante solicitud
-							enviada al correo electrónico contactoteseodata@gmail.com.
+							enviada al correo electrónico 
+							<a href="https://mail.google.com/mail/?view=cm&fs=1&to=contactoteseodata@gmail.com" target="_blank" class="cta-link">
+								contactoteseodata@gmail.com.
+							</a>
 						</span>
 					</span>
 				</h1>
@@ -398,6 +405,7 @@
 	<!-- Script -->
 	<script src="../asset/js/webfont.js" async></script>
 	<script src="../asset/js/common71c5.js" defer></script>
+	<script src="../asset/js/animations.js" defer></script>
 	<script type="application/ld+json"></script>
 	<noscript>
 		<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P9GDZFD" height="0" width="0"
