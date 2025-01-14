@@ -4,7 +4,7 @@
 }
 
 .imagenBG {
-    background-image: url('/asset/img/pages/index/fondo.jpg');
+    background-image: url('/asset/img/repetidas/fondos/hero.webp');
     background-size: cover;
     background-position: center !important;
 }
@@ -22,21 +22,21 @@
 }
 
 .fontRedIntro {
-    color: #eb32ff !important;
+    color: #644db5 !important;
     opacity: 0;
     animation: fadeIn 2s ease forwards;
     animation-delay: 3.5s;
 }
 
 .fontRedIntro2 {
-    color: #eb32ff !important;
+    color: #644db5 !important;
     opacity: 0;
     animation: fadeIn 2s ease forwards;
     animation-delay: 1s;
 }
 
 .fontRed {
-    color: #eb32ff !important;
+    color: #644db5 !important;
     opacity: 0;
 }
 
@@ -290,9 +290,9 @@
 
 .borderColor {
     padding: 20px;
-    border: 1px solid #ddd;
+    border: 1px solid #dcdedf;
     border-radius: 10px;
-    background-color: #f9f9f9;
+    background-color: #dcdedf;
     border: #000 solid 2px;
 }
 

@@ -165,11 +165,12 @@
 				<div class="contents-main">
 					<div class="archives_wrap">
 
-						<article class="archive-article opcion1">
+						<article class="borderColor archive-article opcion1">
 							<div data-pararax01>
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<i class="fas fa-database fa-10x icon-hidden"></i>
+									<img src="../asset/img/pages/servicio/viablilidadDelProyecto.webp" width="400"
+										height="400" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">Viabilidad de Proyectos</span>
@@ -179,11 +180,12 @@
 								</p>
 							</div>
 						</article>
-						<article class="archive-article opcion1">
+						<article class="borderColor archive-article opcion1">
 							<div data-pararax01>
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<i class="fas fa-money-bill fa-10x icon-hidden"></i> <!-- Icono de Font Awesome -->
+									<img src="../asset/img/pages/servicio/analicisFinanciero.webp" width="620"
+										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">Análisis Financiero</span>
@@ -194,11 +196,12 @@
 								</p>
 							</div>
 						</article>
-						<article class="archive-article opcion1">
+						<article class="borderColor archive-article opcion1">
 							<div data-pararax01>
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<i class="fas fa-users fa-10x icon-hidden"></i> <!-- Icono de Font Awesome -->
+									<img src="../asset/img/pages/servicio/SegmentacionDeClientes.webp" width="620"
+										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">Segmentación de Clientes</span>
@@ -209,11 +212,12 @@
 								</p>
 							</div>
 						</article>
-						<article class="archive-article opcion1">
+						<article class="borderColor archive-article opcion1">
 							<div data-pararax01>
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<i class="fas fa-chart-pie fa-10x icon-hidden"></i> <!-- Icono de Font Awesome -->
+									<img src="../asset/img/pages/servicio/estudioDeMercado.webp" width="620"
+										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">Estudios de Mercado</span>
@@ -224,11 +228,12 @@
 								</p>
 							</div>
 						</article>
-						<article class="archive-article opcion2">
+						<article class="borderColor archive-article opcion2">
 							<div data-pararax01>
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<i class="fas fa-cogs fa-10x icon-hidden"></i> <!-- Icono de Font Awesome -->
+									<img src="../asset/img/pages/servicio/diseñoDeProducto.webp" width="620"
+										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">Diseño de Productos</span>
@@ -239,11 +244,12 @@
 								</p>
 							</div>
 						</article>
-						<article class="archive-article opcion2">
+						<article class="borderColor archive-article opcion2">
 							<div data-pararax01>
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<i class="fas fa-arrow-up fa-10x icon-hidden"></i> <!-- Icono de Font Awesome -->
+									<img src="../asset/img/pages/servicio/estrategiaDeExpancion.webp" width="620"
+										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">Estrategias de Expansión</span>
@@ -254,12 +260,12 @@
 								</p>
 							</div>
 						</article>
-						<article class="archive-article opcion2">
+						<article class="borderColor archive-article opcion2">
 							<div data-pararax01>
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<i class="fas fa-map-marker-alt fa-10x icon-hidden"></i>
-									<!-- Icono de Font Awesome -->
+									<img src="../asset/img/pages/servicio/ubicacionEstrategica.webp" width="620"
+										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">Ubicaciones Estratégicas</span>
@@ -269,11 +275,12 @@
 								</p>
 							</div>
 						</article>
-						<article class="archive-article opcion2">
+						<article class="borderColor archive-article opcion2">
 							<div data-pararax01>
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<i class="fas fa-tools fa-10x icon-hidden"></i> <!-- Icono de Font Awesome -->
+									<img src="../asset/img/pages/servicio/mejoraDeProducto.webp" width="620"
+										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">Mejora de Productos</span>
@@ -283,11 +290,12 @@
 								</p>
 							</div>
 						</article>
-						<article class="archive-article opcion3">
+						<article class="borderColor archive-article opcion3">
 							<div data-pararax01>
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<i class="fas fa-desktop fa-10x icon-hidden"></i> <!-- Icono de Font Awesome -->
+									<img src="../asset/img/pages/servicio/planesDigitales.webp" width="620"
+										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">Planes Digitales</span>
@@ -298,11 +306,12 @@
 								</p>
 							</div>
 						</article>
-						<article class="archive-article opcion3">
+						<article class="borderColor archive-article opcion3">
 							<div data-pararax01>
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<i class="fas fa-share-alt fa-10x icon-hidden"></i> <!-- Icono de Font Awesome -->
+									<img src="../asset/img/pages/servicio/gestionDeRedesSociales.webp" width="620"
+										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">Gestión de Redes Sociales</span>
@@ -313,11 +322,12 @@
 								</p>
 							</div>
 						</article>
-						<article class="archive-article opcion3">
+						<article class="borderColor archive-article opcion3">
 							<div data-pararax01>
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<i class="fas fa-search fa-10x icon-hidden"></i> <!-- Icono de Font Awesome -->
+									<img src="../asset/img/pages/servicio/seo.webp" width="620"
+										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">SEO y Anuncios Digitales</span>
@@ -327,11 +337,12 @@
 								</p>
 							</div>
 						</article>
-						<article class="archive-article opcion3">
+						<article class="borderColor archive-article opcion3">
 							<div data-pararax01>
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<i class="fas fa-envelope fa-10x icon-hidden"></i> <!-- Icono de Font Awesome -->
+									<img src="../asset/img/pages/servicio/marketinPorEmail.webp" width="620"
+										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">Marketing por Email</span>
@@ -341,11 +352,12 @@
 								</p>
 							</div>
 						</article>
-						<article class="archive-article opcion4">
+						<article class="borderColor archive-article opcion4">
 							<div data-pararax01>
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<i class="fas fa-database fa-10x icon-hidden"></i> <!-- Icono de Font Awesome -->
+									<img src="../asset/img/pages/servicio/basesDeDatos.webp" width="620"
+										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">Bases de Datos</span>
@@ -355,11 +367,12 @@
 								</p>
 							</div>
 						</article>
-						<article class="archive-article opcion4">
+						<article class="borderColor archive-article opcion4">
 							<div data-pararax01>
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<i class="fas fa-comments fa-10x icon-hidden"></i> <!-- Icono de Font Awesome -->
+									<img src="../asset/img/pages/servicio/wp.webp" width="620"
+										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">Campañas por WhatsApp</span>
@@ -369,12 +382,12 @@
 								</p>
 							</div>
 						</article>
-						<article class="archive-article opcion4">
+						<article class="borderColor archive-article opcion4">
 							<div data-pararax01>
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<i class="fas fa-exchange-alt fa-10x icon-hidden"></i>
-									<!-- Icono de Font Awesome -->
+									<img src="../asset/img/pages/servicio/basesDeDatos.webp" width="620"
+										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">Pruebas A/B</span>
@@ -385,12 +398,13 @@
 								</p>
 							</div>
 						</article>
-						<article class="archive-article opcion5">
+						<article class="borderColor archive-article opcion5">
 							<div data-pararax01>
 
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<i class="fas fa-tachometer-alt fa-10x icon-hidden"></i>
+									<img src="../asset/img/pages/servicio/dashboardsInteractivos.webp" width="620"
+										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
@@ -405,12 +419,13 @@
 
 							</div>
 						</article>
-						<article class="archive-article opcion5">
+						<article class="borderColor archive-article opcion5">
 							<div data-pararax01>
 
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<i class="fas fa-code fa-10x icon-hidden"></i>
+									<img src="../asset/img/pages/servicio/softwarePersonalizado.webp" width="620"
+										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
@@ -425,12 +440,13 @@
 
 							</div>
 						</article>
-						<article class="archive-article opcion5">
+						<article class="borderColor archive-article opcion5">
 							<div data-pararax01>
 
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<i class="fas fa-robot fa-10x icon-hidden"></i>
+									<img src="../asset/img/pages/servicio/automatizaciónInteligente.webp" width="620"
+										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
@@ -445,12 +461,13 @@
 
 							</div>
 						</article>
-						<article class="archive-article opcion6">
+						<article class="borderColor archive-article opcion6">
 							<div data-pararax01>
 
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<i class="fas fa-chart-line fa-10x icon-hidden"></i>
+									<img src="../asset/img/pages/servicio/analisisDeMercado.webp" width="620"
+										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
@@ -465,12 +482,13 @@
 
 							</div>
 						</article>
-						<article class="archive-article opcion6">
+						<article class="borderColor archive-article opcion6">
 							<div data-pararax01>
 
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<i class="fas fa-utensils fa-10x icon-hidden"></i>
+									<img src="../asset/img/pages/servicio/optimizacióndeDeMenu.webp" width="620"
+										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
@@ -485,12 +503,13 @@
 
 							</div>
 						</article>
-						<article class="archive-article opcion6">
+						<article class="borderColor archive-article opcion6">
 							<div data-pararax01>
 
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<i class="fas fa-gift fa-10x icon-hidden"></i>
+									<img src="../asset/img/pages/servicio/zonaEstrategica.webp" width="620"
+										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
@@ -505,12 +524,13 @@
 
 							</div>
 						</article>
-						<article class="archive-article opcion6">
+						<article class="borderColor archive-article opcion6">
 							<div data-pararax01>
 
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<i class="fas fa-dollar-sign fa-10x icon-hidden"></i>
+									<img src="../asset/img/pages/servicio/rentabilidadFinanciera.webp" width="620"
+										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
@@ -525,12 +545,13 @@
 
 							</div>
 						</article>
-						<article class="archive-article opcion6">
+						<article class="borderColor archive-article opcion6">
 							<div data-pararax01>
 
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<i class="fas fa-paint-brush fa-10x icon-hidden"></i>
+									<img src="../asset/img/pages/servicio/tendenciaDeDiseño.webp" width="620"
+										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
@@ -545,12 +566,13 @@
 
 							</div>
 						</article>
-						<article class="archive-article opcion7">
+						<article class="borderColor archive-article opcion7">
 							<div data-pararax01>
 
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<i class="fas fa-tags fa-10x icon-hidden"></i>
+									<img src="../asset/img/pages/servicio/productosRentables.webp" width="620"
+										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
@@ -565,12 +587,13 @@
 
 							</div>
 						</article>
-						<article class="archive-article opcion7">
+						<article class="borderColor archive-article opcion7">
 							<div data-pararax01>
 
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<i class="fas fa-chart-bar fa-10x icon-hidden"></i>
+									<img src="../asset/img/pages/servicio/evaluacionDeInversiones.webp" width="620"
+										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
@@ -585,12 +608,13 @@
 
 							</div>
 						</article>
-						<article class="archive-article opcion7">
+						<article class="borderColor archive-article opcion7">
 							<div data-pararax01>
 
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<i class="fas fa-lightbulb fa-10x icon-hidden"></i>
+									<img src="../asset/img/pages/servicio/proyectoInovador.webp" width="620"
+										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
@@ -605,12 +629,12 @@
 
 							</div>
 						</article>
-						<article class="archive-article opcion7">
+						<article class="borderColor archive-article opcion7">
 							<div data-pararax01>
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<i class="fas fa-line-chart fa-10x icon-hidden"></i>
-									<!-- Icono de Font Awesome relacionado con precios dinámicos -->
+									<img src="../asset/img/pages/servicio/preciosDinamicos.webp" width="620"
+										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
@@ -624,12 +648,12 @@
 								</p>
 							</div>
 						</article>
-						<article class="archive-article opcion7">
+						<article class="borderColor archive-article opcion7">
 							<div data-pararax01>
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<i class="fas fa-thumbs-up fa-10x icon-hidden"></i>
-									<!-- Icono de Font Awesome relacionado con mejora de valor -->
+									<img src="../asset/img/pages/servicio/mejoraDeValor.webp" width="620"
+										height="620" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
@@ -639,25 +663,6 @@
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">
 										"Ajustes enfocados en rentabilidad máxima."
-									</span>
-								</p>
-							</div>
-						</article>
-						<article class="archive-article opcion7">
-							<div data-pararax01>
-								<div class="article-img link-img of _link-img01 __inview-img01"
-									data-pararax01-img01="0">
-									<i class="fas fa-balance-scale fa-10x icon-hidden"></i>
-									<!-- Icono de Font Awesome relacionado con evaluación de inversiones -->
-								</div>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">
-										Evaluación de Inversiones
-									</span>
-								</p>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										"Analiza riesgos y oportunidades financieras."
 									</span>
 								</p>
 							</div>

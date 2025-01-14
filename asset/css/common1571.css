@@ -74,7 +74,7 @@ body {
     margin: 0;
     padding: 0;
     font-size: .11rem;
-    background-color: #f0efe9
+    background-color: #cecfd3
 }
 
 .not-googlebot body:after {
@@ -362,6 +362,11 @@ select::-ms-expand {
     position: absolute;
     top: 0;
     left: 0
+}
+
+.opcionesImagenes{
+    width: auto !important;
+    height: auto !important;
 }
 
 ._line-clamp {

@@ -36,7 +36,7 @@
 		<section class="page_container -about">
 
 			<div class="about-header _pc-flex-column _flex-jc-start _pc-pd40 _sp-pd20" data-pararax01>
-				<h1 class="header-heading _heading01  __inview-text01" data-pararax01-text01="0">
+				<h1 class="header-heading _heading01  __inview-text01 borderColor" data-pararax01-text01="0">
 					<span class="heading-main _f-futura_m _futura-lh1 __inview-span01">
 						Políticas de privacidad
 					</span>
@@ -97,7 +97,7 @@
 			</div>
 
 			<div class="about-header _pc-flex-column _flex-jc-start _pc-pd40 _sp-pd20" data-pararax01>
-				<h1 class="header-heading _heading01  __inview-text01" data-pararax01-text01="0">
+				<h1 class="header-heading _heading01  __inview-text01 borderColor" data-pararax01-text01="0">
 					<span class="heading-main _f-futura_m _futura-lh1 __inview-span01">
 						DATOS PERSONALES
 					</span>
@@ -151,7 +151,7 @@
 			</div>
 
 			<div class="about-header _pc-flex-column _flex-jc-start _pc-pd40 _sp-pd20" data-pararax01>
-				<h1 class="header-heading _heading01  __inview-text01" data-pararax01-text01="0">
+				<h1 class="header-heading _heading01  __inview-text01 borderColor" data-pararax01-text01="0">
 					<span class="heading-main _f-futura_m _futura-lh1 __inview-span01">
 						FINALIDADES DEL TRATAMIENTO DE DATOS PERSONALES
 					</span>
@@ -199,7 +199,7 @@
 			</div>
 
 			<div class="about-header _pc-flex-column _flex-jc-start _pc-pd40 _sp-pd20" data-pararax01>
-				<h1 class="header-heading _heading01  __inview-text01" data-pararax01-text01="0">
+				<h1 class="header-heading _heading01  __inview-text01 borderColor" data-pararax01-text01="0">
 					<span class="heading-main _f-futura_m _futura-lh1 __inview-span01">
 						TRATAMIENTO DE DATOS PERSONALES
 					</span>
@@ -228,7 +228,7 @@
 			</div>
 
 			<div class="about-header _pc-flex-column _flex-jc-start _pc-pd40 _sp-pd20" data-pararax01>
-				<h1 class="header-heading _heading01  __inview-text01" data-pararax01-text01="0">
+				<h1 class="header-heading _heading01  __inview-text01 borderColor" data-pararax01-text01="0">
 					<span class="heading-main _f-futura_m _futura-lh1 __inview-span01">
 						TRANSFERENCIA DE DATOS PERSONALES
 					</span>
@@ -244,11 +244,11 @@
 			</div>
 
 			<div class="about-header _pc-flex-column _flex-jc-start _pc-pd40 _sp-pd20" data-pararax01>
-				<h1 class="header-heading _heading01  __inview-text01" data-pararax01-text01="0">
+				<h1 class="header-heading _heading01  __inview-text01 borderColor" data-pararax01-text01="0">
 					<span class="heading-main _f-futura_m _futura-lh1 __inview-span01">
 						MEDIDAS DE SEGURIDAD PARA PROTECCIÓN DE DATOS PERSONALES
 					</span>
-					<span class="heading-sub __inview-span01">
+					<span class="heading-sub __inview-span01 ">
 						<span>
 							En atención a la responsabilidad que deriva del Tratamiento de datos personales, TESEO DATA
 							ha dispuesto y continuará implementando medidas administrativas, técnicas y físicas conforme
@@ -266,7 +266,7 @@
 			</div>
 
 			<div class="about-header _pc-flex-column _flex-jc-start _pc-pd40 _sp-pd20" data-pararax01>
-				<h1 class="header-heading _heading01  __inview-text01" data-pararax01-text01="0">
+				<h1 class="header-heading _heading01  __inview-text01 borderColor" data-pararax01-text01="0">
 					<span class="heading-main _f-futura_m _futura-lh1 __inview-span01">
 						DERECHOS DEL USUARIO TITULAR DE DATOS PERSONALES
 					</span>
@@ -300,7 +300,7 @@
 			</div>
 
 			<div class="about-header _pc-flex-column _flex-jc-start _pc-pd40 _sp-pd20" data-pararax01>
-				<h1 class="header-heading _heading01  __inview-text01" data-pararax01-text01="0">
+				<h1 class="header-heading _heading01  __inview-text01 borderColor" data-pararax01-text01="0">
 					<span class="heading-main _f-futura_m _futura-lh1 __inview-span01">
 						MODIFICACIONES DEL AVISO
 					</span>
@@ -327,7 +327,7 @@
 			</div>
 
 			<div class="about-header _pc-flex-column _flex-jc-start _pc-pd40 _sp-pd20" data-pararax01>
-				<h1 class="header-heading _heading01  __inview-text01" data-pararax01-text01="0">
+				<h1 class="header-heading _heading01  __inview-text01 borderColor" data-pararax01-text01="0">
 					<span class="heading-main _f-futura_m _futura-lh1 __inview-span01">
 						CONSENTIMIENTO DEL USUARIO TITULAR DE LOS DATOS PERSONALES
 					</span>
@@ -344,7 +344,7 @@
 			</div>
 
 			<div class="about-header _pc-flex-column _flex-jc-start _pc-pd40 _sp-pd20" data-pararax01>
-				<h1 class="header-heading _heading01  __inview-text01" data-pararax01-text01="0">
+				<h1 class="header-heading _heading01  __inview-text01 borderColor" data-pararax01-text01="0">
 					<span class="heading-main _f-futura_m _futura-lh1 __inview-span01">
 						REVOCACIÓN DEL CONSENTIMIENTO DEL USUARIO TITULAR DE LOS DATOS PERSONALES
 					</span>
@@ -362,7 +362,7 @@
 			</div>
 
 			<div class="about-header _pc-flex-column _flex-jc-start _pc-pd40 _sp-pd20" data-pararax01>
-				<h1 class="header-heading _heading01  __inview-text01" data-pararax01-text01="0">
+				<h1 class="header-heading _heading01  __inview-text01 borderColor" data-pararax01-text01="0">
 					<span class="heading-main _f-futura_m _futura-lh1 __inview-span01">
 						LIMITACIÓN AL TRATAMIENTO DE DATOS Y REVOCACIÓN DEL CONSENTIMIENTO
 					</span>
@@ -382,7 +382,7 @@
 			</div>
 
 			<div class="about-header _pc-flex-column _flex-jc-start _pc-pd40 _sp-pd20" data-pararax01>
-				<h1 class="header-heading _heading01  __inview-text01" data-pararax01-text01="0">
+				<h1 class="header-heading _heading01  __inview-text01 borderColor" data-pararax01-text01="0">
 					<span class="heading-main _f-futura_m _futura-lh1 __inview-span01">
 						LEGISLACIÓN APLICABLE
 					</span>

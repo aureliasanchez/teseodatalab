@@ -148,12 +148,12 @@
 				<div class="contents-main">
 					<div class="archives_wrap">
 
-						<article class="archive-article opcion4">
+						<article class="borderColor archive-article opcion4">
 							<div data-pararax01>
 
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/equipo/women.png" width="620" height="620" alt="Daniel"
+									<img src="../asset/img/pages/equipo/mujeres/mujer2.webp" width="620" height="620" alt="Daniel"
 										loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
@@ -169,12 +169,12 @@
 
 							</div>
 						</article>
-						<article class="archive-article opcion4">
+						<article class="borderColor archive-article opcion4">
 							<div data-pararax01>
 
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/equipo/man.png" width="620" height="620" alt="Daniel"
+									<img src="../asset/img/pages/equipo/hombres/men2.webp" width="620" height="620" alt="Daniel"
 										loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
@@ -190,12 +190,12 @@
 
 							</div>
 						</article>
-						<article class="archive-article opcion4">
+						<article class="borderColor archive-article opcion4">
 							<div data-pararax01>
 
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/equipo/man.png" width="620" height="620" alt="Daniel"
+									<img src="../asset/img/pages/equipo/hombres/men2.webp" width="620" height="620" alt="Daniel"
 										loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
@@ -211,12 +211,12 @@
 
 							</div>
 						</article>
-						<article class="archive-article opcion4">
+						<article class="borderColor archive-article opcion4">
 							<div data-pararax01>
 
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/equipo/women.png" width="620" height="620" alt="Daniel"
+									<img src="../asset/img/pages/equipo/mujeres/mujer2.webp" width="620" height="620" alt="Daniel"
 										loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
@@ -232,12 +232,12 @@
 
 							</div>
 						</article>
-						<article class="archive-article opcion4">
+						<article class="borderColor archive-article opcion4">
 							<div data-pararax01>
 
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/equipo/man.png" width="620" height="620" alt="Daniel"
+									<img src="../asset/img/pages/equipo/hombres/men2.webp" width="620" height="620" alt="Daniel"
 										loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
@@ -253,12 +253,12 @@
 
 							</div>
 						</article>
-						<article class="archive-article opcion1">
+						<article class="borderColor archive-article opcion1">
 							<div data-pararax01>
 
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/equipo/man.png" width="620" height="620" alt="Daniel"
+									<img src="../asset/img/pages/equipo/hombres/men2.webp" width="620" height="620" alt="Daniel"
 										loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
@@ -274,12 +274,12 @@
 
 							</div>
 						</article>
-						<article class="archive-article opcion1">
+						<article class="borderColor archive-article opcion1">
 							<div data-pararax01>
 
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/equipo/man.png" width="620" height="620" alt="Daniel"
+									<img src="../asset/img/pages/equipo/hombres/men2.webp" width="620" height="620" alt="Daniel"
 										loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
@@ -295,12 +295,12 @@
 
 							</div>
 						</article>
-						<article class="archive-article opcion1">
+						<article class="borderColor archive-article opcion1">
 							<div data-pararax01>
 
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/equipo/women.png" width="620" height="620" alt="Daniel"
+									<img src="../asset/img/pages/equipo/mujeres/mujer2.webp" width="620" height="620" alt="Daniel"
 										loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
@@ -316,12 +316,12 @@
 
 							</div>
 						</article>
-						<article class="archive-article opcion2">
+						<article class="borderColor archive-article opcion2">
 							<div data-pararax01>
 
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/equipo/women.png" width="620" height="620" alt="Daniel"
+									<img src="../asset/img/pages/equipo/mujeres/mujer2.webp" width="620" height="620" alt="Daniel"
 										loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
@@ -337,12 +337,12 @@
 
 							</div>
 						</article>
-						<article class="archive-article opcion3">
+						<article class="borderColor archive-article opcion3">
 							<div data-pararax01>
 
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/equipo/man.png" width="620" height="620" alt="Daniel"
+									<img src="../asset/img/pages/equipo/hombres/men2.webp" width="620" height="620" alt="Daniel"
 										loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
@@ -358,12 +358,12 @@
 
 							</div>
 						</article>
-						<article class="archive-article opcion3">
+						<article class="borderColor archive-article opcion3">
 							<div data-pararax01>
 
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/equipo/women.png" width="620" height="620" alt="Daniel"
+									<img src="../asset/img/pages/equipo/mujeres/mujer2.webp" width="620" height="620" alt="Daniel"
 										loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
@@ -379,12 +379,12 @@
 
 							</div>
 						</article>
-						<article class="archive-article opcion3">
+						<article class="borderColor archive-article opcion3">
 							<div data-pararax01>
 
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/equipo/women.png" width="620" height="620" alt="Daniel"
+									<img src="../asset/img/pages/equipo/mujeres/mujer2.webp" width="620" height="620" alt="Daniel"
 										loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
@@ -400,12 +400,12 @@
 
 							</div>
 						</article>
-						<article class="archive-article opcion3">
+						<article class="borderColor archive-article opcion3">
 							<div data-pararax01>
 
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/equipo/women.png" width="620" height="620" alt="Daniel"
+									<img src="../asset/img/pages/equipo/mujeres/mujer2.webp" width="620" height="620" alt="Daniel"
 										loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
@@ -421,12 +421,12 @@
 
 							</div>
 						</article>
-						<article class="archive-article opcion3">
+						<article class="borderColor archive-article opcion3">
 							<div data-pararax01>
 
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/equipo/women.png" width="620" height="620" alt="Daniel"
+									<img src="../asset/img/pages/equipo/mujeres/mujer2.webp" width="620" height="620" alt="Daniel"
 										loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
@@ -442,12 +442,12 @@
 
 							</div>
 						</article>
-						<article class="archive-article opcion3">
+						<article class="borderColor archive-article opcion3">
 							<div data-pararax01>
 
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/equipo/man.png" width="620" height="620" alt="Daniel"
+									<img src="../asset/img/pages/equipo/hombres/men2.webp" width="620" height="620" alt="Daniel"
 										loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
@@ -463,12 +463,12 @@
 
 							</div>
 						</article>
-						<article class="archive-article opcion5">
+						<article class="borderColor archive-article opcion5">
 							<div data-pararax01>
 
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/equipo/women.png" width="620" height="620" alt="Daniel"
+									<img src="../asset/img/pages/equipo/mujeres/mujer2.webp" width="620" height="620" alt="Daniel"
 										loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
@@ -484,12 +484,12 @@
 
 							</div>
 						</article>
-						<article class="archive-article opcion5">
+						<article class="borderColor archive-article opcion5">
 							<div data-pararax01>
 
-								<div class="article-img link-img of _link-img01 __inview-img01"
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/equipo/man.png" width="620" height="620" alt="Daniel"
+									<img src="../asset/img/pages/equipo/hombres/men2.webp" width="620" height="620" alt="Daniel"
 										loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
@@ -544,7 +544,7 @@
 							</p>
 							<button onclick="window.location.href='./contacto.php'"
 								class="text-category _link-text01 button-action" data-pararax01-text01="1.0">
-								<span class="_link-span02">
+								<span class="_link-span02 boldFont">
 									Descubre nuestra visión
 								</span>
 							</button>

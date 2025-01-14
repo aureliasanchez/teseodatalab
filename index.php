@@ -135,7 +135,7 @@
 				<div id="Clientes">
 					<div class="mod-lowerpage-haeder01 _pc-pd40 _sp-pd20" data-pararax01>
 						<h1 class="header-heading _heading01  __inview-text01" data-pararax01-text01="0">
-							<span class="heading-main _f-futura_m _futura-lh1 _futura-nm __inview-span01 reacomodoFont">
+							<span class="heading-main _f-futura_m _futura-lh1 _futura-nm __inview-span01 reacomodoFont borderColor">
 								Clientes
 							</span>
 						</h1>
