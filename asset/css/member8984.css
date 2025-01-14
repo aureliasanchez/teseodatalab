@@ -105,7 +105,7 @@
 }
 
 .single-contents-header {
-    background-color: #9f26ad;
+    background-color: #644db5;
     color: #fff;
     position: relative
 }
@@ -290,7 +290,7 @@
     width: fit-content;
     font-size: .26rem;
     color: #fff;
-    background-color: #eb32ff
+    background-color: #644bb5
 }
 
 .post-aside .aside_wrap {
@@ -449,7 +449,7 @@
         content: "";
         width: .8rem;
         height: 100%;
-        background-image: linear-gradient(to right top, #9f26ad 50%, rgba(0, 0, 0, 0) calc(50% + 1px));
+        background-image: linear-gradient(to right top, #644db5 50%, rgba(0, 0, 0, 0) calc(50% + 1px));
         left: -1px;
         position: absolute;
         top: 0
@@ -483,7 +483,7 @@
     }
 
     .single-other .archives_wrap .archive-article {
-        width: calc(25% - .3rem)
+        width: calc(24% - .4rem)
     }
 
     .single-other .archives_wrap .archive-article .article-position {
@@ -537,7 +537,7 @@
     }
 
     .archives_wrap .archive-article {
-        width: calc(50% - .09rem)
+        width: calc(46% - .10rem)
     }
 
     .archives_wrap .article-position {
@@ -547,7 +547,7 @@
 
     .archives_wrap .article-name {
         margin-top: .12rem;
-        font-size: .19rem
+        font-size: .12rem
     }
 
     .archives_wrap .article-en_name {

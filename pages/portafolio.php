@@ -570,7 +570,7 @@
 					</h4>
 					<div class="archives_wrap">
 
-						<article class="archive-article d-allways">
+						<article class="borderColor archive-article d-allways">
 							<a href="#PostList" class="_link-block01" data-pararax01 id="opcion1">
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
@@ -584,12 +584,17 @@
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span01">
-										Gestor de Interacciones
+										Gestión Inteligente de Interacciones
 									</span>
 								</p>
+								<div class="contenedorButton">
+									<div href="#PostList" class="centerButton2 borderRadius">
+										Desplegar
+									</div>
+								</div>
 							</a>
 						</article>
-						<article class="archive-article d-allways">
+						<article class="borderColor archive-article d-allways">
 							<a href="#PostList" class="_link-block01" data-pararax01 id="opcion2">
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
@@ -603,12 +608,17 @@
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span01">
-										Big Data
+										Big Data para Decisiones Estratégicas
 									</span>
 								</p>
+								<div class="contenedorButton">
+									<div href="#PostList" class="centerButton2 borderRadius">
+										Desplegar
+									</div>
+								</div>
 							</a>
 						</article>
-						<article class="archive-article d-allways">
+						<article class="borderColor archive-article d-allways">
 							<a href="#PostList" class="_link-block01" data-pararax01 id="opcion3">
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
@@ -622,12 +632,17 @@
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span01">
-										Analisis de datos
+										Análisis Preciso de Datos Avanzados
 									</span>
 								</p>
+								<div class="contenedorButton">
+									<div href="#PostList" class="centerButton2 borderRadius">
+										Desplegar
+									</div>
+								</div>
 							</a>
 						</article>
-						<article class="archive-article d-allways">
+						<article class="borderColor archive-article d-allways">
 							<a href="#PostList" class="_link-block01" data-pararax01 id="opcion4">
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
@@ -641,9 +656,14 @@
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span01">
-										Conectar influencers y Marcas
+										Vínculo Directo entre Marcas e Influencers
 									</span>
 								</p>
+								<div class="contenedorButton">
+									<div href="#PostList" class="centerButton2 borderRadius">
+										Desplegar
+									</div>
+								</div>
 							</a>
 						</article>
 
@@ -661,7 +681,7 @@
 					</h4>
 					<div class="archives_wrap">
 
-						<article class="archive-article d-allways">
+						<article class="borderColor archive-article d-allways">
 							<a href="#PostList" class="_link-block01" data-pararax01 id="opcion5">
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
@@ -669,18 +689,23 @@
 										width="620" height="620" alt="佐川 環" loading="lazy">
 								</div>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span01">
+									<span class="_link-span01 boldFont">
 										Inmobiliaria Valdepeñas
 									</span>
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span01">
-										Transformación Comercial Inmobiliaria
+										Transformación Comercial del Sector Inmobiliario
 									</span>
 								</p>
+								<div class="contenedorButton">
+									<div href="#PostList" class="centerButton2 borderRadius">
+										Desplegar
+									</div>
+								</div>
 							</a>
 						</article>
-						<article class="archive-article d-allways">
+						<article class="borderColor archive-article d-allways">
 							<a href="#PostList" class="_link-block01" data-pararax01 id="opcion6">
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
@@ -694,12 +719,17 @@
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span01">
-										Gestión de Datos para la Industria de la Construcción
+										Gestión de Datos para la Construcción Moderna
 									</span>
 								</p>
+								<div class="contenedorButton">
+									<div href="#PostList" class="centerButton2 borderRadius">
+										Desplegar
+									</div>
+								</div>
 							</a>
 						</article>
-						<article class="archive-article d-allways">
+						<article class="borderColor archive-article d-allways">
 							<a href="#PostList" class="_link-block01" data-pararax01 id="opcion7">
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
@@ -713,12 +743,17 @@
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span01">
-										Estrategias Digitales para Impacto Electoral
+										Estrategias Digitales de Impacto Electoral
 									</span>
 								</p>
+								<div class="contenedorButton">
+									<div href="#PostList" class="centerButton2 borderRadius">
+										Desplegar
+									</div>
+								</div>
 							</a>
 						</article>
-						<article class="archive-article d-allways">
+						<article class="borderColor archive-article d-allways">
 							<a href="#PostList" class="_link-block01" data-pararax01 id="opcion8">
 								<div class="article-img link-img of _link-img01 __inview-img01"
 									data-pararax01-img01="0">
@@ -732,9 +767,14 @@
 								</p>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span01">
-										Posicionamiento Digital y Expansión Local
+										Posicionamiento Local y Expansión Digital
 									</span>
 								</p>
+								<div class="contenedorButton">
+									<div href="#PostList" class="centerButton2 borderRadius">
+										Desplegar
+									</div>
+								</div>
 							</a>
 						</article>
 

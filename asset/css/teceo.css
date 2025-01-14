@@ -9,8 +9,12 @@
     background-position: center !important;
 }
 
+.margingTop{
+    margin-top: 2% !important;
+}
+
 .padingButton {
-    padding: 1%;
+    padding: 3%;
 }
 
 .fontPurple {
@@ -176,7 +180,7 @@
 /* Estilo para los iconos en las características */
 .feature-icon {
     margin-right: 15px;
-    color: #eb32ff;
+    color: #644bb5;
     font-size: 1.2em;
     width: 25px;
     display: inline-block;
@@ -196,7 +200,7 @@
 
 /* Mantenemos el color de los iconos en rosa */
 .no-touchevents a[href]._link-block01:hover .feature-icon {
-    color: #eb32ff !important;
+    color: #644bb5 !important;
 }
 
 /* Ajustamos el hover del botón dentro delcontenedor */
@@ -263,7 +267,7 @@
 }
 
 .subtitle {
-    color: #eb32ff;
+    color: #644bb5;
     font-size: 1rem;
     /* Tamaño más grande para los subtítulos */
     margin-bottom: 10px;
@@ -290,9 +294,8 @@
 
 .borderColor {
     padding: 20px;
-    border: 1px solid #dcdedf;
     border-radius: 10px;
-    background-color: #dcdedf;
+    background-color: #e3e5e6;
     border: #000 solid 2px;
 }
 
@@ -357,7 +360,7 @@
 }
 
 .cta-link {
-    color: #eb32ff;
+    color: #644bb5;
     text-decoration: none;
     /* Quitar subrayado */
     font-weight: bold;
@@ -383,7 +386,7 @@
 
 .fontColorRed {
     color: #fff;
-    background-color: #eb32ff;
+    background-color: #644bb5;
 }
 
 .contenedorButton {
@@ -394,6 +397,8 @@
     height: auto !important;
     margin: 2% !important;
     padding: 0 !important;
+
+    position: relative;
 }
 
 .centerButton {
@@ -405,9 +410,29 @@
     font-size: .5rem !important;
     font-weight: bold !important;
     transition: background-color 0.3s ease !important;
+
+    
+}
+
+.centerButton2 {
+    text-decoration: none !important;
+    padding: 15px 30px !important;
+    background-color: #644db5 !important;
+    border: 1px solid #fff !important;
+    color: #fff !important;
+    font-size: .2rem !important;
+    font-weight: bold !important;
+    transition: background-color 0.3s ease !important;
+    
 }
 
 .centerButton:hover {
+    background-color: #fff !important;
+    border: 1px solid #000 !important;
+    color: #000 !important;
+}
+
+.centerButton2:hover {
     background-color: #fff !important;
     border: 1px solid #000 !important;
     color: #000 !important;
@@ -418,13 +443,13 @@
         flex-direction: column;
     } */
 
-    .padingButton {
+    /* .padingButton {
         padding: 3%;
-    }
+    } */
 
     .reacomodoFont {
         display: block;
-        font-size: .6rem !important;
+        font-size: .3rem !important;
         position: relative
     }
 }
@@ -466,7 +491,7 @@
     }
 
     .linkRed:hover {
-        background-color: #eb32ff !important;
+        background-color: #644bb5 !important;
         color: #fff !important
     }
 
@@ -485,6 +510,13 @@
 
     .centerButton{
         font-size: .4rem !important;
+    }
+
+    .centerButton2{
+        padding: 10px 20px !important;
+        font-size: .2rem !important;
+
+        display: block;
     }
 
     .title {
@@ -525,6 +557,10 @@
 @media screen and (max-width: 576px) {
     .centerButton{
         font-size: .2rem !important;
+    }
+
+    .centerButton2{
+        font-size: .1rem !important;
     }
     
     .title {

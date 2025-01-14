@@ -71,7 +71,7 @@
 									ayudándote a liderar tu industria con inteligencia artificial y análisis predictivo.
 								</span>
 							</span>
-							<button class="__inview-span01 fontPurpleIntroLink linkPurple padingButton"
+							<button class="__inview-span01 fontPurpleIntroLink linkPurple padingButton margingTop"
 								onclick="window.location.href='./pages/servicio.php'">
 								Explora nuestras soluciones
 							</button>
