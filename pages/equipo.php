@@ -531,9 +531,7 @@
 						<div class="project-text _sp-pd20">
 							<h2 class="text-heading _link-text01" data-pararax01-text01="0.4">
 								<span class="_link-span02" style="text-align: center;">
-									<span class="fontRed">
-										Nuestro propósito nos define
-									</span>
+									Nuestro propósito nos define
 								</span>
 							</h2>
 							<p class="text-client _link-text01" data-pararax01-text01=".7">

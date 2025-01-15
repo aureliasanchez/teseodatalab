@@ -105,7 +105,7 @@
 }
 
 .borderRadius {
-    border-radius: 20px !important;
+    border-radius: 40px !important;
 }
 
 .borderRadiusForm {
@@ -260,10 +260,9 @@
 .vision {
     flex: 1;
     padding: 20px;
-    border: 1px solid #ddd;
+    border: 2px solid #a59f9f;
     border-radius: 10px;
     background-color: #f9f9f9;
-    border: #000 solid 2px;
 }
 
 .subtitle {
@@ -296,7 +295,7 @@
     padding: 20px;
     border-radius: 10px;
     background-color: #e3e5e6;
-    border: #000 solid 2px;
+    border: #a59f9f solid 2px;
 }
 
 .background-image-container {
@@ -436,6 +435,11 @@
     background-color: #fff !important;
     border: 1px solid #000 !important;
     color: #000 !important;
+}
+
+.feature-icon.white {
+    color: #ffffff; /* Define el color blanco */
+    font-size: 2rem; /* Ajusta el tamaño si es necesario */
 }
 
 @media (max-width: 768px) {

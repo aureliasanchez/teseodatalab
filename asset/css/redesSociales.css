@@ -7,6 +7,7 @@
 }
 
 .social-icon-white {
+    display: inline-block;
     color: #fff;
     font-size: 50px;
     text-decoration: none;
@@ -20,5 +21,5 @@
 
 .social-icon-white:hover,
 .social-icon-black:hover {
-    color: #644db5;
+    color: #000;
 }

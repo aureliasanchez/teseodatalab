@@ -56,7 +56,10 @@
 								<span class="__sp-inview-span01">
 									Impulsa tu
 									<span class="fontRedIntro">éxito</span>
-									con análisis de datos
+									<br>
+									con análisis de
+									<br>
+									datos
 								</span>
 							</span>
 						</p>
@@ -66,13 +69,15 @@
 									Transformamos
 									<span class="fontRedIntro">información compleja</span>
 									en
-									<span class="fontRedIntro">estrategias claras,</span>
 									<br>
-									ayudándote a liderar tu industria con inteligencia artificial y análisis predictivo.
+									<span class="fontRedIntro">estrategias claras,</span>
+									ayudándote a liderar tu industria 
+									<br>
+									con inteligencia artificial y análisis predictivo.
 								</span>
 							</span>
 							<button class="__inview-span01 fontPurpleIntroLink linkPurple padingButton margingTop"
-								onclick="window.location.href='./pages/servicio.php'">
+								onclick="window.location.href='./pages/servicio.php'" style="border-radius: 30px;">
 								Explora nuestras soluciones
 							</button>
 						</p>
@@ -85,46 +90,45 @@
 
 				<article class="project">
 					<a href="./pages/portafolio.php" class="_link-block01 _pc-pd40" data-pararax01>
-						<div class="project-img of _link-img01 __inview-img01 __inview-img01" data-pararax01-img01="0">
+						<div class="project-img of _link-img01  __inview-img01" data-pararax01-img01="0">
 							<picture>
-								<source srcset="./asset/img/pages/index/teseoFondo.jpg" width="750" height="500"
+								<source srcset="./asset/img/repetidas/fondos/oscuro.webp" width="750" height="500"
 									media="(max-width:640px)">
-								<img src="./asset/img/pages/index/teseoFondo.jpg" width="2560" height="1212"
+								<img src="./asset/img/repetidas/fondos/oscuro.webp" width="2560" height="1212"
 									alt="TentoTen 07 Puerto Vallarta" loading="lazy">
 							</picture>
 						</div>
 						<div class="project-text _sp-pd20">
-							<h2 class="text-heading _link-text01" data-pararax01-text01="0.4">
+							<h2 class="text-heading " data-pararax01-text01="0.4">
 								<span class="_link-span02">
-									<span class="fontRed">
-										Teseo Data Lab:
-									</span>
+									Teseo Data Lab
+									<br>
 									Donde los datos generan resultados
 								</span>
 							</h2>
 							<div id="listados">
 								<p class="text-client _link-text01" data-pararax01-text01=".7">
 									<span class="_link-span02">
-										<i class="fas fa-chart-line feature-icon fontRed"></i>
+										<i class="fas fa-bullseye"></i>
 										Impacto tangible
 									</span>
 								</p>
 								<p class="text-client _link-text01" data-pararax01-text01=".7">
 									<span class="_link-span02">
-										<i class="fas fa-bullseye feature-icon fontRed"></i>
+										<i class="fas fa-check-circle"></i>
 										Precisión garantizada
 									</span>
 								</p>
 								<p class="text-client _link-text01" data-pararax01-text01=".7">
 									<span class="_link-span02">
-										<i class="fas fa-cogs feature-icon fontRed"></i>
+										<i class="fas fa-cogs"></i>
 										Soluciones personalizadas
 									</span>
 								</p>
 							</div>
 							<button onclick="window.location.href='./pages/portafolio.php'"
 								class="text-category _link-text01 button-action" data-pararax01-text01="1.0">
-								<span class="_link-span02">
+								<span class="_link-span02" style="border-radius: 30px;">
 									Conoce cómo trabajamos
 								</span>
 							</button>
@@ -135,8 +139,12 @@
 				<div id="Clientes">
 					<div class="mod-lowerpage-haeder01 _pc-pd40 _sp-pd20" data-pararax01>
 						<h1 class="header-heading _heading01  __inview-text01" data-pararax01-text01="0">
-							<span class="heading-main _f-futura_m _futura-lh1 _futura-nm __inview-span01 reacomodoFont borderColor">
-								Clientes
+							<span
+								class="heading-main _f-futura_m _futura-lh1 _futura-nm __inview-span01 reacomodoFont ">
+								Casos de 
+								<span style="color: #644db5;">
+									Éxito
+								</span>
 							</span>
 						</h1>
 					</div>
@@ -156,13 +164,13 @@
 										<img src="./asset/img/pages/index/marcas/sherwind.webp">
 									</li>
 									<li class="splide__slide">
-										<img src="./asset/img/pages/index/marcas/ampiPuebla.webp">
+										<img src="./asset/img/pages/index/marcas/ampiPuebla.webp" >
 									</li>
 									<li class="splide__slide">
 										<img src="./asset/img/pages/index/marcas/homia.webp">
 									</li>
 									<li class="splide__slide">
-										<img src="./asset/img/pages/index/marcas/ddci.webp">
+										<img src="./asset/img/pages/index/marcas/ddci.webp" >
 									</li>
 									<li class="splide__slide">
 										<img src="./asset/img/pages/index/marcas/save.webp">

@@ -38,7 +38,7 @@
 
 			<div class="contact-contents _pc-w1160 _sp-pd20" data-pararax01 data-pararax01-opacity01=".4">
 
-				<div class="content-form_wrap _sp-pd15">
+				<div class="content-form_wrap _sp-pd15 borderColor">
 
 					<h3 class="form-heading">
 						Hablemos Hoy

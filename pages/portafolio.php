@@ -84,7 +84,7 @@
 
 						</div>
 						<div class="single-contents_inner _pc-w780 _sp-pd20">
-							<section class="single-contents-item borderRadius borderColor" data-pararax01
+							<section class="single-contents-item borderRadius borderColor" style="text-align: justify;" data-pararax01
 								data-pararax01-opacity01="0">
 
 								<p class="tag _f-futura_d">
@@ -93,7 +93,7 @@
 								<h2 class="heading">
 									Gestor de Interacciones
 								</h2>
-								<p class="description boldFont">
+								<p class="description" style="text-align: justify;">
 									Frumentarii es una herramienta que automatiza la gestión de interacciones en
 									WhatsApp,
 									integrando el poder de envíos masivos, registro inteligente de respuestas y chatbots
@@ -150,7 +150,7 @@
 								<h2 class="heading">
 									Big Data
 								</h2>
-								<p class="description boldFont">
+								<p class="description" style="text-align: justify;">
 									Alpine Habitat, es una plataforma basada en Big Data diseñada para transformar la
 									gestión
 									del mercado inmobiliario.
@@ -213,7 +213,7 @@
 								<h2 class="heading">
 									Analisis de datos
 								</h2>
-								<p class="description boldFont">
+								<p class="description" style="text-align: justify;">
 									DatAlpine, producto estrella de Teseo Data Lab, está diseñado para revolucionar el
 									análisis de datos en el sector inmobiliario mediante
 									<span class="fontColorRed paddingFont borderRadius">
@@ -277,7 +277,7 @@
 								<h2 class="heading">
 									Conectar influencers y Marcas
 								</h2>
-								<p class="description boldFont">
+								<p class="description" style="text-align: justify;">
 									Aphrodité Media es la plataforma innovadora de Teseo Data Lab diseñada para conectar
 									a influencers con marcas reconocidas. Como parte de nuestro ecosistema, Aphrodité
 									Media potencia el talento de
@@ -336,7 +336,7 @@
 								<h2 class="heading">
 									Transformación Comercial Inmobiliaria
 								</h2>
-								<p class="description boldFont">
+								<p class="description" style="text-align: justify;">
 									A través de análisis de mercado avanzados, estrategias de precios dinámicos y
 									campañas digitales masivas, logramos transformar la estrategia comercial de
 									Inmobiliaria Valdepeñas. Este enfoque permitió aumentar las
@@ -404,7 +404,7 @@
 								<h2 class="heading">
 									Gestión de Datos para la Industria de la Construcción
 								</h2>
-								<p class="description boldFont">
+								<p class="description" style="text-align: justify;">
 									Creamos una solución integral basada en scraping avanzado, segmentación precisa y
 									automatización de seguimientos. Esta herramienta permitió a Sherwin Williams México
 									generar más de
@@ -468,7 +468,7 @@
 								<h2 class="heading">
 									Estrategias Digitales para Impacto Electoral
 								</h2>
-								<p class="description boldFont">
+								<p class="description" style="text-align: justify;">
 									Con segmentación avanzada y estrategias digitales disruptivas, posicionamos al
 									candidato como líder entre los votantes jóvenes. La implementación de pruebas
 									<span class="fontColorRed paddingFont borderRadius">
@@ -532,7 +532,7 @@
 								<h2 class="heading">
 									Posicionamiento Digital y Expansión Local
 								</h2>
-								<p class="description boldFont">
+								<p class="description" style="text-align: justify;">
 									Impulsamos la presencia digital de Helados Villanova con un enfoque data-driven que
 									incluyó campañas automatizadas de WhatsApp, mailing y bots en redes sociales. Los
 									resultados fueron extraordinarios: un
@@ -589,7 +589,7 @@
 								</p>
 								<div class="contenedorButton">
 									<div href="#PostList" class="centerButton2 borderRadius">
-										Desplegar
+									Detalles
 									</div>
 								</div>
 							</a>
@@ -613,7 +613,7 @@
 								</p>
 								<div class="contenedorButton">
 									<div href="#PostList" class="centerButton2 borderRadius">
-										Desplegar
+									Detalles
 									</div>
 								</div>
 							</a>
@@ -637,7 +637,7 @@
 								</p>
 								<div class="contenedorButton">
 									<div href="#PostList" class="centerButton2 borderRadius">
-										Desplegar
+									Detalles
 									</div>
 								</div>
 							</a>
@@ -661,7 +661,7 @@
 								</p>
 								<div class="contenedorButton">
 									<div href="#PostList" class="centerButton2 borderRadius">
-										Desplegar
+									Detalles
 									</div>
 								</div>
 							</a>
@@ -700,7 +700,7 @@
 								</p>
 								<div class="contenedorButton">
 									<div href="#PostList" class="centerButton2 borderRadius">
-										Desplegar
+									Detalles
 									</div>
 								</div>
 							</a>
@@ -724,7 +724,7 @@
 								</p>
 								<div class="contenedorButton">
 									<div href="#PostList" class="centerButton2 borderRadius">
-										Desplegar
+										Detalles
 									</div>
 								</div>
 							</a>
@@ -748,7 +748,7 @@
 								</p>
 								<div class="contenedorButton">
 									<div href="#PostList" class="centerButton2 borderRadius">
-										Desplegar
+										Detalles
 									</div>
 								</div>
 							</a>
@@ -772,7 +772,7 @@
 								</p>
 								<div class="contenedorButton">
 									<div href="#PostList" class="centerButton2 borderRadius">
-										Desplegar
+										Detalles
 									</div>
 								</div>
 							</a>

@@ -176,7 +176,7 @@
 									<span class="_link-span03">Viabilidad de Proyectos</span>
 								</p>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">"Analizamos su factibilidad y potencial de éxito."</span>
+									<span class="_link-span03">Analizamos su factibilidad y potencial de éxito.</span>
 								</p>
 							</div>
 						</article>
@@ -191,8 +191,8 @@
 									<span class="_link-span03">Análisis Financiero</span>
 								</p>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">"Decisiones de inversión basadas en análisis
-										detallados."</span>
+									<span class="_link-span03">Decisiones de inversión basadas en análisis
+										detallados.</span>
 								</p>
 							</div>
 						</article>
@@ -207,8 +207,8 @@
 									<span class="_link-span03">Segmentación de Clientes</span>
 								</p>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">"Identifica clientes clave y oportunidades
-										estratégicas."</span>
+									<span class="_link-span03">Identifica clientes clave y oportunidades
+										estratégicas.</span>
 								</p>
 							</div>
 						</article>
@@ -223,8 +223,8 @@
 									<span class="_link-span03">Estudios de Mercado</span>
 								</p>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">"Tendencias, competencia y comportamiento del
-										consumidor."</span>
+									<span class="_link-span03">Tendencias, competencia y comportamiento del
+										consumidor.</span>
 								</p>
 							</div>
 						</article>
@@ -239,8 +239,8 @@
 									<span class="_link-span03">Diseño de Productos</span>
 								</p>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">"Crea soluciones adaptadas a las demandas del
-										mercado."</span>
+									<span class="_link-span03">Crea soluciones adaptadas a las demandas del
+										mercado.</span>
 								</p>
 							</div>
 						</article>
@@ -255,8 +255,8 @@
 									<span class="_link-span03">Estrategias de Expansión</span>
 								</p>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">"Planeamos tu crecimiento territorial o
-										sectorial."</span>
+									<span class="_link-span03">Planeamos tu crecimiento territorial o
+										sectorial.</span>
 								</p>
 							</div>
 						</article>
@@ -271,7 +271,7 @@
 									<span class="_link-span03">Ubicaciones Estratégicas</span>
 								</p>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">"Estudios para elegir los mejores sitios."</span>
+									<span class="_link-span03">Estudios para elegir los mejores sitios.</span>
 								</p>
 							</div>
 						</article>
@@ -286,7 +286,7 @@
 									<span class="_link-span03">Mejora de Productos</span>
 								</p>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">"Maximiza su valor y rentabilidad."</span>
+									<span class="_link-span03">Maximiza su valor y rentabilidad.</span>
 								</p>
 							</div>
 						</article>
@@ -294,15 +294,15 @@
 							<div data-pararax01>
 								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/servicio/planesDigitales.webp" width="620"
-										height="620" alt="Daniel" loading="lazy">
+									<img src="../asset/img/pages/servicio/planesDigitales.webp" width="620" height="620"
+										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">Planes Digitales</span>
 								</p>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">"Diseñamos estrategias completas para el entorno
-										digital."</span>
+									<span class="_link-span03">Diseñamos estrategias completas para el entorno
+										digital.</span>
 								</p>
 							</div>
 						</article>
@@ -317,8 +317,8 @@
 									<span class="_link-span03">Gestión de Redes Sociales</span>
 								</p>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">"Contenido atractivo y administración
-										profesional."</span>
+									<span class="_link-span03">Contenido atractivo y administración
+										profesional.</span>
 								</p>
 							</div>
 						</article>
@@ -326,14 +326,14 @@
 							<div data-pararax01>
 								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/servicio/seo.webp" width="620"
-										height="620" alt="Daniel" loading="lazy">
+									<img src="../asset/img/pages/servicio/seo.webp" width="620" height="620"
+										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">SEO y Anuncios Digitales</span>
 								</p>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">"Optimiza búsquedas y campañas publicitarias."</span>
+									<span class="_link-span03">Optimiza búsquedas y campañas publicitarias.</span>
 								</p>
 							</div>
 						</article>
@@ -348,7 +348,7 @@
 									<span class="_link-span03">Marketing por Email</span>
 								</p>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">"Campañas personalizadas y efectivas."</span>
+									<span class="_link-span03">Campañas personalizadas y efectivas.</span>
 								</p>
 							</div>
 						</article>
@@ -356,14 +356,14 @@
 							<div data-pararax01>
 								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/servicio/basesDeDatos.webp" width="620"
-										height="620" alt="Daniel" loading="lazy">
+									<img src="../asset/img/pages/servicio/basesDeDatos.webp" width="620" height="620"
+										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">Bases de Datos</span>
 								</p>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">"Crea listas segmentadas y verificadas."</span>
+									<span class="_link-span03">Crea listas segmentadas y verificadas.</span>
 								</p>
 							</div>
 						</article>
@@ -371,14 +371,14 @@
 							<div data-pararax01>
 								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/servicio/wp.webp" width="620"
-										height="620" alt="Daniel" loading="lazy">
+									<img src="../asset/img/pages/servicio/wp.webp" width="620" height="620" alt="Daniel"
+										loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">Campañas por WhatsApp</span>
 								</p>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">"Automatización y seguimiento masivo efectivo."</span>
+									<span class="_link-span03">Automatización y seguimiento masivo efectivo.</span>
 								</p>
 							</div>
 						</article>
@@ -386,15 +386,15 @@
 							<div data-pararax01>
 								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/servicio/basesDeDatos.webp" width="620"
-										height="620" alt="Daniel" loading="lazy">
+									<img src="../asset/img/pages/servicio/basesDeDatos.webp" width="620" height="620"
+										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">Pruebas A/B</span>
 								</p>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">"Evalúa la efectividad de estrategias y
-										productos."</span>
+									<span class="_link-span03">Evalúa la efectividad de estrategias y
+										productos.</span>
 								</p>
 							</div>
 						</article>
@@ -413,7 +413,7 @@
 								</p>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">
-										"Tableros operativos para decisiones rápidas."
+										Tableros operativos para decisiones rápidas.
 									</span>
 								</p>
 
@@ -434,7 +434,7 @@
 								</p>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">
-										"Soluciones SaaS adaptadas a tu negocio."
+										Soluciones SaaS adaptadas a tu negocio.
 									</span>
 								</p>
 
@@ -455,7 +455,7 @@
 								</p>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">
-										"Optimiza procesos con tecnología avanzada."
+										Optimiza procesos con tecnología avanzada.
 									</span>
 								</p>
 
@@ -476,7 +476,7 @@
 								</p>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">
-										"Estudios econométricos para decisiones informadas."
+										Estudios econométricos para decisiones informadas.
 									</span>
 								</p>
 
@@ -497,7 +497,7 @@
 								</p>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">
-										"Mejora opciones con análisis de datos."
+										Mejora opciones con análisis de datos.
 									</span>
 								</p>
 
@@ -508,8 +508,8 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/servicio/zonaEstrategica.webp" width="620"
-										height="620" alt="Daniel" loading="lazy">
+									<img src="../asset/img/pages/servicio/zonaEstrategica.webp" width="620" height="620"
+										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
@@ -518,7 +518,7 @@
 								</p>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">
-										"Identifica ubicaciones ideales para proyectos."
+										Identifica ubicaciones ideales para proyectos.
 									</span>
 								</p>
 
@@ -539,7 +539,7 @@
 								</p>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">
-										"Maximiza el retorno de tus inversiones."
+										Maximiza el retorno de tus inversiones.
 									</span>
 								</p>
 
@@ -560,7 +560,7 @@
 								</p>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">
-										"Explora preferencias y estilos clave."
+										Explora preferencias y estilos clave.
 									</span>
 								</p>
 
@@ -581,7 +581,7 @@
 								</p>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">
-										"Diseña soluciones alineadas con el mercado."
+										Diseña soluciones alineadas con el mercado.
 									</span>
 								</p>
 
@@ -602,7 +602,7 @@
 								</p>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">
-										"Analiza riesgos y oportunidades financieras."
+										Analiza riesgos y oportunidades financieras.
 									</span>
 								</p>
 
@@ -623,7 +623,7 @@
 								</p>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">
-										"Crea ideas únicas y rentables."
+										Crea ideas únicas y rentables.
 									</span>
 								</p>
 
@@ -643,7 +643,7 @@
 								</p>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">
-										"Optimiza ingresos con estrategias flexibles."
+										Optimiza ingresos con estrategias flexibles.
 									</span>
 								</p>
 							</div>
@@ -652,8 +652,8 @@
 							<div data-pararax01>
 								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/servicio/mejoraDeValor.webp" width="620"
-										height="620" alt="Daniel" loading="lazy">
+									<img src="../asset/img/pages/servicio/mejoraDeValor.webp" width="620" height="620"
+										alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
@@ -662,7 +662,7 @@
 								</p>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
 									<span class="_link-span03">
-										"Ajustes enfocados en rentabilidad máxima."
+										Ajustes enfocados en rentabilidad máxima.
 									</span>
 								</p>
 							</div>
@@ -684,18 +684,16 @@
 					<a href="./contacto.php" class="_link-block01 _pc-pd40" data-pararax01>
 						<div class="project-img of _link-img01 __inview-img01 __inview-img01" data-pararax01-img01="0">
 							<picture>
-								<source srcset="../asset/img/pages/servicio/fondo.webp" width="750" height="500"
+								<source srcset="../asset/img/repetidas/fondos/cta2.webp" width="750" height="500"
 									media="(max-width:640px)">
-								<img src="../asset/img/pages/servicio/fondo.webp" width="2560" height="1212"
+								<img src="../asset/img/repetidas/fondos/cta2.webp" width="2560" height="1212"
 									alt="TentoTen 07 Puerto Vallarta" loading="lazy">
 							</picture>
 						</div>
 						<div class="project-text _sp-pd20">
 							<h2 class="text-heading _link-text01" data-pararax01-text01="0.4">
-								<span class="_link-span02" style="text-align: center;">
-									<span class="fontRed">
-										Potencia tu negocio con datos.
-									</span>
+								<span class="_link-span02" style="text-align: center !important;">
+									Potencia tu negocio con datos
 								</span>
 							</h2>
 							<p class="text-client _link-text01" data-pararax01-text01=".7">

@@ -232,7 +232,7 @@ textarea {
     font-family: inherit !important;
     appearance: none;
     background: 0 0;
-    /* border: none; */
+    border: none;
     outline: 0;
     margin: 0;
     padding: 0
@@ -1491,7 +1491,7 @@ body.__scrolled .mod-fixed-recruit-link+.mod_toTop_btn {
 .mod_footer {
     padding-top: 1rem;
     padding-bottom: .12rem;
-    background-color: #000;
+    background-color: #644db5;
     color: #fff
 }
 

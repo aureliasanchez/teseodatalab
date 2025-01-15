@@ -99,34 +99,34 @@
 									<h2 class="subtitle">
 										<i class="fas fa-lightbulb"></i> Innovación
 									</h2>
-									<p class="text">"Adoptamos tecnologías avanzadas para diseñar estrategias
-										disruptivas."</p>
+									<p class="text">Adoptamos tecnologías avanzadas para diseñar estrategias
+										disruptivas.</p>
 								</li>
 								<li class="splide__slide">
 									<h2 class="subtitle">
 										<i class="fas fa-bullseye"></i> Precisión
 									</h2>
-									<p class="text">"Decisiones informadas gracias a análisis de datos confiables."</p>
+									<p class="text">Decisiones informadas gracias a análisis de datos confiables.</p>
 								</li>
 								<li class="splide__slide">
 									<h2 class="subtitle">
 										<i class="fas fa-handshake"></i> Colaboración
 									</h2>
-									<p class="text">"Trabajamos como una extensión de tu equipo, priorizando tus
-										objetivos."</p>
+									<p class="text">Trabajamos como una extensión de tu equipo, priorizando tus
+										objetivos.</p>
 								</li>
 								<li class="splide__slide">
 									<h2 class="subtitle">
 										<i class="fas fa-chart-line"></i> Impacto
 									</h2>
-									<p class="text">"Nos enfocamos en resultados tangibles y sostenibles para tu
-										negocio."</p>
+									<p class="text">Nos enfocamos en resultados tangibles y sostenibles para tu
+										negocio.</p>
 								</li>
 								<li class="splide__slide">
 									<h2 class="subtitle">
 										<i class="fas fa-sync-alt"></i> Adaptabilidad
 									</h2>
-									<p class="text">"Diseñamos soluciones personalizadas para cada desafío único."</p>
+									<p class="text">Diseñamos soluciones personalizadas para cada desafío único.</p>
 								</li>
 
 
