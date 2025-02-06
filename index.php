@@ -43,7 +43,6 @@
 				</div>
 			</div>
 		</div>
-
 		<div class="page_container -top">
 
 			<div class="imagenBG">
@@ -57,9 +56,7 @@
 									Impulsa tu
 									<span class="fontRedIntro">éxito</span>
 									<br>
-									con análisis de
-									<br>
-									datos
+									con análisis de datos
 								</span>
 							</span>
 						</p>
@@ -85,7 +82,6 @@
 
 				</div>
 			</div>
-
 			<section class="top-projects">
 
 				<article class="project">
@@ -95,7 +91,7 @@
 								<source srcset="./asset/img/repetidas/fondos/oscuro.webp" width="750" height="500"
 									media="(max-width:640px)">
 								<img src="./asset/img/repetidas/fondos/oscuro.webp" width="2560" height="1212"
-									alt="TentoTen 07 Puerto Vallarta" loading="lazy">
+									alt="fondoDatosResultados" loading="lazy">
 							</picture>
 						</div>
 						<div class="project-text _sp-pd20">
@@ -135,7 +131,6 @@
 						</div>
 					</a>
 				</article>
-
 				<div id="Clientes">
 					<div class="mod-lowerpage-haeder01 _pc-pd40 _sp-pd20" data-pararax01>
 						<h1 class="header-heading _heading01  __inview-text01" data-pararax01-text01="0">
@@ -155,34 +150,34 @@
 								<ul class="splide__list">
 
 									<li class="splide__slide">
-										<img src="./asset/img/pages/index/marcas/valdepenas.webp">
+										<img src="./asset/img/pages/index/marcas/valdepenas.webp" alt="valdepenas">
 									</li>
 									<li class="splide__slide">
-										<img src="./asset/img/pages/index/marcas/stratu.webp">
+										<img src="./asset/img/pages/index/marcas/stratu.webp" alt="stratu">
 									</li>
 									<li class="splide__slide">
-										<img src="./asset/img/pages/index/marcas/sherwind.webp">
+										<img src="./asset/img/pages/index/marcas/sherwind.webp" alt="sherwind">
 									</li>
 									<li class="splide__slide">
-										<img src="./asset/img/pages/index/marcas/ampiPuebla.webp" >
+										<img src="./asset/img/pages/index/marcas/ampiPuebla.webp" alt="ampiPuebla">
 									</li>
 									<li class="splide__slide">
-										<img src="./asset/img/pages/index/marcas/homia.webp">
+										<img src="./asset/img/pages/index/marcas/homia.webp" alt="homia">
 									</li>
 									<li class="splide__slide">
-										<img src="./asset/img/pages/index/marcas/ddci.webp" >
+										<img src="./asset/img/pages/index/marcas/ddci.webp" alt="ddci">
 									</li>
 									<li class="splide__slide">
-										<img src="./asset/img/pages/index/marcas/save.webp">
+										<img src="./asset/img/pages/index/marcas/save.webp" alt="save">
 									</li>
 									<li class="splide__slide">
-										<img src="./asset/img/pages/index/marcas/villanova.webp">
+										<img src="./asset/img/pages/index/marcas/villanova.webp" alt="villanova">
 									</li>
 									<li class="splide__slide">
-										<img src="./asset/img/pages/index/marcas/cayco.webp">
+										<img src="./asset/img/pages/index/marcas/cayco.webp" alt="cayco">
 									</li>
 									<li class="splide__slide">
-										<img src="./asset/img/pages/index/marcas/gas.webp">
+										<img src="./asset/img/pages/index/marcas/gas.webp" alt="gas">
 									</li>
 
 								</ul>
