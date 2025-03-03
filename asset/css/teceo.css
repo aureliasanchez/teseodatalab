@@ -4,8 +4,8 @@
 }
 
 .imagenBG {
-    background-image: url('/asset/img/repetidas/fondos/hero.webp');
-    background-size: cover;
+    background-image: url('/asset/img/repetidas/fondos/hero.png');
+    background-size:contain;
     background-position: center !important;
 }
 
@@ -65,7 +65,7 @@
     /* Nuevos estilos para el botón */
     border: none;
     cursor: pointer;
-    font-family: inherit;
+    font-family: 'Poppins', sans-serif;
     font-size: inherit;
     text-align: center;
     padding: 10px 20px;
@@ -407,7 +407,6 @@
     border: 1px solid #fff !important;
     color: #fff !important;
     font-size: .5rem !important;
-    font-weight: bold !important;
     transition: background-color 0.3s ease !important;
 
     

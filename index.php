@@ -44,7 +44,7 @@
 			</div>
 		</div>
 
-		<div class="page_container -top">
+		<div class="page_container-top">
 
 			<div class="imagenBG">
 				<div class="top-mainvisual _pc-pd40 _sp-pd20" data-pararax01>
@@ -52,10 +52,10 @@
 					<div class="mainvisual-catch">
 						<p class="catch-en _f-futura_m _futura-lh1 _futura-nm __inview-text01"
 							data-pararax01-text01="0">
-							<span class="__pc-inview-span01">
-								<span class="__sp-inview-span01">
+							<span class="__pc-inview-span01" style="font-size: smaller;">
+								<span class="__sp-inview-span01" style="font-size: smaller;">
 									Impulsa tu
-									<span class="fontRedIntro">éxito</span>
+									<span class="fontRedIntro" style="font-size: smaller;">éxito</span>
 									<br>
 									con análisis de
 									<br>
@@ -64,13 +64,13 @@
 							</span>
 						</p>
 						<p class="catch-ja __inview-text01" data-pararax01-text01=".4">
-							<span class="__pc-inview-span01">
-								<span class="__sp-inview-span01">
+							<span class="__pc-inview-span01" style="font-family: 'Poppins', sans-serif;">
+								<span class="__sp-inview-span01" style="font-size: smaller; font-family: 'Poppins', sans-serif;">
 									Transformamos
-									<span class="fontRedIntro">información compleja</span>
+									<span class="fontRedIntro"  font-family: 'Poppins', sans-serif;">información compleja</span>
 									en
 									<br>
-									<span class="fontRedIntro">estrategias claras,</span>
+									<span class="fontRedIntro" font-family: 'Poppins', sans-serif;">estrategias claras,</span>
 									ayudándote a liderar tu industria 
 									<br>
 									con inteligencia artificial y análisis predictivo.
@@ -101,30 +101,33 @@
 						<div class="project-text _sp-pd20">
 							<h2 class="text-heading " data-pararax01-text01="0.4">
 								<span class="_link-span02">
-									Teseo Data Lab
-									<br>
-									Donde los datos generan resultados
-								</span>
+									<span style="color: #644db5;">Teseo Data Lab:</span>	Transformando datos en oportunidades								</span>
 							</h2>
-							<div id="listados">
+							<div id="listados" style="display: flex; justify-content: center; align-items: center;">
+								<div >
+									<img src="asset/img/pages/index/decreasing_12813556.png" alt="Impacto tangible" style="width: 15%; height: auto;">
+									<p class="text-client _link-text01" data-pararax01-text01=".7" style="text-align: center;">
+										<span class="_link-span02">
+											Impacto tangible <br> en tus decisiones
+										</span>
+									</p>
+								</div>
+								<div>
+								<img src="asset/img/pages/index/compass_8547834.png" alt="Impacto tangible" style="width: 15%; height: auto;">
 								<p class="text-client _link-text01" data-pararax01-text01=".7">
-									<span class="_link-span02">
-										<i class="fas fa-bullseye"></i>
-										Impacto tangible
-									</span>
-								</p>
-								<p class="text-client _link-text01" data-pararax01-text01=".7">
-									<span class="_link-span02">
-										<i class="fas fa-check-circle"></i>
-										Precisión garantizada
-									</span>
-								</p>
-								<p class="text-client _link-text01" data-pararax01-text01=".7">
-									<span class="_link-span02">
-										<i class="fas fa-cogs"></i>
-										Soluciones personalizadas
-									</span>
-								</p>
+										<span class="_link-span02">
+											Precisión garantizada por <br> tecnología avanzada
+										</span>
+									</p>
+								</div>
+								<div>
+								<img src="asset/img/pages/index/cogwheel_10542460.png" alt="Impacto tangible" style="width: 15%; height: auto;">
+									<p class="text-client _link-text01" data-pararax01-text01=".7">
+										<span class="_link-span02">
+											Soluciones adaptadas a tus decisiones
+										</span>
+									</p>
+								</div>
 							</div>
 							<button onclick="window.location.href='./pages/portafolio.php'"
 								class="text-category _link-text01 button-action" data-pararax01-text01="1.0">

@@ -210,7 +210,7 @@ html:not(.ie) .__opening-start .opening.anim .img img {
     flex-direction: column;
     justify-content: center;
     position: relative;
-    height: 100vh
+    height: 160vh
 }
 
 .top-mainvisual .mainvisual-catch+.mainvisual-catch {
@@ -237,7 +237,7 @@ html:not(.ie) .__opening-start .opening.anim .img img {
 
 .top-mainvisual .catch-ja {
     font-size: .33rem;
-    font-weight: 700;
+    font-weight: 200;
     letter-spacing: .05em
 }
 
@@ -254,7 +254,7 @@ html:not(.ie) .__opening-start .opening.anim .img img {
     bottom: .2rem;
     right: var(--pc-contents-padding40);
     transition-property: background, color, opacity, transform;
-    transition-duration: .5s;
+    transition-duration: .1s;
     transition-delay: 0s;
     transition-timing-function: cubic-bezier(.455, .03, .515, .955)
 }
@@ -299,7 +299,7 @@ html:not(.ie) .__opening-start .opening.anim .img img {
     right: 0;
     transform-origin: 50% 100%;
     transition-property: background;
-    transition-duration: .5s;
+    transition-duration: .1s;
     transition-delay: 0s;
     transition-timing-function: cubic-bezier(.455, .03, .515, .955);
     will-change: transform
@@ -324,7 +324,7 @@ html:not(.os-iOS):not(.os-mac) .top-mainvisual .mainvisual-arrow>i>i {
     transform-origin: 50% 0;
     will-change: transform;
     transition-property: height, transform-origin, transform, background;
-    transition-duration: .5s;
+    transition-duration: .1s;
     transition-delay: 0s;
     transition-timing-function: cubic-bezier(.455, .03, .515, .955)
 }
@@ -351,7 +351,7 @@ html:not(.os-iOS):not(.os-mac) .top-mainvisual .mainvisual-arrow>i:after {
     font-size: .22rem;
     line-height: 1;
     transition-property: background-color;
-    transition-duration: .5s;
+    transition-duration: .1s;
     transition-delay: 0s;
     transition-timing-function: cubic-bezier(.455, .03, .515, .955)
 }
@@ -440,7 +440,7 @@ html:not(.os-iOS):not(.os-mac) .top-mainvisual .mainvisual-arrow>i:after {
 .top-projects .project>a {
     display: block;
     position: relative;
-    z-index: 1
+    z-index: vh
 }
 
 .top-projects .project-img {
@@ -449,7 +449,7 @@ html:not(.os-iOS):not(.os-mac) .top-mainvisual .mainvisual-arrow>i:after {
 
 .top-projects .text-heading {
     font-size: .58rem;
-    font-weight: 700;
+    font-weight: 500;
     letter-spacing: .05em
 }
 
@@ -476,7 +476,7 @@ html:not(.os-iOS):not(.os-mac) .top-mainvisual .mainvisual-arrow>i:after {
     margin-top: .2rem;
     font-size: .28rem;
     letter-spacing: .05em;
-    font-weight: 700
+    font-weight: 500
 }
 
 .top-projects .text-category {
@@ -569,7 +569,7 @@ html:not(.os-iOS):not(.os-mac) .top-mainvisual .mainvisual-arrow>i:after {
 
     .mod_header {
         transition-property: height, border, transform;
-        transition-duration: 1s;
+        transition-duration: 0.2s;
         transition-delay: 0s;
         transition-timing-function: cubic-bezier(.455, .03, .515, .955)
     }
@@ -665,7 +665,7 @@ html:not(.os-iOS):not(.os-mac) .top-mainvisual .mainvisual-arrow>i:after {
 
     .mod_spNav_btn {
         transition-property: transform;
-        transition-duration: .5s;
+        transition-duration: .2s;
         transition-delay: 0s;
         transition-timing-function: cubic-bezier(.455, .03, .515, .955)
     }

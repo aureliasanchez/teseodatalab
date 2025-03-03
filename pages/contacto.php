@@ -56,32 +56,13 @@
 									</span>
 								</dt>
 								<dd class="formlistContent">
-									<div class="contentSub">
-										<span class="subHeading">
-											N
-										</span>
-										<div class="inputBlock">
-											<div class="itemWrap textWrap text_firstname_autokana">
-												<input autocorrect="off" autocapitalize="off" type="text"
-													name="text_firstname_autokana" id="text_firstname_autokana" value=""
-													data-needinput="text_firstname_autokana" data-needinput-type="text"
-													placeholder="Nombre" data-form-autokana="1"
-													autocomplete="family-name" class="borderRadiusForm">
-											</div>
-										</div>
-									</div>
-									<div class="contentSub">
-										<span class="subHeading">
-											A
-										</span>
-										<div class="inputBlock">
-											<div class="itemWrap textWrap text_name_autokana">
-												<input autocorrect="off" autocapitalize="off" type="text"
-													name="text_name_autokana" id="text_name_autokana" value=""
-													data-needinput="text_name_autokana" data-needinput-type="text"
-													placeholder="Apellidos" data-form-autokana="2"
-													autocomplete="given-name" class="borderRadiusForm">
-											</div>
+									<div class="inputBlock">
+										<div class="itemWrap emailWrap text_firstname_autokana"><input autocorrect="off"
+												autocapitalize="off" type="text" name="firstname_autokana" id="text_firstname_autokana"
+												value="" size="40""
+												pattern="^[A-Za-z0-9]{1}[A-Za-z0-9_.-]*@{1}[A-Za-z0-9_.-]{1,}\.[A-Za-z0-9]{1,}$"
+												data-needinput="text" data-needinput-type="email"
+												placeholder="Nombre Completo" class="borderRadiusForm">
 										</div>
 									</div>
 								</dd>

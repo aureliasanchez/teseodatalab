@@ -169,7 +169,7 @@
 							<div data-pararax01>
 								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/servicio/viablilidadDelProyecto.webp" width="400"
+									<img src="../asset/img/pages/servicio/viablilidadDelProyecto.webp" width="200px"
 										height="400" alt="Daniel" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">

@@ -43,7 +43,7 @@
 					<span class="heading-main _f-futura_m _futura-lh1 _futura-nm __inview-span01">
 						Personas que trabajan en
 						<span class="fontRedIntro2">
-							TESEO DataLab
+							Teseo DataLab
 						</span>
 					</span>
 				</h1>
