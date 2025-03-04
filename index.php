@@ -27,7 +27,7 @@
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@3.6.9/dist/css/splide.min.css">
 	<link rel="canonical" href="https://teseo.com/">
 
-	<link rel="icon" href="./asset/img/repetidas/logos/teceo.jpg">
+	<link rel="icon" href="/asset/img/repetidas/logos/teceocopy.jpg">
 	<title>Teseo DataLab | Soluciones Basadas en Inteligencia Artificial</title>
 </head>
 
