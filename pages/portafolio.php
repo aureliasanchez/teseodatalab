@@ -27,7 +27,7 @@
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 	<link rel="canonical" href="https://teseo.com/pages/portafolio.php">
 
-	<link rel="icon" href="../asset/img/repetidas/logos/teceo.jpg">
+	<link rel="icon" href="/asset/img/repetidas/logos/teceocopy.jpg">
 	<title>Teseo | Portafolio de Soluciones Innovadoras</title>
 </head>
 
@@ -588,7 +588,7 @@
 								</p>
 								<div class="contenedorButton">
 									<div href="#PostList" class="centerButton2 borderRadius">
-									Detalles
+										Detalles
 									</div>
 								</div>
 							</a>
@@ -611,7 +611,7 @@
 								</p>
 								<div class="contenedorButton">
 									<div href="#PostList" class="centerButton2 borderRadius">
-									Detalles
+										Detalles
 									</div>
 								</div>
 							</a>
@@ -634,7 +634,7 @@
 								</p>
 								<div class="contenedorButton">
 									<div href="#PostList" class="centerButton2 borderRadius">
-									Detalles
+										Detalles
 									</div>
 								</div>
 							</a>
@@ -657,7 +657,7 @@
 								</p>
 								<div class="contenedorButton">
 									<div href="#PostList" class="centerButton2 borderRadius">
-									Detalles
+										Detalles
 									</div>
 								</div>
 							</a>
@@ -694,7 +694,7 @@
 								</p>
 								<div class="contenedorButton">
 									<div href="#PostList" class="centerButton2 borderRadius">
-									Detalles
+										Detalles
 									</div>
 								</div>
 							</a>

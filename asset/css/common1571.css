@@ -355,11 +355,11 @@ select::-ms-expand {
 .of img {
     object-fit: cover;
     font-family: 'Poppins', sans-serif !important;
-    background-size: cover;
-    background-position: center center;
-    width: 50%;
-    height: 50%;
-    position: absolute;
+    /* background-size: cover;
+    background-position: center center; */
+    /* width: 50%;
+    height: 50%; */
+    /* position: absolute; */
 }
 
 .opcionesImagenes{

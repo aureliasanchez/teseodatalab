@@ -25,7 +25,7 @@
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 	<link rel="canonical" href="https://teseo.com/pages/politicas.php">
 
-	<link rel="icon" href="../asset/img/repetidas/logos/teceo.jpg">
+	<link rel="icon" href="/asset/img/repetidas/logos/teceocopy.jpg">
 	<title>Teseo | Políticas de Privacidad y Términos de Uso</title>
 </head>
 
