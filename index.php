@@ -168,9 +168,6 @@
 										<img src="./asset/img/pages/index/marcas/homia.webp" alt="homia">
 									</li>
 									<li class="splide__slide">
-										<img src="./asset/img/pages/index/marcas/ddci.webp" alt="ddci">
-									</li>
-									<li class="splide__slide">
 										<img src="./asset/img/pages/index/marcas/save.webp" alt="save">
 									</li>
 									<li class="splide__slide">
@@ -181,6 +178,12 @@
 									</li>
 									<li class="splide__slide">
 										<img src="./asset/img/pages/index/marcas/gas.webp" alt="gas">
+									</li>
+									<li class="splide__slide">
+									<img src="./asset/img/pages/index/marcas/ampiRN.webp" alt="AMPI RN">
+									</li>
+									<li class="splide__slide">
+									<img src="./asset/img/pages/index/marcas/lecurv.webp" alt="lecurv">
 									</li>
 
 								</ul>

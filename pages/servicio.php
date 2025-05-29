@@ -168,7 +168,7 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/servicio/viablilidadDelProyecto.webp" width="400"
+									<img src="/asset/img/pages/servicio/viablilidadDelProyecto.webp" width="400"
 										height="400" alt="viablilidadDelProyecto" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
@@ -185,7 +185,7 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/servicio/analicisFinanciero.webp" width="620"
+									<img src="/asset/img/pages/servicio/analicisFinanciero.webp" width="620"
 										height="620" alt="analicisFinanciero" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
@@ -203,7 +203,7 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/servicio/segmentacionDeClientes.webp" width="620"
+									<img src="/asset/img/pages/servicio/segmentacionDeClientes.webp" width="620"
 										height="620" alt="segmentacionDeClientes" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
@@ -221,7 +221,7 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/servicio/estudioDeMercado.webp" width="620"
+									<img src="/asset/img/pages/servicio/estudioDeMercado.webp" width="620"
 										height="620" alt="estudioDeMercado" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
@@ -239,7 +239,7 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/servicio/diseñoDeProducto.webp" width="620"
+									<img src="/asset/img/pages/servicio/diseñoDeProducto.webp" width="620"
 										height="620" alt="diseñoDeProducto" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
@@ -257,7 +257,7 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/servicio/estrategiaDeExpancion.webp" width="620"
+									<img src="/asset/img/pages/servicio/estrategiaDeExpancion.webp" width="620"
 										height="620" alt="estrategiaDeExpancion" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
@@ -275,7 +275,7 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/servicio/ubicacionEstrategica.webp" width="620"
+									<img src="/asset/img/pages/servicio/ubicacionEstrategica.webp" width="620"
 										height="620" alt="ubicacionEstrategica" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
@@ -292,7 +292,7 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/servicio/mejoraDeProducto.webp" width="620"
+									<img src="/asset/img/pages/servicio/mejoraDeProducto.webp" width="620"
 										height="620" alt="mejoraDeProducto" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
@@ -309,7 +309,7 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/servicio/planesDigitales.webp" width="620" height="620" alt="planesDigitales" loading="lazy">
+									<img src="/asset/img/pages/servicio/planesDigitales.webp" width="620" height="620" alt="planesDigitales" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">Planes Digitales</span>
@@ -326,7 +326,7 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/servicio/gestionDeRedesSociales.webp" width="620"
+									<img src="/asset/img/pages/servicio/gestionDeRedesSociales.webp" width="620"
 										height="620" alt="gestionDeRedesSociales" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
@@ -344,7 +344,7 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/servicio/seo.webp" width="620" height="620"
+									<img src="/asset/img/pages/servicio/seo.webp" width="620" height="620"
 										alt="seo" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
@@ -361,7 +361,7 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/servicio/marketinPorEmail.webp" width="620"
+									<img src="/asset/img/pages/servicio/marketinPorEmail.webp" width="620"
 										height="620" alt="marketinPorEmail" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
@@ -378,7 +378,7 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/servicio/basesDeDatos.webp" width="620" height="620" alt="basesDeDatos" loading="lazy">
+									<img src="/asset/img/pages/servicio/basesDeDatos.webp" width="620" height="620" alt="basesDeDatos" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">Bases de Datos</span>
@@ -394,7 +394,7 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/servicio/wp.webp" width="620" height="620" alt="wp" loading="lazy">
+									<img src="/asset/img/pages/servicio/wp.webp" width="620" height="620" alt="wp" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">Campañas por WhatsApp</span>
@@ -410,7 +410,7 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/servicio/basesDeDatos.webp" width="620" height="620" alt="basesDeDatos" loading="lazy">
+									<img src="/asset/img/pages/servicio/basesDeDatos.webp" width="620" height="620" alt="basesDeDatos" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">Pruebas A/B</span>
@@ -427,7 +427,7 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/servicio/dashboardsInteractivos.webp" width="620"
+									<img src="/asset/img/pages/servicio/dashboardsInteractivos.webp" width="620"
 										height="620" alt="dashboardsInteractivos" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
@@ -448,7 +448,7 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/servicio/softwarePersonalizado.webp" width="620"
+									<img src="/asset/img/pages/servicio/softwarePersonalizado.webp" width="620"
 										height="620" alt="softwarePersonalizado" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
@@ -469,7 +469,7 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/servicio/automatizaciónInteligente.webp" width="620" height="620" alt="automatizaciónInteligente" loading="lazy">
+									<img src="/asset/img/pages/servicio/automatizaciónInteligente.webp" width="620" height="620" alt="automatizaciónInteligente" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
@@ -489,7 +489,7 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/servicio/analisisDeMercado.webp" width="620"
+									<img src="/asset/img/pages/servicio/analisisDeMercado.webp" width="620"
 										height="620" alt="analisisDeMercado" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
@@ -510,7 +510,7 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/servicio/optimizacióndeDeMenu.webp" width="620"
+									<img src="/asset/img/pages/servicio/optimizacióndeDeMenu.webp" width="620"
 										height="620" alt="optimizacióndeDeMenu" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
@@ -531,7 +531,7 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/servicio/zonaEstrategica.webp" width="620" height="620" alt="zonaEstrategica" loading="lazy">
+									<img src="/asset/img/pages/servicio/zonaEstrategica.webp" width="620" height="620" alt="zonaEstrategica" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
@@ -551,7 +551,7 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/servicio/rentabilidadFinanciera.webp" width="620"
+									<img src="/asset/img/pages/servicio/rentabilidadFinanciera.webp" width="620"
 										height="620" alt="rentabilidadFinanciera" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
@@ -572,7 +572,7 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/servicio/tendenciaDeDiseño.webp" width="620"
+									<img src="/asset/img/pages/servicio/tendenciaDeDiseño.webp" width="620"
 										height="620" alt="tendenciaDeDiseño" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
@@ -593,7 +593,7 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/servicio/productosRentables.webp" width="620"
+									<img src="/asset/img/pages/servicio/productosRentables.webp" width="620"
 										height="620" alt="productosRentables" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
@@ -614,7 +614,7 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/servicio/evaluacionDeInversiones.webp" width="620"
+									<img src="/asset/img/pages/servicio/evaluacionDeInversiones.webp" width="620"
 										height="620" alt="evaluacionDeInversiones" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
@@ -635,7 +635,7 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/servicio/proyectoInovador.webp" width="620"
+									<img src="/asset/img/pages/servicio/proyectoInovador.webp" width="620"
 										height="620" alt="proyectoInovador" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
@@ -656,7 +656,7 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/servicio/preciosDinamicos.webp" width="620"
+									<img src="/asset/img/pages/servicio/preciosDinamicos.webp" width="620"
 										height="620" alt="preciosDinamicos" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
@@ -677,7 +677,7 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/servicio/mejoraDeValor.webp" width="620" height="620" alt="mejoraDeValor" loading="lazy">
+									<img src="/asset/img/pages/servicio/mejoraDeValor.webp" width="620" height="620" alt="mejoraDeValor" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
 									<span class="_link-span03">
