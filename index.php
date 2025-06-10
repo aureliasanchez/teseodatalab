@@ -185,6 +185,12 @@
 									<li class="splide__slide">
 									<img src="./asset/img/pages/index/marcas/lecurv.webp" alt="lecurv">
 									</li>
+									<li class="splide__slide">
+									<img src="./asset/img/pages/index/marcas/lixxus.webp" alt="lixxus">
+									</li>
+									<li class="splide__slide">
+									<img src="./asset/img/pages/index/marcas/apsafety.webp" alt="apsafety">
+									</li>
 
 								</ul>
 							</div>

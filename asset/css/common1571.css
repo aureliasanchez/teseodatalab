@@ -1388,6 +1388,24 @@ body.__scrolled .mod-fixed-recruit-link+.mod_toTop_btn {
     color: #000
 }
 
+.mod_header .main_nav>li:nth-child(8) {
+    order: 8
+}
+
+.mod_header .main_nav>li:nth-child(8).nowpage,
+.no-touchevents .mod_header .main_nav>li:nth-child(8)>a {
+    background-color: #644db5;
+    border: #fff solid 1px;
+    color: #fff
+}
+
+.mod_header .main_nav>li:nth-child(8).nowpage,
+.no-touchevents .mod_header .main_nav>li:nth-child(8)>a:hover {
+    background-color: #fff;
+    border: #000 solid 1px;
+    color: #000
+}
+
 .mod_header .main_nav>li>a {
     display: block;
     padding: 0 .16rem;
