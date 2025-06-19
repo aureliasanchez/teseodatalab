@@ -778,7 +778,7 @@
 
 			<div class="contenedorButton">
 				<a href="./contacto.php" class="centerButton borderRadius">
-					Contáctanos
+					Agendar diagnóstico
 				</a>
 			</div>
 

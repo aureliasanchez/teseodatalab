@@ -27,6 +27,7 @@
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@3.6.9/dist/css/splide.min.css">
 	<link rel="canonical" href="https://teseo.com/">
 
+
 	<link rel="icon" href="/asset/img/repetidas/logos/teceocopy.jpg">
 	<title>Teseo DataLab | Soluciones Basadas en Inteligencia Artificial</title>
 </head>
@@ -53,29 +54,28 @@
 							data-pararax01-text01="0">
 							<span class="__pc-inview-span01" style="font-size: smaller;">
 								<span class="__sp-inview-span01" style="font-size: smaller;">
-									Impulsa tu
-									<span class="fontRedIntro" style="font-size: smaller;">éxito</span>
+									Soluciones inteligentes para
+									<span class="fontRedIntro" style="font-size: smaller;">industrias</span>
 									<br>
-									con análisis de datos
+									especializadas
 								</span>
 							</span>
 						</p>
 						<p class="catch-ja __inview-text01" data-pararax01-text01=".4">
 							<span class="__pc-inview-span01" style="font-family: 'Poppins', sans-serif;">
 								<span class="__sp-inview-span01" style="font-size: smaller; font-family: 'Poppins', sans-serif;">
-									Transformamos
-									<span class="fontRedIntro"  font-family: 'Poppins', sans-serif;">información compleja</span>
-									en
+									Análisis econométrico,
+									<span class="fontRedIntro"  font-family: 'Poppins', sans-serif;">automatización y tecnología</span>
+									a medida para
 									<br>
-									<span class="fontRedIntro" font-family: 'Poppins', sans-serif;">estrategias claras,</span>
-									ayudándote a liderar tu industria 
-									<br>
-									con inteligencia artificial y análisis predictivo.
+									<span class="fontRedIntro" font-family: 'Poppins', sans-serif;">transformar datos</span>
+									en decisiones rentables. 
+									
 								</span>
 							</span>
 							<button class="__inview-span01 fontPurpleIntroLink linkPurple padingButton margingTop"
 								onclick="window.location.href='./pages/servicio.php'" style="border-radius: 30px;">
-								Explora nuestras soluciones
+								Ver servicios
 							</button>
 						</p>
 					</div>
@@ -83,7 +83,6 @@
 				</div>
 			</div>
 			<section class="top-projects">
-
 				<article class="project">
 					<a href="./pages/portafolio.php" class="_link-block01 _pc-pd40" data-pararax01>
 						<div class="project-img of _link-img01  __inview-img01" data-pararax01-img01="0">
@@ -95,16 +94,53 @@
 							</picture>
 						</div>
 						<div class="project-text _sp-pd20">
+							<h2 class="text-heading text-center" data-pararax01-text01="0.4; ">
+								<span class="_link-span02">
+									<span style="color: #644db5; ">¿Tu operación genera datos</span> pero no decisiones?
+								</span>
+							</h2>
+							<div id="listados" style="display: flex; justify-content: center; align-items: center;">
+								<div >
+									<p class="text-client _link-text01" data-pararax01-text01=".7" style="text-align: left;">
+										<span class="_link-span02">
+											En sectores como bienes raíces, retail o manufactura, el exceso de datos no es garantía de claridad. Las decisiones lentas, la baja conversión o la falta de segmentación pueden costarte millones.
+										</span>
+									</p>
+								</div>
+
+							</div>
+							<button onclick="window.location.href='./pages/contacto.php'"
+								class="text-category _link-text01 button-action" data-pararax01-text01="1.0" style="margin-left: 0;">
+								<span class="_link-span02" style="border-radius: 30px;">
+									Diagnóstico gratis
+								</span>
+							</button>
+						</div>
+					</a>
+				</article>
+
+				<article class="project">
+					<a href="./pages/servicio.php" class="_link-block01 _pc-pd40" data-pararax01>
+						<div class="project-img of _link-img01  __inview-img01" data-pararax01-img01="0">
+							<picture>
+								<source srcset="./asset/img/repetidas/fondos/oscuro.webp" width="750" height="500"
+									media="(max-width:640px)">
+								<img src="./asset/img/repetidas/fondos/oscuro.webp" width="2560" height="1212"
+									alt="fondoDatosResultados" loading="lazy">
+							</picture>
+						</div>
+						<div class="project-text _sp-pd20">
 							<h2 class="text-heading " data-pararax01-text01="0.4">
 								<span class="_link-span02">
-									<span style="color: #644db5;">Teseo Data Lab:</span>	Transformando datos en oportunidades								</span>
+									<span style="color: #644db5;">Un enfoque integral</span> de la estrategia al resultado
+								</span>
 							</h2>
 							<div id="listados" style="display: flex; justify-content: center; align-items: center;">
 								<div >
 									<img src="asset/img/pages/index/decreasing_12813556.png" alt="Impacto tangible" style="width: 15%; height: auto;">
 									<p class="text-client _link-text01" data-pararax01-text01=".7" style="text-align: center;">
 										<span class="_link-span02">
-											Impacto tangible <br> en tus decisiones
+											Análisis Estratégico
 										</span>
 									</p>
 								</div>
@@ -112,7 +148,7 @@
 								<img src="asset/img/pages/index/compass_8547834.png" alt="Impacto tangible" style="width: 15%; height: auto;">
 								<p class="text-client _link-text01" data-pararax01-text01=".7">
 										<span class="_link-span02">
-											Precisión garantizada por <br> tecnología avanzada
+											Optimización Comercial
 										</span>
 									</p>
 								</div>
@@ -120,7 +156,7 @@
 								<img src="asset/img/pages/index/cogwheel_10542460.png" alt="Impacto tangible" style="width: 15%; height: auto;">
 									<p class="text-client _link-text01" data-pararax01-text01=".7">
 										<span class="_link-span02">
-											Soluciones adaptadas a tus decisiones
+											Marketing & Masificación
 										</span>
 									</p>
 								</div>
@@ -128,12 +164,14 @@
 							<button onclick="window.location.href='./pages/portafolio.php'"
 								class="text-category _link-text01 button-action" data-pararax01-text01="1.0">
 								<span class="_link-span02" style="border-radius: 30px;">
-									Conoce cómo trabajamos
+									Ver Tecnologías
 								</span>
 							</button>
 						</div>
 					</a>
 				</article>
+				
+				
 				<div id="Clientes">
 					<div class="mod-lowerpage-haeder01 _pc-pd40 _sp-pd20" data-pararax01>
 						<h1 class="header-heading _heading01  __inview-text01" data-pararax01-text01="0">
@@ -199,6 +237,7 @@
 				</div>
 
 			</section>
+
 
 		</div>
 

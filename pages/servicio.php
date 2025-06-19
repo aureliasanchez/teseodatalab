@@ -63,100 +63,6 @@
 						<h3 class="aside-heading _f-futura_d _futura-lh1 _futura-nm">
 							SERVICIOS
 						</h3>
-						<div class="aside_wrap splide _sp-nm20 _sp-pd20">
-
-							<div class="aside splide__track -archive">
-								<div class="aside_inner splide__list">
-
-									<div class="aside-link splide__slide _current">
-										<a href="#PostList" id="all">
-
-											<span class="en _f-futura_d _futura-lh1 _futura-nm">
-												Mostrar todos
-											</span>
-
-										</a>
-									</div>
-									<div class="aside-link splide__slide">
-										<a href="#PostList" id="opcion1">
-
-											<span class="en _f-futura_d _futura-lh1 _futura-nm">
-												Investigación y Análisis
-											</span>
-
-										</a>
-									</div>
-									<div class="aside-link splide__slide">
-										<a href="#PostList" id="opcion2">
-
-											<span class="en _f-futura_d _futura-lh1 _futura-nm">
-												Consultoría
-											</span>
-
-										</a>
-									</div>
-									<div class="aside-link splide__slide">
-										<a href="#PostList" id="opcion3">
-
-											<span class="en _f-futura_d _futura-lh1 _futura-nm">
-												Data-Driven Marketing
-											</span>
-
-										</a>
-									</div>
-									<div class="aside-link splide__slide">
-										<a href="#PostList" id="opcion4">
-
-											<span class="en _f-futura_d _futura-lh1 _futura-nm">
-												Masificación y Automatización
-											</span>
-
-										</a>
-									</div>
-									<div class="aside-link splide__slide">
-										<a href="#PostList" id="opcion5">
-
-											<span class="en _f-futura_d _futura-lh1 _futura-nm">
-												Software
-											</span>
-
-										</a>
-									</div>
-									<div class="aside-link splide__slide">
-										<a href="#PostList" id="opcion6">
-
-											<span class="en _f-futura_d _futura-lh1 _futura-nm">
-												Restaurantes
-											</span>
-
-										</a>
-									</div>
-									<div class="aside-link splide__slide">
-										<a href="#PostList" id="opcion7">
-
-											<span class="en _f-futura_d _futura-lh1 _futura-nm">
-												Bienes Raíces
-											</span>
-
-										</a>
-									</div>
-
-								</div>
-							</div>
-							<div class="post-aside-splide-pagination_wrap" data-sc-sp>
-								<div class="post-aside-splide-pagination-bar"></div>
-								<ul class="splide__pagination post-aside-splide-pagination"></ul>
-							</div>
-							<div class="post-aside-splide-arrows splide__arrows" data-sc-sp>
-								<button class="post-aside-splide-arrow -prev splide__arrow--prev">
-									<i class="_arrow-left01"></i>
-								</button>
-								<button class="post-aside-splide-arrow -next splide__arrow--next">
-									<i class="_arrow-right01"></i>
-								</button>
-							</div>
-
-						</div>
 
 					</aside>
 				</div>
@@ -172,10 +78,10 @@
 										height="400" alt="viablilidadDelProyecto" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">Viabilidad de Proyectos</span>
+									<span class="_link-span03">Análisis Estratégico</span>
 								</p>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">Analizamos su factibilidad y potencial de éxito.</span>
+									<span class="_link-span03">Estudios financieros, data-econométricos y segmentación de demanda para validar viabilidad y optimizar tu inversión.</span>
 								</p>
 
 							</div>
@@ -189,11 +95,10 @@
 										height="620" alt="analicisFinanciero" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">Análisis Financiero</span>
+									<span class="_link-span03">Optimización Comercial</span>
 								</p>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">Decisiones de inversión basadas en análisis
-										detallados.</span>
+									<span class="_link-span03">Rediseñamos tu oferta y pricing con simulaciones de escenarios y benchmark competitivo para mejorar conversión y rentabilidad.</span>
 								</p>
 
 							</div>
@@ -207,11 +112,10 @@
 										height="620" alt="segmentacionDeClientes" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">Segmentación de Clientes</span>
+									<span class="_link-span03">Marketing, Masificación & BBDD</span>
 								</p>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">Identifica clientes clave y oportunidades
-										estratégicas.</span>
+									<span class="_link-span03">Activamos tus bases de datos con campañas automatizadas, enriquecidas por IA, para generar leads calificados y ventas reales.</span>
 								</p>
 
 							</div>
@@ -225,469 +129,10 @@
 										height="620" alt="estudioDeMercado" loading="lazy">
 								</div>
 								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">Estudios de Mercado</span>
+									<span class="_link-span03">Soluciones Tecnológicas</span>
 								</p>
 								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">Tendencias, competencia y comportamiento del
-										consumidor.</span>
-								</p>
-
-							</div>
-						</article>
-						<article class="borderColor archive-article opcion2">
-							<div data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
-									data-pararax01-img01="0">
-									<img src="/asset/img/pages/servicio/diseñoDeProducto.webp" width="620"
-										height="620" alt="diseñoDeProducto" loading="lazy">
-								</div>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">Diseño de Productos</span>
-								</p>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">Crea soluciones adaptadas a las demandas del
-										mercado.</span>
-								</p>
-
-							</div>
-						</article>
-						<article class="borderColor archive-article opcion2">
-							<div data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
-									data-pararax01-img01="0">
-									<img src="/asset/img/pages/servicio/estrategiaDeExpancion.webp" width="620"
-										height="620" alt="estrategiaDeExpancion" loading="lazy">
-								</div>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">Estrategias de Expansión</span>
-								</p>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">Planeamos tu crecimiento territorial o
-										sectorial.</span>
-								</p>
-
-							</div>
-						</article>
-						<article class="borderColor archive-article opcion2">
-							<div data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
-									data-pararax01-img01="0">
-									<img src="/asset/img/pages/servicio/ubicacionEstrategica.webp" width="620"
-										height="620" alt="ubicacionEstrategica" loading="lazy">
-								</div>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">Ubicaciones Estratégicas</span>
-								</p>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">Estudios para elegir los mejores sitios.</span>
-								</p>
-
-							</div>
-						</article>
-						<article class="borderColor archive-article opcion2">
-							<div data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
-									data-pararax01-img01="0">
-									<img src="/asset/img/pages/servicio/mejoraDeProducto.webp" width="620"
-										height="620" alt="mejoraDeProducto" loading="lazy">
-								</div>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">Mejora de Productos</span>
-								</p>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">Maximiza su valor y rentabilidad.</span>
-								</p>
-
-							</div>
-						</article>
-						<article class="borderColor archive-article opcion3">
-							<div data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
-									data-pararax01-img01="0">
-									<img src="/asset/img/pages/servicio/planesDigitales.webp" width="620" height="620" alt="planesDigitales" loading="lazy">
-								</div>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">Planes Digitales</span>
-								</p>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">Diseñamos estrategias completas para el entorno
-										digital.</span>
-								</p>
-
-							</div>
-						</article>
-						<article class="borderColor archive-article opcion3">
-							<div data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
-									data-pararax01-img01="0">
-									<img src="/asset/img/pages/servicio/gestionDeRedesSociales.webp" width="620"
-										height="620" alt="gestionDeRedesSociales" loading="lazy">
-								</div>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">Gestión de Redes Sociales</span>
-								</p>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">Contenido atractivo y administración
-										profesional.</span>
-								</p>
-
-							</div>
-						</article>
-						<article class="borderColor archive-article opcion3">
-							<div data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
-									data-pararax01-img01="0">
-									<img src="/asset/img/pages/servicio/seo.webp" width="620" height="620"
-										alt="seo" loading="lazy">
-								</div>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">SEO y Anuncios Digitales</span>
-								</p>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">Optimiza búsquedas y campañas publicitarias.</span>
-								</p>
-
-							</div>
-						</article>
-						<article class="borderColor archive-article opcion3">
-							<div data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
-									data-pararax01-img01="0">
-									<img src="/asset/img/pages/servicio/marketinPorEmail.webp" width="620"
-										height="620" alt="marketinPorEmail" loading="lazy">
-								</div>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">Marketing por Email</span>
-								</p>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">Campañas personalizadas y efectivas.</span>
-								</p>
-
-							</div>
-						</article>
-						<article class="borderColor archive-article opcion4">
-							<div data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
-									data-pararax01-img01="0">
-									<img src="/asset/img/pages/servicio/basesDeDatos.webp" width="620" height="620" alt="basesDeDatos" loading="lazy">
-								</div>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">Bases de Datos</span>
-								</p>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">Crea listas segmentadas y verificadas.</span>
-								</p>
-
-							</div>
-						</article>
-						<article class="borderColor archive-article opcion4">
-							<div data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
-									data-pararax01-img01="0">
-									<img src="/asset/img/pages/servicio/wp.webp" width="620" height="620" alt="wp" loading="lazy">
-								</div>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">Campañas por WhatsApp</span>
-								</p>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">Automatización y seguimiento masivo efectivo.</span>
-								</p>
-
-							</div>
-						</article>
-						<article class="borderColor archive-article opcion4">
-							<div data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
-									data-pararax01-img01="0">
-									<img src="/asset/img/pages/servicio/basesDeDatos.webp" width="620" height="620" alt="basesDeDatos" loading="lazy">
-								</div>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">Pruebas A/B</span>
-								</p>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">Evalúa la efectividad de estrategias y
-										productos.</span>
-								</p>
-
-							</div>
-						</article>
-						<article class="borderColor archive-article opcion5">
-							<div data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
-									data-pararax01-img01="0">
-									<img src="/asset/img/pages/servicio/dashboardsInteractivos.webp" width="620"
-										height="620" alt="dashboardsInteractivos" loading="lazy">
-								</div>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">
-										Dashboards Interactivos
-									</span>
-								</p>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Tableros operativos para decisiones rápidas.
-									</span>
-								</p>
-
-							</div>
-						</article>
-						<article class="borderColor archive-article opcion5">
-							<div data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
-									data-pararax01-img01="0">
-									<img src="/asset/img/pages/servicio/softwarePersonalizado.webp" width="620"
-										height="620" alt="softwarePersonalizado" loading="lazy">
-								</div>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">
-										Software Personalizado
-									</span>
-								</p>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Soluciones SaaS adaptadas a tu negocio.
-									</span>
-								</p>
-
-							</div>
-						</article>
-						<article class="borderColor archive-article opcion5">
-							<div data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
-									data-pararax01-img01="0">
-									<img src="/asset/img/pages/servicio/automatizaciónInteligente.webp" width="620" height="620" alt="automatizaciónInteligente" loading="lazy">
-								</div>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">
-										Mejoras Inteligente
-									</span>
-								</p>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Optimiza procesos con tecnología avanzada.
-									</span>
-								</p>
-
-							</div>
-						</article>
-						<article class="borderColor archive-article opcion6">
-							<div data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
-									data-pararax01-img01="0">
-									<img src="/asset/img/pages/servicio/analisisDeMercado.webp" width="620"
-										height="620" alt="analisisDeMercado" loading="lazy">
-								</div>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">
-										Análisis de Mercado
-									</span>
-								</p>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Estudios econométricos para decisiones informadas.
-									</span>
-								</p>
-
-							</div>
-						</article>
-						<article class="borderColor archive-article opcion6">
-							<div data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
-									data-pararax01-img01="0">
-									<img src="/asset/img/pages/servicio/optimizacióndeDeMenu.webp" width="620"
-										height="620" alt="optimizacióndeDeMenu" loading="lazy">
-								</div>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">
-										Optimización de Menú
-									</span>
-								</p>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Mejora opciones con análisis de datos.
-									</span>
-								</p>
-
-							</div>
-						</article>
-						<article class="borderColor archive-article opcion6">
-							<div data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
-									data-pararax01-img01="0">
-									<img src="/asset/img/pages/servicio/zonaEstrategica.webp" width="620" height="620" alt="zonaEstrategica" loading="lazy">
-								</div>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">
-										Zonas Estratégicas
-									</span>
-								</p>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Identifica ubicaciones ideales para proyectos.
-									</span>
-								</p>
-
-							</div>
-						</article>
-						<article class="borderColor archive-article opcion6">
-							<div data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
-									data-pararax01-img01="0">
-									<img src="/asset/img/pages/servicio/rentabilidadFinanciera.webp" width="620"
-										height="620" alt="rentabilidadFinanciera" loading="lazy">
-								</div>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">
-										Rentabilidad Financiera
-									</span>
-								</p>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Maximiza el retorno de tus inversiones.
-									</span>
-								</p>
-
-							</div>
-						</article>
-						<article class="borderColor archive-article opcion6">
-							<div data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
-									data-pararax01-img01="0">
-									<img src="/asset/img/pages/servicio/tendenciaDeDiseño.webp" width="620"
-										height="620" alt="tendenciaDeDiseño" loading="lazy">
-								</div>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">
-										Tendencias de Diseño
-									</span>
-								</p>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Explora preferencias y estilos clave.
-									</span>
-								</p>
-
-							</div>
-						</article>
-						<article class="borderColor archive-article opcion7">
-							<div data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
-									data-pararax01-img01="0">
-									<img src="/asset/img/pages/servicio/productosRentables.webp" width="620"
-										height="620" alt="productosRentables" loading="lazy">
-								</div>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">
-										Productos Rentables
-									</span>
-								</p>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Diseña soluciones alineadas con el mercado.
-									</span>
-								</p>
-
-							</div>
-						</article>
-						<article class="borderColor archive-article opcion7">
-							<div data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
-									data-pararax01-img01="0">
-									<img src="/asset/img/pages/servicio/evaluacionDeInversiones.webp" width="620"
-										height="620" alt="evaluacionDeInversiones" loading="lazy">
-								</div>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">
-										Evaluación de Inversiones
-									</span>
-								</p>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Analiza riesgos y oportunidades financieras.
-									</span>
-								</p>
-
-							</div>
-						</article>
-						<article class="borderColor archive-article opcion7">
-							<div data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
-									data-pararax01-img01="0">
-									<img src="/asset/img/pages/servicio/proyectoInovador.webp" width="620"
-										height="620" alt="proyectoInovador" loading="lazy">
-								</div>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">
-										Proyectos Innovadores
-									</span>
-								</p>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Crea ideas únicas y rentables.
-									</span>
-								</p>
-
-							</div>
-						</article>
-						<article class="borderColor archive-article opcion7">
-							<div data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
-									data-pararax01-img01="0">
-									<img src="/asset/img/pages/servicio/preciosDinamicos.webp" width="620"
-										height="620" alt="preciosDinamicos" loading="lazy">
-								</div>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">
-										Precios Dinámicos
-									</span>
-								</p>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Optimiza ingresos con estrategias flexibles.
-									</span>
-								</p>
-
-							</div>
-						</article>
-						<article class="borderColor archive-article opcion7">
-							<div data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
-									data-pararax01-img01="0">
-									<img src="/asset/img/pages/servicio/mejoraDeValor.webp" width="620" height="620" alt="mejoraDeValor" loading="lazy">
-								</div>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">
-										Mejora de Valor
-									</span>
-								</p>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Ajustes enfocados en rentabilidad máxima.
-									</span>
+									<span class="_link-span03">Creamos plataformas, dashboards y automatizaciones personalizadas para transformar tu operación en un ecosistema digital inteligente.</span>
 								</p>
 
 							</div>
@@ -717,19 +162,18 @@
 						<div class="project-text _sp-pd20">
 							<h2 class="text-heading _link-text01" data-pararax01-text01="0.4">
 								<span class="_link-span02" style="text-align: center !important;">
-									Potencia tu negocio con datos
+									¿Listo para implementar soluciones reales?
 								</span>
 							</h2>
 							<p class="text-client _link-text01" data-pararax01-text01=".7">
 								<span class="_link-span02">
-									Transforma tus estrategias con inteligencia artificial y análisis avanzado.
-									¡Hablemos hoy!
+									Solicita un diagnóstico gratuito. Nuestro equipo te dará una evaluación inicial con oportunidades de mejora y un plan a tu medida.
 								</span>
 							</p>
 							<button onclick="window.location.href='./contacto.php'"
 								class="text-category _link-text01 button-action" data-pararax01-text01="1.0">
 								<span class="_link-span02">
-									Contáctanos ahora
+									Agendar sesión
 								</span>
 							</button>
 						</div>

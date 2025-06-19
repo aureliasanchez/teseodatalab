@@ -426,27 +426,6 @@
 
 								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
 									data-pararax01-img01="0">
-									<img src="../asset/img/pages/equipo/mujeres/mujer2.webp" width="620" height="620" alt="Daniel"
-										loading="lazy">
-								</div>
-								<p class="article-position _link-text01" data-pararax01-text01="0.2">
-									<span class="_link-span03">
-										Associate
-									</span>
-								</p>
-								<p class="article-name _link-text01" data-pararax01-text01="0.4">
-									<span class="_link-span03">
-										America Romero
-									</span>
-								</p>
-
-							</div>
-						</article>
-						<article class="borderColor archive-article opcion3">
-							<div data-pararax01>
-
-								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
-									data-pararax01-img01="0">
 									<img src="../asset/img/pages/equipo/hombres/men2.webp" width="620" height="620" alt="Daniel"
 										loading="lazy">
 								</div>
@@ -481,6 +460,7 @@
 										Miriam Mendoza
 									</span>
 								</p>
+								
 
 							</div>
 						</article>
@@ -502,6 +482,29 @@
 										Karol Ponce
 									</span>
 								</p>
+								
+
+							</div>
+						</article>
+						<article class="borderColor archive-article opcion5">
+							<div data-pararax01>
+
+								<div class="article-img link-img of _link-img01 __inview-img01 opcionesImagenes"
+									data-pararax01-img01="0">
+									<img src="../asset/img/pages/equipo/hombres/men2.webp" width="620" height="620" alt="Daniel"
+										loading="lazy">
+								</div>
+								<p class="article-position _link-text01" data-pararax01-text01="0.2">
+									<span class="_link-span03">
+										Intern
+									</span>
+								</p>
+								<p class="article-name _link-text01" data-pararax01-text01="0.4">
+									<span class="_link-span03">
+										Alonso Servín
+									</span>
+								</p>
+								
 
 							</div>
 						</article>

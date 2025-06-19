@@ -40,13 +40,12 @@
 			<div class="about-header _pc-flex-column _flex-jc-start _pc-pd40 _sp-pd20" data-pararax01>
 				<h1 class="header-heading _heading01  __inview-text01" data-pararax01-text01="0">
 					<span class="heading-main _f-futura_m _futura-lh1 __inview-span01">
-						Convertir datos en impacto real
+						Decisiones más inteligentes
 					</span>
 					<span class="heading-sub __inview-span01 boldText">
-						En
+						
 						<span class="fontRedIntro2">Teseo Data Lab,</span>
-						creemos en el poder de los datos para transformar negocios, optimizar
-						procesos y construir futuros sostenibles.
+						empieza con un equipo más estratégico
 					</span>
 				</h1>
 			</div>
@@ -60,22 +59,13 @@
 						<div class="mission">
 							<h2 class="subtitle">Propósito</h2>
 							<p class="text">
-								Nuestro propósito es empoderar a las empresas mediante soluciones basadas en datos,
-								integrando tecnologías avanzadas como inteligencia artificial (IA) y modelos
-								predictivos.
-								<br>
-								Ayudamos a maximizar recursos, optimizar procesos y adaptarse ágilmente a
-								los constantes cambios del mercado.
+								Empoderar a industrias especializadas —desde bienes raíces hasta manufactura— con insights accionables y tecnología de vanguardia, co-creando soluciones integrales que generen valor sostenible.
 							</p>
 						</div>
 						<div class="vision">
 							<h2 class="subtitle">Visión</h2>
 							<p class="text">
-								Nuestra visión es ser una empresa mexicana en constante evolución, iteración y adopción
-								de tecnologías de clase mundial. Nos enfocamos en desarrollar soluciones únicas e
-								inovadoras que respondan a las necesidades cambiantes del mercado, liderando con
-								estrategias disruptivas y manteniendo un compromiso continuo con la transformación
-								empresarial sostenible.
+								Convertirnos en el socio estratégico global de referencia en innovación basada en datos, anticipando tendencias y evolucionando continuamente nuestras metodologías para impulsar la competitividad de nuestros clientes.
 							</p>
 						</div>
 					</div>
@@ -99,34 +89,31 @@
 									<h2 class="subtitle">
 										<i class="fas fa-lightbulb"></i> Innovación
 									</h2>
-									<p class="text">Adoptamos tecnologías avanzadas para diseñar estrategias
-										disruptivas.</p>
+									<p class="text">Nos adaptamos a cada reto con tecnologías actualizadas</p>
 								</li>
 								<li class="splide__slide">
 									<h2 class="subtitle">
-										<i class="fas fa-bullseye"></i> Precisión
+										<i class="fas fa-bullseye"></i> Rigor analítico
 									</h2>
-									<p class="text">Decisiones informadas gracias a análisis de datos confiables.</p>
+									<p class="text">Cada solución parte de evidencia sólida, cuantitativa y cualitativa</p>
 								</li>
 								<li class="splide__slide">
 									<h2 class="subtitle">
-										<i class="fas fa-handshake"></i> Colaboración
+										<i class="fas fa-handshake"></i>Empatía colaborativa
 									</h2>
-									<p class="text">Trabajamos como una extensión de tu equipo, priorizando tus
-										objetivos.</p>
+									<p class="text">Co-creamos junto a nuestros clientes</p>
 								</li>
 								<li class="splide__slide">
 									<h2 class="subtitle">
-										<i class="fas fa-chart-line"></i> Impacto
+										<i class="fas fa-chart-line"></i> Agilidad adaptable
 									</h2>
-									<p class="text">Nos enfocamos en resultados tangibles y sostenibles para tu
-										negocio.</p>
+									<p class="text">Iteramos rápido, sin perder foco en resultados</p>
 								</li>
 								<li class="splide__slide">
 									<h2 class="subtitle">
-										<i class="fas fa-sync-alt"></i> Adaptabilidad
+										<i class="fas fa-sync-alt"></i> Integridad ejecutiva
 									</h2>
-									<p class="text">Diseñamos soluciones personalizadas para cada desafío único.</p>
+									<p class="text">Ejecutamos con transparencia y compromiso</p>
 								</li>
 
 
